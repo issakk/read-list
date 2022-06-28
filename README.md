@@ -22,7 +22,12 @@
 ## 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-<!-- DecoHack:END -->
+- 🦣 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | Mon Jun 27 2022 12:14 AM
+- 👺 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | Mon Jun 20 2022 1:05 AM
+-  [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) | Tue Jun 14 2022 12:47 AM
+- 🐲 [泛工具产品深度分析 #1 独立产品周刊](https://www.decohack.com/Post/653) | Mon Jun 13 2022 1:19 AM
+- 🦅 [DecoHack #016 独立产品灵感周刊 – 苹果 WWDC 这周来了](https://www.decohack.com/Post/636) | Tue Jun 07 2022 5:28 AM
+- 🧰 [周刊番外篇：Dali Hub 数字游民空间](https://www.decohack.com/Post/619) | Tue Jun 07 2022 5:25 AM<!-- DecoHack:END -->
 
 ## 独立开发变现周刊
 
