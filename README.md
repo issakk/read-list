@@ -41,7 +41,12 @@
 ## 好工具周刊
 
 <!-- bestxtools:START -->
-<!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | Wed Jun 22 2022 4:28 PM
+- 🦩 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1) | Wed Jun 15 2022 6:58 PM
+- 🙉 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1) | Wed Jun 08 2022 5:01 PM
+- 🌏 [好工具周刊（第 15 期）: GitHub Profile Header Generator, Curl UI, Domcomp, 巴别英语, ...](https://discuss-cn.bestxtools.com/d/40/1) | Wed Jun 01 2022 4:49 PM
+- 🕯 [好工具周刊（第 14 期）: GitHub Profile Page Creator, CodeCaptcha, Q.Link, ASCII banners](https://discuss-cn.bestxtools.com/d/39/1) | Wed May 25 2022 5:54 PM
+- 📝 [For RSS 订阅用户：因 cdn.jsdelivr.net DNS 被污染，看不到图片的，请到竹白，GitHub 阅读](https://discuss-cn.bestxtools.com/d/38/1) | Thu May 19 2022 1:19 AM<!-- bestxtools:END -->
 
 ## learnku订阅
 
