@@ -52,7 +52,7 @@
 
 <!-- learnku:START -->
 - 🦆 [Laravel + swoole + redis 实现一对一聊天](https://learnku.com/articles/69154) | Wed Jun 29 2022 5:43 AM
-- 🦆 [Go开发PHP扩展](https://learnku.com/articles/68847) | Sun Jun 19 2022 8:33 PM
--  [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://learnku.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
-- 🌈 [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://learnku.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM
-- 🧑‍🏫 [Laravel 代码重构：使用 Services, Events, Jobs, Actions 来重构控制器方法](https://learnku.com/laravel/t/68751) | Thu Jun 16 2022 3:53 AM<!-- learnku:END -->
+- 🦆 [详解连接池参数设置（边调边看）](https://learnku.com/articles/69111) | Tue Jun 28 2022 5:47 AM
+-  [Go开发PHP扩展](https://learnku.com/articles/68847) | Sun Jun 19 2022 8:33 PM
+- 🌈 [希望大家认真翻译，希望审核者认真审核。而不是匆匆](https://learnku.com/python/t/68786) | Fri Jun 17 2022 7:56 AM
+- 🧑‍🏫 [手把手教你打造一个功能齐全的 Laravel 查询过滤器](https://learnku.com/laravel/t/68762) | Thu Jun 16 2022 6:58 AM<!-- learnku:END -->
