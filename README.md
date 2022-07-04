@@ -52,7 +52,7 @@
 
 <!-- learnku:START -->
 - 🦆 [GoWeb框架Gin学习总结](https://learnku.com/articles/69259) | Fri Jul 01 2022 3:45 AM
-- 🦆 [Laravel + swoole + redis 实现一对一聊天](https://learnku.com/articles/69154) | Wed Jun 29 2022 5:43 AM
--  [详解连接池参数设置（边调边看）](https://learnku.com/articles/69111) | Tue Jun 28 2022 5:47 AM
-- 🌈 [Laravel 扩展推荐：Bouncer —— 角色和权限管理工具](https://learnku.com/laravel/t/68970) | Sat Jun 25 2022 2:43 AM
-- 🧑‍🏫 [Go开发PHP扩展](https://learnku.com/articles/68847) | Sun Jun 19 2022 8:33 PM<!-- learnku:END -->
+- 🦆 [微信、字节、百度、快手小程序、微信App、微信公众号、微信H5（支付、手机号解密、获取Token等功能）](https://learnku.com/articles/69235) | Thu Jun 30 2022 7:58 PM
+-  [Laravel + swoole + redis 实现一对一聊天](https://learnku.com/articles/69154) | Wed Jun 29 2022 5:43 AM
+- 🌈 [详解连接池参数设置（边调边看）](https://learnku.com/articles/69111) | Tue Jun 28 2022 5:47 AM
+- 🧑‍🏫 [Laravel 扩展推荐：Bouncer —— 角色和权限管理工具](https://learnku.com/laravel/t/68970) | Sat Jun 25 2022 2:43 AM<!-- learnku:END -->
