@@ -14,6 +14,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Pull in v2ex posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 6
+          date_format: UTC:yyyy-mm-dd' 'HH:MM:ss' '
+          retry_count: 2
+          rand_seed: "seed1"
+          comment_tag_name: "v2ex"
+          feed_list: "https://www.v2ex.com/index.xml"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date"
       - name: Pull in lcomplete posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
