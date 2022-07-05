@@ -39,7 +39,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 6
-
+          date_format: UTC:yyyy-mm-dd' 'HH:MM:ss' '
           retry_count: 2
           rand_seed: "seed2"
           comment_tag_name: "ruanyf"
