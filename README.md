@@ -1,5 +1,8 @@
 # Blog posts
 ## RSS!
+
+## lcomplete
+
 <!-- lcomplete:START -->
 - 🫶 [🐒 野生架构师成长之路&lpar;1&rpar;——游戏与现实、乌龟与火箭](http://codelc.com/post/growup/s01/) | Thu Apr 21 2022 11:35 AM
 - 🧰 [「野生架构师」周刊](http://codelc.com/post/essay/%E9%87%8E%E7%94%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E5%91%A8%E5%88%8A%E4%BB%8B%E7%BB%8D/) | Wed Apr 13 2022 4:01 AM
@@ -8,7 +11,7 @@
 - 💂 [[10 倍程序员] ⭐ 脚本的魅力，内含 js 写爬虫、python 骚操作等实用代码](http://codelc.com/post/dev/10x/script/) | Mon Dec 06 2021 9:44 PM
 - 🔥 [MySQL 数据库开发规范](http://codelc.com/post/dev/db/mysql_standard/) | Tue Sep 21 2021 9:44 PM<!-- lcomplete:END -->
 
-
+## eryajf
 
 <!-- eryajf:START -->
 - 🫶 [博客接入了CDN，请求大家江湖支援](https://wiki.eryajf.net/pages/5f559d/) | Sat Jul 02 2022 11:28 PM
