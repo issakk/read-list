@@ -49,7 +49,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 6
-
+          date_format: UTC:yyyy-mm-dd' 'HH:MM:ss' '
           retry_count: 2
           rand_seed: "seed3"
           comment_tag_name: "DecoHack"
@@ -59,7 +59,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 6
-
+          date_format: UTC:yyyy-mm-dd' 'HH:MM:ss' '
           retry_count: 2
           rand_seed: "seed4"
           comment_tag_name: "easyindie"
@@ -69,7 +69,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 6
-
+          date_format: UTC:yyyy-mm-dd' 'HH:MM:ss' '
           retry_count: 2
           rand_seed: "seed5"
           comment_tag_name: "bestxtools"
@@ -79,7 +79,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-
+          date_format: UTC:yyyy-mm-dd' 'HH:MM:ss' '
           retry_count: 2
           rand_seed: "learnku"
           comment_tag_name: "learnku"
