@@ -17,7 +17,7 @@ jobs:
       - name: Pull in v2ex posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 6
+          max_post_count: 20
           date_format: UTC:yyyy-mm-dd' 'HH:MM:ss' '
           retry_count: 2
           rand_seed: "seed1"
