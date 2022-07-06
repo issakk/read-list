@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[Windows] 锐龙所有 cpu 都发热严重么，这个笔记本 r75800h，有时候突然九十七八度，最高能到 102 度，有点吓人啊](https://www.v2ex.com/t/864426#reply0) | 2022-07-06 06:06:26 
-- 🧰 [[问与答] 话说那四个薛定谔的唐山女生有人知道后续吗?](https://www.v2ex.com/t/864425#reply0) | 2022-07-06 06:02:50 
-- 🌏 [[程序员] 全程工作在虚拟机环境下是否可行？](https://www.v2ex.com/t/864424#reply2) | 2022-07-06 06:00:32 
-- 😎 [[问与答] gitpress 这么好用为什么网上这么悄声呢?](https://www.v2ex.com/t/864423#reply0) | 2022-07-06 05:57:59 
-- 💂 [[iDev] SwiftUI Image View 内存占用的一个坑...顺便求下解决办法](https://www.v2ex.com/t/864422#reply0) | 2022-07-06 05:56:30 
-- 🔥 [[问与答] 对于 nacos 和 apollo 的配置中心，客户端监听配置文件的下发是增量下发还是全量下发呢？](https://www.v2ex.com/t/864421#reply0) | 2022-07-06 05:55:38 
-- 🦅 [[问与答] 测试环境 Elasticsearch 集群被多次删，请教问题排查办法。](https://www.v2ex.com/t/864420#reply1) | 2022-07-06 05:53:34 
-- 🙉 [[问与答] 最近实在是崩溃，关于工作，关于职业规划](https://www.v2ex.com/t/864418#reply4) | 2022-07-06 05:46:56 
-- 💫 [[Java] ElasticSearch 源码中的 ClusterStateVersion 到底是什么东西](https://www.v2ex.com/t/864417#reply0) | 2022-07-06 05:43:57 
-- 🎓 [[问与答] Windows 上有没有办法自动安装.net framework，双击后自动安装，不用点下一步?](https://www.v2ex.com/t/864415#reply6) | 2022-07-06 05:31:41 
-- 🗽 [[上海] 从上海换工作到杭州的问题](https://www.v2ex.com/t/864414#reply3) | 2022-07-06 05:17:24 
-- ⚗️ [[NAS] 大家往 NAS 里面下载了哪些东西？](https://www.v2ex.com/t/864413#reply12) | 2022-07-06 05:13:18 
-- 🦍 [[成都] 我是推广，有没愿意一起做棋牌类游戏的大神](https://www.v2ex.com/t/864412#reply0) | 2022-07-06 05:07:59 
-- 🤩 [[宽带症候群] 网络通讯大师请进来](https://www.v2ex.com/t/864411#reply4) | 2022-07-06 05:01:32 
-- 🙉 [[程序员] [es]数据分页方案](https://www.v2ex.com/t/864410#reply9) | 2022-07-06 05:00:43 
-- 🌏 [[程序员] 请教老哥们，有哪个工具软件可以模拟多节点网络收发？可以灵活编辑收发逻辑的那种。](https://www.v2ex.com/t/864409#reply0) | 2022-07-06 04:57:13 
-- 🐘 [[程序员] 有没有做 go 智能合约的大佬 求带](https://www.v2ex.com/t/864408#reply1) | 2022-07-06 04:49:48 
-- 🧰 [[问与答] 有没有正则需要转义，能自动完成转义的工具或者在线网站？](https://www.v2ex.com/t/864406#reply1) | 2022-07-06 04:38:22 
-- 💃 [[iOS] 是 iOS 后台管理机制退步了还是现在的程序写得越来越烂了？](https://www.v2ex.com/t/864405#reply11) | 2022-07-06 04:34:09 
-- 🕯 [[生活] 自如将全面更换实名门锁，与公安、房管实时连接，保障居住安全](https://www.v2ex.com/t/864402#reply18) | 2022-07-06 03:54:13 <!-- v2ex:END -->
+- 🫶 [[Linux] 想装个 Linux 主机放在家里当 nas, 有什么便宜主机推荐?](https://www.v2ex.com/t/864440#reply0) | 2022-07-06 06:56:24 
+- 🧰 [[宽带症候群] 上海电信测速问题](https://www.v2ex.com/t/864439#reply2) | 2022-07-06 06:48:01 
+- 🌏 [[程序员] 抽奖赠 3 本《 Python 编程轻松进阶》](https://www.v2ex.com/t/864437#reply1) | 2022-07-06 06:42:52 
+- 😎 [[生活] 和老婆吵架后](https://www.v2ex.com/t/864435#reply3) | 2022-07-06 06:32:48 
+- 💂 [[iPhone] 淘宝 iPhone 第三方的 magsafe 充电套装可靠不?](https://www.v2ex.com/t/864434#reply1) | 2022-07-06 06:31:06 
+- 🔥 [[程序员] PR 渲染机器缝合怪，独显快还是纯 CPU 快？](https://www.v2ex.com/t/864432#reply0) | 2022-07-06 06:27:07 
+- 🦅 [[JavaScript] Bun 发布了 beta 版本: Bun is a fast all-in-one JavaScript runtime](https://www.v2ex.com/t/864431#reply0) | 2022-07-06 06:23:41 
+- 🙉 [[macOS] macOS 13 登陆项添加通知提醒到崩溃](https://www.v2ex.com/t/864430#reply1) | 2022-07-06 06:23:22 
+- 💫 [[职场话题] 今年 35 岁，刚被 HR 叫去，你的部门领导不同意续签合同，赔偿你 3 个月工资总共 1 万多](https://www.v2ex.com/t/864429#reply20) | 2022-07-06 06:19:48 
+- 🎓 [[Windows] 锐龙所有 cpu 都发热严重么，这个笔记本 r75800h，有时候突然九十七八度，最高能到 102 度，有点吓人啊](https://www.v2ex.com/t/864426#reply10) | 2022-07-06 06:06:26 
+- 🗽 [[程序员] 全程工作在虚拟机环境下是否可行？](https://www.v2ex.com/t/864424#reply12) | 2022-07-06 06:00:32 
+- ⚗️ [[问与答] gitpress 这么好用为什么网上这么悄声呢?](https://www.v2ex.com/t/864423#reply0) | 2022-07-06 05:57:59 
+- 🦍 [[iDev] SwiftUI Image View 内存占用的一个坑...顺便求下解决办法](https://www.v2ex.com/t/864422#reply7) | 2022-07-06 05:56:30 
+- 🤩 [[问与答] 对于 nacos 和 apollo 的配置中心，客户端监听配置文件的下发是增量下发还是全量下发呢？](https://www.v2ex.com/t/864421#reply3) | 2022-07-06 05:55:38 
+- 🙉 [[问与答] 测试环境 Elasticsearch 集群被多次删，请教问题排查办法。](https://www.v2ex.com/t/864420#reply1) | 2022-07-06 05:53:34 
+- 🌏 [[问与答] 最近实在是崩溃，关于工作，关于职业规划](https://www.v2ex.com/t/864418#reply4) | 2022-07-06 05:46:56 
+- 🐘 [[Java] ElasticSearch 源码中的 ClusterStateVersion 到底是什么东西](https://www.v2ex.com/t/864417#reply0) | 2022-07-06 05:43:57 
+- 🧰 [[问与答] Windows 上有没有办法自动安装.net framework，双击后自动安装，不用点下一步?](https://www.v2ex.com/t/864415#reply6) | 2022-07-06 05:31:41 
+- 💃 [[上海] 从上海换工作到杭州的问题](https://www.v2ex.com/t/864414#reply7) | 2022-07-06 05:17:24 
+- 🕯 [[NAS] 大家往 NAS 里面下载了哪些东西？](https://www.v2ex.com/t/864413#reply24) | 2022-07-06 05:13:18 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
