@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[问与答] 如何找到打开小程序的快捷指令？](https://www.v2ex.com/t/864333#reply1) | 2022-07-06 00:40:02 
-- 🧰 [[问与答] 百度网盘的性能问题？](https://www.v2ex.com/t/864331#reply2) | 2022-07-05 23:59:30 
-- 🌏 [[问与答] 随身 wifi 断流严重怎么回事？](https://www.v2ex.com/t/864330#reply1) | 2022-07-05 23:45:25 
-- 😎 [[生活] 你享受单身的日子，还能坚持多久？](https://www.v2ex.com/t/864329#reply7) | 2022-07-05 23:44:35 
-- 💂 [[微信] [微信小程序] 字体在安卓机，浏览器，开发者工具都能显示，唯独苹果](https://www.v2ex.com/t/864328#reply1) | 2022-07-05 23:44:06 
-- 🔥 [[macOS] 有没有双 USB type C 显示器输出 + 65W 充电的 hub](https://www.v2ex.com/t/864327#reply3) | 2022-07-05 22:35:59 
-- 🦅 [[Go 编程语言] Go 语言---泛型实战](https://www.v2ex.com/t/864326#reply0) | 2022-07-05 22:01:50 
-- 🙉 [[酷工作] 又有一个坑了，远程工作，自研公司非外包，我直招！ Vue+Node！](https://www.v2ex.com/t/864325#reply3) | 2022-07-05 21:24:26 
-- 💫 [[宽带症候群] 上海电信 v4 公网的网段变了](https://www.v2ex.com/t/864324#reply3) | 2022-07-05 20:13:43 
-- 🎓 [[LeetCode] LeetCode 有史以来最简单的题目](https://www.v2ex.com/t/864323#reply2) | 2022-07-05 20:07:25 
-- 🗽 [[DNS] EasyMosdns 让 mosdns 开箱即用 &lpar;附 DoH&rpar;](https://www.v2ex.com/t/864322#reply3) | 2022-07-05 16:54:51 
-- ⚗️ [[macOS] 有没有人遇到过 Mission Control 随机无效的问题?](https://www.v2ex.com/t/864321#reply0) | 2022-07-05 16:22:46 
-- 🦍 [[分享创造] 领讲台播客 APP 更新 - 支持倍速播放](https://www.v2ex.com/t/864320#reply1) | 2022-07-05 16:10:11 
-- 🤩 [[硬件] 拼多多买的显示器支架不稳固老是掉下来有没有质量好的推荐，不要太贵](https://www.v2ex.com/t/864319#reply6) | 2022-07-05 16:04:00 
-- 🙉 [[Linux] Linux 下有没有简单的可视化工具？](https://www.v2ex.com/t/864318#reply12) | 2022-07-05 15:51:19 
-- 🌏 [[Windows] 升级到 22621 以后 noMeiryoUI 失效了，还有啥靠谱的方法能修改系统显示字体么？](https://www.v2ex.com/t/864317#reply1) | 2022-07-05 15:47:43 
-- 🐘 [[Telegram] Telegram 的两步验证不支持使用第三方 Authenticator，只能使用邮箱发送验证码。](https://www.v2ex.com/t/864314#reply5) | 2022-07-05 15:18:16 
-- 🧰 [[程序员] [计算机网络问题] 机器 A 跑 docker， docker 走桥接网络，跑 openwrt 容器 B， B 运行 clash。接下来把机器 A 的 DNS 和网关设置成 B， ping B 显示 network unreachable](https://www.v2ex.com/t/864313#reply4) | 2022-07-05 15:04:06 
-- 💃 [[程序员] 覆写磁盘的软件推荐](https://www.v2ex.com/t/864312#reply8) | 2022-07-05 14:50:26 
-- 🕯 [[酷工作] 深圳鹰利科技 30~50K 诚聘 Java , 运维](https://www.v2ex.com/t/864311#reply1) | 2022-07-05 14:45:05 <!-- v2ex:END -->
+- 🫶 [[问与答] 轻断食 18+8 第五天了，正常吃瘦了 2 斤，帖子长期记录。](https://www.v2ex.com/t/864388#reply0) | 2022-07-06 03:12:54 
+- 🧰 [[iPhone] 主用美区无故 appleID App Store 被锁](https://www.v2ex.com/t/864387#reply0) | 2022-07-06 03:12:10 
+- 🌏 [[Apple] Mac 远程操控软件求推荐](https://www.v2ex.com/t/864381#reply0) | 2022-07-06 02:49:50 
+- 😎 [[VPS] 搬瓦工 19.9 vps 转让](https://www.v2ex.com/t/864380#reply4) | 2022-07-06 02:45:16 
+- 💂 [[问与答] 有什么输入中英文提示软件吗?](https://www.v2ex.com/t/864379#reply1) | 2022-07-06 02:42:32 
+- 🔥 [[分享发现] 大家常用的学习网站有哪些？](https://www.v2ex.com/t/864378#reply2) | 2022-07-06 02:40:15 
+- 🦅 [[数据库] 写了一篇文章系统的梳理了下事务的隔离级别，希望能对初学者有所帮助](https://www.v2ex.com/t/864377#reply5) | 2022-07-06 02:36:19 
+- 🙉 [[问与答] v 友们，知道在深圳有什么办法给摩托车上牌吗？](https://www.v2ex.com/t/864376#reply0) | 2022-07-06 02:35:54 
+- 💫 [[机械键盘] 我终于找到了理想型 87 键薄膜&lpar;剪刀脚&rpar;键盘](https://www.v2ex.com/t/864375#reply1) | 2022-07-06 02:31:13 
+- 🎓 [[酷工作] 网站开发后端工程师（影视类、视频网站）：年薪 30w 起步，单休，远程工作：](https://www.v2ex.com/t/864374#reply3) | 2022-07-06 02:30:49 
+- 🗽 [[程序员] 工作后最后悔的就是大学没考个研究生](https://www.v2ex.com/t/864373#reply21) | 2022-07-06 02:26:05 
+- ⚗️ [[程序员] 程序员们，你们有走 PDCA 循环吗？帮忙给个建议](https://www.v2ex.com/t/864371#reply4) | 2022-07-06 02:22:06 
+- 🦍 [[NVIDIA] Jellyfin 独立显卡解码 Nvidia 显卡推荐](https://www.v2ex.com/t/864370#reply8) | 2022-07-06 02:14:29 
+- 🤩 [[问与答] 说起程序员这份工作我想起了旧金山淘金者](https://www.v2ex.com/t/864369#reply7) | 2022-07-06 02:14:04 
+- 🙉 [[美酒与美食] 小白求助：招待朋友 200 元以内有什么干红葡萄酒推荐？罗斯柴尔？吉林通化？张裕？长城？内蒙古乌海葡萄酒？附具体酒名发感谢。](https://www.v2ex.com/t/864368#reply4) | 2022-07-06 02:10:35 
+- 🌏 [[Apple] Studio Display 在 Windows 下有没有什么解决方案？](https://www.v2ex.com/t/864366#reply2) | 2022-07-06 02:07:37 
+- 🐘 [[Java] Java on Azure Tooling 的更新 – 2022 年 7 月 – 全新入门体验，管理身份验证支持](https://www.v2ex.com/t/864364#reply0) | 2022-07-06 02:04:51 
+- 🧰 [[分享创造] [计算机词汇] 计算机从业人员必备的口袋小程序](https://www.v2ex.com/t/864363#reply3) | 2022-07-06 02:04:48 
+- 💃 [[问与答] 求推荐一个安卓系统](https://www.v2ex.com/t/864362#reply5) | 2022-07-06 02:03:51 
+- 🕯 [[问与答] 不懂就来问，目前用 NUC5 弄了个黑群晖，迫于里面只能装一个 2.5 寸盘](https://www.v2ex.com/t/864361#reply0) | 2022-07-06 02:01:15 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
