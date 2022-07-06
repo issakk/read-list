@@ -40,12 +40,12 @@
 ## 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 19 期）: Remover.app, Enpuz, regex101, Regexper, Stormah, fffuel, ...](https://discuss-cn.bestxtools.com/d/56/1) | 2022-06-29 17:05:51 
-- 🦩 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | 2022-06-22 16:28:58 
-- 🦄 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1) | 2022-06-15 18:58:45 
-- 🌏 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1) | 2022-06-08 17:01:45 
-- 🕯 [好工具周刊（第 15 期）: GitHub Profile Header Generator, Curl UI, Domcomp, 巴别英语, ...](https://discuss-cn.bestxtools.com/d/40/1) | 2022-06-01 16:49:26 
-- 📝 [好工具周刊（第 14 期）: GitHub Profile Page Creator, CodeCaptcha, Q.Link, ASCII banners](https://discuss-cn.bestxtools.com/d/39/1) | 2022-05-25 17:54:45 <!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, ...](https://discuss-cn.bestxtools.com/d/57/1) | 2022-07-06 17:50:59 
+- 🦩 [好工具周刊（第 19 期）: Remover.app, Enpuz, regex101, Regexper, Stormah, fffuel, ...](https://discuss-cn.bestxtools.com/d/56/1) | 2022-06-29 17:05:51 
+- 🦄 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | 2022-06-22 16:28:58 
+- 🌏 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1) | 2022-06-15 18:58:45 
+- 🕯 [好工具周刊（第 16 期）: JSON Hero, ASCII Art Paint, Puzzle maker, 今天我们来做菜, Tweetlet, ...](https://discuss-cn.bestxtools.com/d/42/1) | 2022-06-08 17:01:45 
+- 📝 [好工具周刊（第 15 期）: GitHub Profile Header Generator, Curl UI, Domcomp, 巴别英语, ...](https://discuss-cn.bestxtools.com/d/40/1) | 2022-06-01 16:49:26 <!-- bestxtools:END -->
 
 
 ## learnku订阅
