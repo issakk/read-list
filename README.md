@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[Apple] 有国外的小伙伴成功抢跑返校活动补发礼物的吗](https://www.v2ex.com/t/864533#reply0) | 2022-07-06 13:36:26 
-- 🧰 [[Apple] MacBook Air M2 将于 7 月 8 日晚 8 点接受订购， 7 月 15 日发售](https://www.v2ex.com/t/864532#reply0) | 2022-07-06 13:32:50 
-- 🌏 [[问与答] 请教各位， mac 上有好用的双因素生成 app 吗](https://www.v2ex.com/t/864529#reply0) | 2022-07-06 13:21:36 
-- 😎 [[程序员] 经济好像真的不景气，转岗的，拿 N+1 的，缩编！](https://www.v2ex.com/t/864528#reply0) | 2022-07-06 13:14:19 
-- 💂 [[MacBook Air] 配备 M2 芯片的 Macbook Air 将于 7 月 8 日晚 8 点接受订购](https://www.v2ex.com/t/864527#reply2) | 2022-07-06 13:08:10 
-- 🔥 [[职场话题] 走还是留还请老哥们给点意见](https://www.v2ex.com/t/864526#reply4) | 2022-07-06 13:07:31 
-- 🦅 [[问与答] 请问我的子域名 CNAME 到了阿里企业邮箱域名，但是使用 https 访问我的子域名会报连接不安全，要怎么配置？](https://www.v2ex.com/t/864525#reply5) | 2022-07-06 13:06:00 
-- 🙉 [[Android] [Android10 定制] 系统级 app 无法正确执行二进制文件](https://www.v2ex.com/t/864524#reply0) | 2022-07-06 13:02:54 
-- 💫 [[问与答] 怎么不去喜欢一个人？](https://www.v2ex.com/t/864522#reply0) | 2022-07-06 12:53:24 
-- 🎓 [[程序员] 经常看代码中出现 drain 这个词，比如 buffer_drain，不知道这个是啥意思](https://www.v2ex.com/t/864521#reply6) | 2022-07-06 12:51:24 
-- 🗽 [[生活] 自己上班像吃 shi，还得硬塞同事怎么办](https://www.v2ex.com/t/864520#reply2) | 2022-07-06 12:50:32 
-- ⚗️ [[奇思妙想] 如何开发一款自己的 PDF 阅读器](https://www.v2ex.com/t/864519#reply6) | 2022-07-06 12:41:45 
-- 🦍 [[程序员] 还是乱码，怎么解决](https://www.v2ex.com/t/864518#reply0) | 2022-07-06 12:39:07 
-- 🤩 [[ACG] 魁拔团队是跑路了吗？](https://www.v2ex.com/t/864516#reply0) | 2022-07-06 12:23:39 
-- 🙉 [[GitHub Copilot] 已经是 copilot 的形状了](https://www.v2ex.com/t/864515#reply4) | 2022-07-06 12:18:42 
-- 🌏 [[程序员] IPv6 的 IPv4 映射地址是否真的有安全问题？](https://www.v2ex.com/t/864514#reply4) | 2022-07-06 12:07:38 
-- 🐘 [[Android] 东抄西搬的个人博客弄得差不多了，大家觉得现在个人博客还有必要吗](https://www.v2ex.com/t/864513#reply13) | 2022-07-06 12:06:35 
-- 🧰 [[iPhone] 从主用美区 Apple ID 被封帖子想到](https://www.v2ex.com/t/864512#reply9) | 2022-07-06 11:57:59 
-- 💃 [[问与答] 请教一个问题、关于能否绕过国内服务器备案](https://www.v2ex.com/t/864511#reply0) | 2022-07-06 11:56:31 
-- 🕯 [[问与答] vscode 有没有办法设置段首缩进](https://www.v2ex.com/t/864510#reply9) | 2022-07-06 11:52:35 <!-- v2ex:END -->
+- 🫶 [[北京] ∵无人问津 ∴首月自刀 100 元， 1 号线古城地铁站附近步行 600 米大主卧 2400 元转租](https://www.v2ex.com/t/864540#reply0) | 2022-07-06 14:04:25 
+- 🧰 [[程序员] 因为陪老婆的时候的时间太少跟老婆爆发了矛盾](https://www.v2ex.com/t/864539#reply2) | 2022-07-06 14:02:09 
+- 🌏 [[Apple] 关于 ipad9 用 infuse 播放杜比视界影片没有画面只有声音](https://www.v2ex.com/t/864538#reply0) | 2022-07-06 13:55:01 
+- 😎 [[程序员] Java Sharding-JDBC 数据库分库分表问题](https://www.v2ex.com/t/864537#reply0) | 2022-07-06 13:49:24 
+- 💂 [[宠物] 有重庆的老哥有猫猫可以领养吗，或则购买](https://www.v2ex.com/t/864536#reply0) | 2022-07-06 13:48:37 
+- 🔥 [[OpenWrt] 求教 openwrt 内 adguardhome 的设置问题](https://www.v2ex.com/t/864535#reply0) | 2022-07-06 13:44:06 
+- 🦅 [[PlayStation 5] 战神：拉格纳罗克，今年 9 月 11 日发售](https://www.v2ex.com/t/864534#reply0) | 2022-07-06 13:40:16 
+- 🙉 [[Apple] 有国外的小伙伴成功抢跑返校活动补发礼物的吗](https://www.v2ex.com/t/864533#reply0) | 2022-07-06 13:36:26 
+- 💫 [[Apple] MacBook Air M2 将于 7 月 8 日晚 8 点接受订购， 7 月 15 日发售](https://www.v2ex.com/t/864532#reply1) | 2022-07-06 13:32:50 
+- 🎓 [[问与答] 请教各位， mac 上有好用的双因素生成 app 吗](https://www.v2ex.com/t/864529#reply1) | 2022-07-06 13:21:36 
+- 🗽 [[程序员] 经济好像真的不景气，转岗的，拿 N+1 的，缩编！](https://www.v2ex.com/t/864528#reply1) | 2022-07-06 13:14:19 
+- ⚗️ [[MacBook Air] 配备 M2 芯片的 Macbook Air 将于 7 月 8 日晚 8 点接受订购](https://www.v2ex.com/t/864527#reply2) | 2022-07-06 13:08:10 
+- 🦍 [[职场话题] 走还是留还请老哥们给点意见](https://www.v2ex.com/t/864526#reply5) | 2022-07-06 13:07:31 
+- 🤩 [[问与答] 请问我的子域名 CNAME 到了阿里企业邮箱域名，但是使用 https 访问我的子域名会报连接不安全，要怎么配置？](https://www.v2ex.com/t/864525#reply5) | 2022-07-06 13:06:00 
+- 🙉 [[Android] [Android10 定制] 系统级 app 无法正确执行二进制文件](https://www.v2ex.com/t/864524#reply1) | 2022-07-06 13:02:54 
+- 🌏 [[问与答] 怎么不去喜欢一个人？](https://www.v2ex.com/t/864522#reply1) | 2022-07-06 12:53:24 
+- 🐘 [[程序员] 经常看代码中出现 drain 这个词，比如 buffer_drain，不知道这个是啥意思](https://www.v2ex.com/t/864521#reply6) | 2022-07-06 12:51:24 
+- 🧰 [[生活] 自己上班像吃 shi，还得硬塞同事怎么办](https://www.v2ex.com/t/864520#reply3) | 2022-07-06 12:50:32 
+- 💃 [[奇思妙想] 如何开发一款自己的 PDF 阅读器](https://www.v2ex.com/t/864519#reply7) | 2022-07-06 12:41:45 
+- 🕯 [[程序员] 还是乱码，怎么解决](https://www.v2ex.com/t/864518#reply0) | 2022-07-06 12:39:07 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
