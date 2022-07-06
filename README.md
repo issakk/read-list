@@ -84,12 +84,12 @@
 ## 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🦣 [独立产品灵感周刊 DecoHack #020 – 如何停止来自金钱的压力](https://www.decohack.com/Post/728) | 2022-07-04 03:31:21 
-- 🤡 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | 2022-06-27 00:14:52 
--  [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | 2022-06-20 01:05:28 
-- 🐲 [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) | 2022-06-14 00:47:32 
-- 🦅 [泛工具产品深度分析 #1 独立产品周刊](https://www.decohack.com/Post/653) | 2022-06-13 01:19:38 
-- 🧰 [DecoHack #016 独立产品灵感周刊 – 苹果 WWDC 这周来了](https://www.decohack.com/Post/636) | 2022-06-07 05:28:00 <!-- DecoHack:END -->
+- 🦣 [海外工具类产品深度分析 #2](https://www.decohack.com/Post/746) | 2022-07-06 01:03:36 
+- 🤡 [独立产品灵感周刊 DecoHack #020 – 如何停止来自金钱的压力](https://www.decohack.com/Post/728) | 2022-07-04 03:31:21 
+-  [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | 2022-06-27 00:14:52 
+- 🐲 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | 2022-06-20 01:05:28 
+- 🦅 [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) | 2022-06-14 00:47:32 
+- 🧰 [泛工具产品深度分析 #1 独立产品周刊](https://www.decohack.com/Post/653) | 2022-06-13 01:19:38 <!-- DecoHack:END -->
 
 ## 独立开发变现周刊
 
