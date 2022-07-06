@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[问与答] 软路由选择困难](https://www.v2ex.com/t/864570#reply0) | 2022-07-06 17:05:18 
-- 🧰 [[程序员] 关于我为了写一个浏览器插件，最后开发了一个浏览器 APP 的故事](https://www.v2ex.com/t/864569#reply0) | 2022-07-06 17:03:36 
-- 🌏 [[Redis] Redis 字符串编码 embstr 有性能优势，为什么要有长度限制呢？](https://www.v2ex.com/t/864567#reply0) | 2022-07-06 16:57:12 
-- 😎 [[MacBook Pro] 关于充电宝充 mbp14](https://www.v2ex.com/t/864565#reply0) | 2022-07-06 16:45:51 
-- 💂 [[Apple] 这算软件工程上的瑕疵吗？ iOS「设置」App](https://www.v2ex.com/t/864564#reply2) | 2022-07-06 16:25:59 
-- 🔥 [[Rust] 想找 Rust 练手项目的可以看看](https://www.v2ex.com/t/864563#reply2) | 2022-07-06 16:10:20 
-- 🦅 [[问与答] 2022 年下半年有什么好的投资标的](https://www.v2ex.com/t/864562#reply0) | 2022-07-06 16:07:32 
-- 🙉 [[Windows] amd ftmp bug 导致的卡顿问题你们怎么看](https://www.v2ex.com/t/864560#reply2) | 2022-07-06 15:54:01 
-- 💫 [[分享发现] iOS App「万达广场」的 bug](https://www.v2ex.com/t/864559#reply0) | 2022-07-06 15:50:40 
-- 🎓 [[宽带症候群] 重庆电信家宽上行只有 30M，更高上行只能选政企方案，求隐藏合适的推荐](https://www.v2ex.com/t/864558#reply0) | 2022-07-06 15:49:26 
-- 🗽 [[Pixel] pixel2xl 电源按键失灵了是要更换整个电源排线吗？](https://www.v2ex.com/t/864557#reply0) | 2022-07-06 15:49:13 
-- ⚗️ [[广州] 广州租房](https://www.v2ex.com/t/864556#reply0) | 2022-07-06 15:27:22 
-- 🦍 [[Apple] 现在还能海淘转运 macbook 吗？](https://www.v2ex.com/t/864555#reply2) | 2022-07-06 15:23:42 
-- 🤩 [[职场话题] offer 选择····](https://www.v2ex.com/t/864554#reply1) | 2022-07-06 15:20:49 
-- 🙉 [[程序员] 发现初中级前端真的好不值钱啊。。。](https://www.v2ex.com/t/864552#reply10) | 2022-07-06 14:59:06 
-- 🌏 [[酷工作] [上海]（秋招、校招开启）招前端（ts + react，直推领导&rpar;，另外（vue ，以及其它岗位皆可内推）](https://www.v2ex.com/t/864551#reply0) | 2022-07-06 14:58:17 
-- 🐘 [[硬件] 台式机 CPU 一直睿频运行需要超频吗？](https://www.v2ex.com/t/864549#reply3) | 2022-07-06 14:50:41 
-- 🧰 [[MacBook Pro] 悔恨自己买了 macbook pro](https://www.v2ex.com/t/864548#reply11) | 2022-07-06 14:48:39 
-- 💃 [[宽带症候群] 向大神求助 使用代理并关闭后，以太网 ip 等信息均分配正常，但 ipv4&amp;6 都无网络访问权限，也无法访问网站。](https://www.v2ex.com/t/864546#reply3) | 2022-07-06 14:25:49 
-- 🕯 [[职场话题] 广州拖欠薪资有啥解决办法?](https://www.v2ex.com/t/864545#reply2) | 2022-07-06 14:20:39 <!-- v2ex:END -->
+- 🫶 [[职场话题] 紫鸟浏览器坑爹，造成亚马逊账号关联了](https://www.v2ex.com/t/864572#reply0) | 2022-07-06 18:01:20 
+- 🧰 [[问与答] 求助：红米 note8 刷 lineageos 后无限重启](https://www.v2ex.com/t/864571#reply0) | 2022-07-06 17:32:46 
+- 🌏 [[问与答] 软路由选择困难](https://www.v2ex.com/t/864570#reply6) | 2022-07-06 17:05:18 
+- 😎 [[程序员] 关于我为了写一个浏览器插件，最后开发了一个浏览器 APP 的故事](https://www.v2ex.com/t/864569#reply2) | 2022-07-06 17:03:36 
+- 💂 [[Redis] Redis 字符串编码 embstr 有性能优势，为什么要有长度限制呢？](https://www.v2ex.com/t/864567#reply0) | 2022-07-06 16:57:12 
+- 🔥 [[MacBook Pro] 关于充电宝充 mbp14](https://www.v2ex.com/t/864565#reply0) | 2022-07-06 16:45:51 
+- 🦅 [[Apple] 这算软件工程上的瑕疵吗？ iOS「设置」App](https://www.v2ex.com/t/864564#reply2) | 2022-07-06 16:25:59 
+- 🙉 [[Rust] 想找 Rust 练手项目的可以看看](https://www.v2ex.com/t/864563#reply2) | 2022-07-06 16:10:20 
+- 💫 [[问与答] 2022 年下半年有什么好的投资标的](https://www.v2ex.com/t/864562#reply0) | 2022-07-06 16:07:32 
+- 🎓 [[Windows] amd ftmp bug 导致的卡顿问题你们怎么看](https://www.v2ex.com/t/864560#reply2) | 2022-07-06 15:54:01 
+- 🗽 [[分享发现] iOS App「万达广场」的 bug](https://www.v2ex.com/t/864559#reply0) | 2022-07-06 15:50:40 
+- ⚗️ [[宽带症候群] 重庆电信家宽上行只有 30M，更高上行只能选政企方案，求隐藏合适的推荐](https://www.v2ex.com/t/864558#reply0) | 2022-07-06 15:49:26 
+- 🦍 [[Pixel] pixel2xl 电源按键失灵了是要更换整个电源排线吗？](https://www.v2ex.com/t/864557#reply0) | 2022-07-06 15:49:13 
+- 🤩 [[广州] 广州租房](https://www.v2ex.com/t/864556#reply0) | 2022-07-06 15:27:22 
+- 🙉 [[Apple] 现在还能海淘转运 macbook 吗？](https://www.v2ex.com/t/864555#reply2) | 2022-07-06 15:23:42 
+- 🌏 [[职场话题] offer 选择····](https://www.v2ex.com/t/864554#reply1) | 2022-07-06 15:20:49 
+- 🐘 [[程序员] 发现初中级前端真的好不值钱啊。。。](https://www.v2ex.com/t/864552#reply10) | 2022-07-06 14:59:06 
+- 🧰 [[酷工作] [上海]（秋招、校招开启）招前端（ts + react，直推领导&rpar;，另外（vue ，以及其它岗位皆可内推）](https://www.v2ex.com/t/864551#reply0) | 2022-07-06 14:58:17 
+- 💃 [[硬件] 台式机 CPU 一直睿频运行需要超频吗？](https://www.v2ex.com/t/864549#reply4) | 2022-07-06 14:50:41 
+- 🕯 [[MacBook Pro] 悔恨自己买了 macbook pro](https://www.v2ex.com/t/864548#reply15) | 2022-07-06 14:48:39 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
