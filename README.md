@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[分享创造] Golang 版本的咪咕音乐下载器](https://www.v2ex.com/t/864911#reply0) | 2022-07-08 05:13:07 
-- 🧰 [[Go 编程语言] 在写 go 的 parser 时，对于语法有定义有一些疑惑](https://www.v2ex.com/t/864910#reply1) | 2022-07-08 04:57:51 
-- 🌏 [[MacBook Pro] M1 如何在 parallels 上安装 ARM 版本的 Win10 和 Win2016 虚拟机](https://www.v2ex.com/t/864909#reply1) | 2022-07-08 04:57:09 
-- 😎 [[Apple] 12mini 有换 13mini 的必要吗？-提问于 2022 年 8 月](https://www.v2ex.com/t/864908#reply0) | 2022-07-08 04:54:15 
-- 💂 [[问与答] 为什么电脑时间不走](https://www.v2ex.com/t/864905#reply2) | 2022-07-08 04:33:23 
-- 🔥 [[Java] 生产服务器需要配置什么 jvm 参数](https://www.v2ex.com/t/864904#reply4) | 2022-07-08 04:22:24 
-- 🦅 [[ WATCH] 关于 autosleep](https://www.v2ex.com/t/864903#reply3) | 2022-07-08 04:21:25 
-- 🙉 [[生活] 去哪买 google voice?](https://www.v2ex.com/t/864902#reply1) | 2022-07-08 04:16:17 
-- 💫 [[酷工作] [上海 HC] #元宇宙#智能虚拟人社交#招募推荐算法/后端开发](https://www.v2ex.com/t/864900#reply0) | 2022-07-08 04:11:13 
-- 🎓 [[跑步] NRC 修该地区以后，依旧可以用](https://www.v2ex.com/t/864899#reply0) | 2022-07-08 04:08:37 
-- 🗽 [[分享发现] 老板跑路,如何挽回部分损失&lpar;限深圳,上海&rpar;](https://www.v2ex.com/t/864898#reply1) | 2022-07-08 04:06:33 
-- ⚗️ [[Linux] pve 直通独显之 PCIE 插槽问题](https://www.v2ex.com/t/864897#reply3) | 2022-07-08 04:02:21 
-- 🦍 [[酷工作] Web3 招聘：前端开发工程师&amp;上海|远程|杭州&amp;35-70 万](https://www.v2ex.com/t/864896#reply0) | 2022-07-08 03:53:32 
-- 🤩 [[分享创造] 您的思绪自留地，来试试我的 App《三省吾身-记录、思考与分享》| 福利：送终身兑换码](https://www.v2ex.com/t/864895#reply23) | 2022-07-08 03:50:13 
-- 🙉 [[问与答] 北京昌平，出美短加白](https://www.v2ex.com/t/864894#reply1) | 2022-07-08 03:47:36 
-- 🌏 [[MacBook Pro] 怎么确认买的二手 MBA 是不是原装的？](https://www.v2ex.com/t/864892#reply0) | 2022-07-08 03:40:31 
-- 🐘 [[职场话题] 后端码农是不是最好不要局限于一名语言？](https://www.v2ex.com/t/864890#reply10) | 2022-07-08 03:38:02 
-- 🧰 [[职场话题] 30 岁，有润美丽国的机会，润还是不润？](https://www.v2ex.com/t/864889#reply37) | 2022-07-08 03:34:24 
-- 💃 [[问与答] 刚面了一个 6 年的前端，页面有 10 张图片每个 1MB， 2000 个用户同时访问需要多大带宽](https://www.v2ex.com/t/864888#reply28) | 2022-07-08 03:31:24 
-- 🕯 [[问与答] iPadOS16 外接显示器微信可以自由缩放窗口,但缩放窗口只能显示左边三分之二的部分,微信一适配 iPadOS16 是不是 M1 Mac 也能运行 iPad 微信然后自由缩放窗口了?到时候手机端有的功能 iPad 都能用,](https://www.v2ex.com/t/864887#reply0) | 2022-07-08 03:30:42 <!-- v2ex:END -->
+- 🫶 [[Swift] Swift Combine 的类型看着真心累啊](https://www.v2ex.com/t/864929#reply0) | 2022-07-08 06:07:12 
+- 🧰 [[程序员] 有什么办法能够快速分享只读 terminal 给同事让他们观看么？](https://www.v2ex.com/t/864928#reply2) | 2022-07-08 06:03:48 
+- 🌏 [[问与答] 有什么适合二十几岁的好玩的玩具推荐吗](https://www.v2ex.com/t/864924#reply8) | 2022-07-08 05:53:04 
+- 😎 [[问与答] 现在有什么非苹果系平板推荐](https://www.v2ex.com/t/864923#reply2) | 2022-07-08 05:48:18 
+- 💂 [[问与答] 两台交换机需要两根线连接吗？](https://www.v2ex.com/t/864922#reply1) | 2022-07-08 05:47:42 
+- 🔥 [[汽车] 大佬们，来讨论下宝马 X1 2.0T 啊](https://www.v2ex.com/t/864921#reply0) | 2022-07-08 05:45:07 
+- 🦅 [[MacBook Pro] 今晚 8 点 M2mba 订购开启，记得冲啊](https://www.v2ex.com/t/864920#reply4) | 2022-07-08 05:43:27 
+- 🙉 [[魂系游戏] Elden Ring 里最喜欢的两把大剑](https://www.v2ex.com/t/864919#reply1) | 2022-07-08 05:42:39 
+- 💫 [[程序员] 说实话，这种东西开源出来感觉有点儿缺德了，各位大佬怎么看](https://www.v2ex.com/t/864918#reply1) | 2022-07-08 05:40:22 
+- 🎓 [[Netflix] 请问下， 5 人车会有被踢掉的情况吗？](https://www.v2ex.com/t/864916#reply0) | 2022-07-08 05:31:30 
+- 🗽 [[分享创造] Obsidian：地表最强 Markdown 文本编辑工具](https://www.v2ex.com/t/864915#reply2) | 2022-07-08 05:30:06 
+- ⚗️ [[问与答] 就业形势有感](https://www.v2ex.com/t/864914#reply13) | 2022-07-08 05:24:54 
+- 🦍 [[宽带症候群] 淘宝办上海移动单宽带 200m 530/年。问卖家是装在他们公司名下的](https://www.v2ex.com/t/864913#reply1) | 2022-07-08 05:22:29 
+- 🤩 [[分享创造] Golang 版本的咪咕音乐下载器](https://www.v2ex.com/t/864911#reply0) | 2022-07-08 05:13:07 
+- 🙉 [[Go 编程语言] 在写 go 的 parser 时，对于语法有定义有一些疑惑](https://www.v2ex.com/t/864910#reply3) | 2022-07-08 04:57:51 
+- 🌏 [[MacBook Pro] M1 如何在 parallels 上安装 ARM 版本的 Win10 和 Win2016 虚拟机](https://www.v2ex.com/t/864909#reply2) | 2022-07-08 04:57:09 
+- 🐘 [[Apple] 12mini 有换 13mini 的必要吗？-提问于 2022 年 8 月](https://www.v2ex.com/t/864908#reply4) | 2022-07-08 04:54:15 
+- 🧰 [[问与答] 为什么电脑时间不走](https://www.v2ex.com/t/864905#reply2) | 2022-07-08 04:33:23 
+- 💃 [[Java] 生产服务器需要配置什么 jvm 参数](https://www.v2ex.com/t/864904#reply11) | 2022-07-08 04:22:24 
+- 🕯 [[ WATCH] 关于 autosleep](https://www.v2ex.com/t/864903#reply5) | 2022-07-08 04:21:25 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
