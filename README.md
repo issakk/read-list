@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[生活] 闲鱼/PDD 上的 Macbook 扩展坞 A2119， 150~200 就能买到是真的假的？](https://www.v2ex.com/t/865010#reply0) | 2022-07-08 13:34:30 
-- 🧰 [[iPad] 持 iPad mini6 蜂窝版的进](https://www.v2ex.com/t/865009#reply0) | 2022-07-08 13:10:16 
-- 🌏 [[问与答] 怎么看待一款数据库用 春秋对比法 进行性能对比的？](https://www.v2ex.com/t/865008#reply0) | 2022-07-08 13:07:29 
-- 😎 [[MacBook Pro] mini LED 可以让“高亮文本”真正“高亮”](https://www.v2ex.com/t/865007#reply1) | 2022-07-08 13:06:46 
-- 💂 [[Apple] M2 MacBook Air，大家抢到了吗](https://www.v2ex.com/t/865006#reply8) | 2022-07-08 12:59:50 
-- 🔥 [[微信] WeChat 又被风控冻结登出了](https://www.v2ex.com/t/865005#reply0) | 2022-07-08 12:54:34 
-- 🦅 [[硬件] 准备入 1080p 360hz 显示器，是不是只要带宽不超 dp spec 就行了，会不会显卡有隐藏限制](https://www.v2ex.com/t/865004#reply5) | 2022-07-08 12:51:56 
-- 🙉 [[Apple] 大家 M2 的 Air 发货时间多久啊?](https://www.v2ex.com/t/865001#reply0) | 2022-07-08 12:13:22 
-- 💫 [[Apple] 你的 M2 Air 预计什么时间送达？](https://www.v2ex.com/t/865000#reply0) | 2022-07-08 12:10:25 
-- 🎓 [[职场话题] 现在是不是没有居民社保了？只有灵活就业？](https://www.v2ex.com/t/864999#reply0) | 2022-07-08 11:49:10 
-- 🗽 [[分享创造] 淘宝上的绕线画大家有了解过吗](https://www.v2ex.com/t/864998#reply1) | 2022-07-08 11:43:24 
-- ⚗️ [[分享发现] openwrt 是要在 wolfssl 这棵树上吊死啊。。](https://www.v2ex.com/t/864996#reply0) | 2022-07-08 11:35:53 
-- 🦍 [[问与答] 从来没见过这种网页，差点上当了](https://www.v2ex.com/t/864995#reply1) | 2022-07-08 11:24:23 
-- 🤩 [[DNS] Cloudflare 要干啥](https://www.v2ex.com/t/864994#reply6) | 2022-07-08 11:14:15 
-- 🙉 [[全球工单系统] vercel 账号被封了，怎么办？](https://www.v2ex.com/t/864993#reply3) | 2022-07-08 11:10:23 
-- 🌏 [[问与答] JDK 的 String 类的 UID 数字值是什么定义出来的？随便敲出来的？还是有什么生成规则吗？ serialVersionUID = -6849794470754667710L](https://www.v2ex.com/t/864992#reply1) | 2022-07-08 11:08:59 
-- 🐘 [[Python] pyqt5 textedit 重写点击事件后无法选中文本](https://www.v2ex.com/t/864991#reply0) | 2022-07-08 11:07:15 
-- 🧰 [[Apple] 有 Mac 下图形化图像数据标注 App 推荐吗？](https://www.v2ex.com/t/864989#reply0) | 2022-07-08 10:52:29 
-- 💃 [[问与答] 如何获取游戏盾的真实 IP，有没有什么方法或者思路？求大神指点。](https://www.v2ex.com/t/864987#reply0) | 2022-07-08 10:37:09 
-- 🕯 [[微信] Play 版本微信修复打开小程序一直更新中？](https://www.v2ex.com/t/864986#reply2) | 2022-07-08 10:26:41 <!-- v2ex:END -->
+- 🫶 [[求职] 现在还有公司找 Java 后端吗？](https://www.v2ex.com/t/865014#reply1) | 2022-07-08 13:54:51 
+- 🧰 [[机器学习] 最近很火的那个中文语音合成器被 Hugging Face 的 CTO + 联合创始人关注了](https://www.v2ex.com/t/865013#reply0) | 2022-07-08 13:50:25 
+- 🌏 [[问与答] OCR 竖排文字（尤其是竖排日语）有什么好的解决方案吗？](https://www.v2ex.com/t/865012#reply1) | 2022-07-08 13:44:42 
+- 😎 [[生活] 闲鱼/PDD 上的 Macbook 扩展坞 A2119， 150~200 就能买到是真的假的？](https://www.v2ex.com/t/865010#reply0) | 2022-07-08 13:34:30 
+- 💂 [[iPad] 持 iPad mini6 蜂窝版的进](https://www.v2ex.com/t/865009#reply0) | 2022-07-08 13:10:16 
+- 🔥 [[问与答] 怎么看待一款数据库用 春秋对比法 进行性能对比的？](https://www.v2ex.com/t/865008#reply2) | 2022-07-08 13:07:29 
+- 🦅 [[MacBook Pro] mini LED 可以让“高亮文本”真正“高亮”](https://www.v2ex.com/t/865007#reply1) | 2022-07-08 13:06:46 
+- 🙉 [[Apple] M2 MacBook Air，大家抢到了吗](https://www.v2ex.com/t/865006#reply8) | 2022-07-08 12:59:50 
+- 💫 [[微信] WeChat 又被风控冻结登出了](https://www.v2ex.com/t/865005#reply4) | 2022-07-08 12:54:34 
+- 🎓 [[硬件] 准备入 1080p 360hz 显示器，是不是只要带宽不超 dp spec 就行了，会不会显卡有隐藏限制](https://www.v2ex.com/t/865004#reply5) | 2022-07-08 12:51:56 
+- 🗽 [[Apple] 大家 M2 的 Air 发货时间多久啊?](https://www.v2ex.com/t/865001#reply0) | 2022-07-08 12:13:22 
+- ⚗️ [[Apple] 你的 M2 Air 预计什么时间送达？](https://www.v2ex.com/t/865000#reply0) | 2022-07-08 12:10:25 
+- 🦍 [[职场话题] 现在是不是没有居民社保了？只有灵活就业？](https://www.v2ex.com/t/864999#reply1) | 2022-07-08 11:49:10 
+- 🤩 [[分享创造] 淘宝上的绕线画大家有了解过吗](https://www.v2ex.com/t/864998#reply1) | 2022-07-08 11:43:24 
+- 🙉 [[分享发现] openwrt 是要在 wolfssl 这棵树上吊死啊。。](https://www.v2ex.com/t/864996#reply0) | 2022-07-08 11:35:53 
+- 🌏 [[问与答] 从来没见过这种网页，差点上当了](https://www.v2ex.com/t/864995#reply1) | 2022-07-08 11:24:23 
+- 🐘 [[DNS] Cloudflare 要干啥](https://www.v2ex.com/t/864994#reply7) | 2022-07-08 11:14:15 
+- 🧰 [[全球工单系统] vercel 账号被封了，怎么办？](https://www.v2ex.com/t/864993#reply3) | 2022-07-08 11:10:23 
+- 💃 [[问与答] JDK 的 String 类的 UID 数字值是什么定义出来的？随便敲出来的？还是有什么生成规则吗？ serialVersionUID = -6849794470754667710L](https://www.v2ex.com/t/864992#reply1) | 2022-07-08 11:08:59 
+- 🕯 [[Python] pyqt5 textedit 重写点击事件后无法选中文本](https://www.v2ex.com/t/864991#reply0) | 2022-07-08 11:07:15 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
