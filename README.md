@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[程序员] ［讨论帖］为什么会出现“一边公司招人难，一边求职者找工作难”的问题](https://www.v2ex.com/t/865031#reply0) | 2022-07-08 16:03:55 
-- 🧰 [[游戏] NS 的斯普拉遁 3（喷射战士 3）会有国行版吗？](https://www.v2ex.com/t/865030#reply0) | 2022-07-08 16:01:45 
-- 🌏 [[Docker] 请教 docker 挂载目录文件不同步的问题](https://www.v2ex.com/t/865029#reply0) | 2022-07-08 16:00:12 
-- 😎 [[问与答] 没产品没 ui 需求不明确都是怎么开发的](https://www.v2ex.com/t/865028#reply0) | 2022-07-08 15:56:54 
-- 💂 [[宽带症候群] V 友们，怎么样投诉才能取消长城宽带合约并退款呢？](https://www.v2ex.com/t/865027#reply0) | 2022-07-08 15:46:36 
-- 🔥 [[Apple] 这是个什么沙雕公司？ 广州爱奇旅信息科技有限公司，](https://www.v2ex.com/t/865024#reply1) | 2022-07-08 15:18:59 
-- 🦅 [[全球工单系统] QQ 被盗号发黄图，真给我“长脸”了](https://www.v2ex.com/t/865022#reply1) | 2022-07-08 14:58:57 
-- 🙉 [[酷工作] 远程工作，自研公司非外包，我直招！ Vue+Node！](https://www.v2ex.com/t/865020#reply0) | 2022-07-08 14:54:49 
-- 💫 [[酷工作] 即将转正却在试用期打算辞退了，好气！](https://www.v2ex.com/t/865019#reply2) | 2022-07-08 14:39:48 
-- 🎓 [[宽带症候群] 旁软路由添加 IPV6](https://www.v2ex.com/t/865018#reply0) | 2022-07-08 14:33:49 
-- 🗽 [[程序员] breakpad 怎么调试带有动态链接库的程序](https://www.v2ex.com/t/865017#reply0) | 2022-07-08 14:30:22 
-- ⚗️ [[问与答] Python smtp 协议发送邮件贼鸡儿慢](https://www.v2ex.com/t/865016#reply3) | 2022-07-08 14:26:19 
-- 🦍 [[职场话题] 大家愿意付费模拟 FB/Amazon/Google 家的面试吗？（Mock Interview）](https://www.v2ex.com/t/865015#reply8) | 2022-07-08 14:16:54 
-- 🤩 [[求职] 现在还有公司找 Java 后端吗？](https://www.v2ex.com/t/865014#reply2) | 2022-07-08 13:54:51 
-- 🙉 [[机器学习] 最近很火的那个中文语音合成器被 Hugging Face 的 CTO + 联合创始人关注了](https://www.v2ex.com/t/865013#reply0) | 2022-07-08 13:50:25 
-- 🌏 [[问与答] OCR 竖排文字（尤其是竖排日语）有什么好的解决方案吗？](https://www.v2ex.com/t/865012#reply1) | 2022-07-08 13:44:42 
-- 🐘 [[生活] 闲鱼/PDD 上的 Macbook 扩展坞 A2119， 150~200 就能买到是真的假的？](https://www.v2ex.com/t/865010#reply1) | 2022-07-08 13:34:30 
-- 🧰 [[iPad] 持 iPad mini6 蜂窝版的进](https://www.v2ex.com/t/865009#reply0) | 2022-07-08 13:10:16 
-- 💃 [[问与答] 怎么看待一款数据库用 春秋对比法 进行性能对比的？](https://www.v2ex.com/t/865008#reply8) | 2022-07-08 13:07:29 
-- 🕯 [[MacBook Pro] mini LED 可以让“高亮文本”真正“高亮”](https://www.v2ex.com/t/865007#reply2) | 2022-07-08 13:06:46 <!-- v2ex:END -->
+- 🫶 [[GitHub Copilot] Copylot , hmm ... 有点意思](https://www.v2ex.com/t/865038#reply0) | 2022-07-08 17:09:55 
+- 🧰 [[Python] Python 中的类和函数的区别是什么？](https://www.v2ex.com/t/865037#reply0) | 2022-07-08 17:02:18 
+- 🌏 [[Cloudflare] Cloudflare Pages 自动适应 React 等 SPA 的 history router](https://www.v2ex.com/t/865036#reply0) | 2022-07-08 16:46:34 
+- 😎 [[Apple] M2 Air 最耐用的颜色是银色？](https://www.v2ex.com/t/865034#reply0) | 2022-07-08 16:36:14 
+- 💂 [[问与答] win10 系统,桌面右键的 排序方式 这个选项怎么给删除掉.](https://www.v2ex.com/t/865033#reply0) | 2022-07-08 16:30:13 
+- 🔥 [[Python] 最近写的一个基于 Raft 算法定义的分布式运维软件](https://www.v2ex.com/t/865032#reply0) | 2022-07-08 16:10:17 
+- 🦅 [[程序员] ［讨论帖］为什么会出现“一边公司招人难，一边求职者找工作难”的问题](https://www.v2ex.com/t/865031#reply3) | 2022-07-08 16:03:55 
+- 🙉 [[游戏] NS 的斯普拉遁 3（喷射战士 3）会有国行版吗？](https://www.v2ex.com/t/865030#reply1) | 2022-07-08 16:01:45 
+- 💫 [[Docker] 请教 docker 挂载目录文件不同步的问题](https://www.v2ex.com/t/865029#reply1) | 2022-07-08 16:00:12 
+- 🎓 [[问与答] 没产品没 ui 需求不明确都是怎么开发的](https://www.v2ex.com/t/865028#reply1) | 2022-07-08 15:56:54 
+- 🗽 [[宽带症候群] V 友们，怎么样投诉才能取消长城宽带合约并退款呢？](https://www.v2ex.com/t/865027#reply1) | 2022-07-08 15:46:36 
+- ⚗️ [[Apple] 这是个什么沙雕公司？ 广州爱奇旅信息科技有限公司，](https://www.v2ex.com/t/865024#reply2) | 2022-07-08 15:18:59 
+- 🦍 [[全球工单系统] QQ 被盗号发黄图，真给我“长脸”了](https://www.v2ex.com/t/865022#reply2) | 2022-07-08 14:58:57 
+- 🤩 [[酷工作] 远程工作，自研公司非外包，我直招！ Vue+Node！](https://www.v2ex.com/t/865020#reply0) | 2022-07-08 14:54:49 
+- 🙉 [[职场话题] 即将转正却在试用期打算辞退了，好气！](https://www.v2ex.com/t/865019#reply5) | 2022-07-08 14:39:48 
+- 🌏 [[宽带症候群] 旁软路由添加 IPV6](https://www.v2ex.com/t/865018#reply0) | 2022-07-08 14:33:49 
+- 🐘 [[程序员] breakpad 怎么调试带有动态链接库的程序](https://www.v2ex.com/t/865017#reply0) | 2022-07-08 14:30:22 
+- 🧰 [[问与答] Python smtp 协议发送邮件贼鸡儿慢](https://www.v2ex.com/t/865016#reply3) | 2022-07-08 14:26:19 
+- 💃 [[职场话题] 大家愿意付费模拟 FB/Amazon/Google 家的面试吗？（Mock Interview）](https://www.v2ex.com/t/865015#reply13) | 2022-07-08 14:16:54 
+- 🕯 [[求职] 现在还有公司找 Java 后端吗？](https://www.v2ex.com/t/865014#reply2) | 2022-07-08 13:54:51 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
