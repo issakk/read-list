@@ -94,12 +94,12 @@
 ## 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第61期） : 我们是如何构建一个100万美元年收入开源SaaS的？](https://www.ezindie.com/weekly/issue-61) | 2022-07-01 00:00:00 
-- 💡 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | 2022-06-24 00:00:00 
-- 🌋 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59) | 2022-06-16 00:00:00 
-- 🕴 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58) | 2022-06-09 00:00:00 
-- 🎊 [独立开发变现周刊（第57期） : 开发一个免费照片编辑器，一个人每月收入10万美元](https://www.ezindie.com/weekly/issue-57) | 2022-06-02 00:00:00 
-- 🤔 [独立开发变现周刊（第56期） : 一个基于Notion的项目管理小产品](https://www.ezindie.com/weekly/issue-56) | 2022-05-26 00:00:00 <!-- easyindie:END -->
+- 💂 [独立开发变现周刊（第62期） : 我是如何开发一个年收入30万美金的Vue.js开源组件库的？](https://www.ezindie.com/weekly/issue-62) | 2022-07-08 00:00:00 
+- 💡 [独立开发变现周刊（第61期） : 我们是如何构建一个100万美元年收入开源SaaS的？](https://www.ezindie.com/weekly/issue-61) | 2022-07-01 00:00:00 
+- 🌋 [独立开发变现周刊（第60期） : 如何在30多个国家建立150万美元的年收入产品](https://www.ezindie.com/weekly/issue-60) | 2022-06-24 00:00:00 
+- 🕴 [独立开发变现周刊（第59期） : 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元](https://www.ezindie.com/weekly/issue-59) | 2022-06-16 00:00:00 
+- 🎊 [独立开发变现周刊（第58期） : 预售CSS课程，卖出55万美元](https://www.ezindie.com/weekly/issue-58) | 2022-06-09 00:00:00 
+- 🤔 [独立开发变现周刊（第57期） : 开发一个免费照片编辑器，一个人每月收入10万美元](https://www.ezindie.com/weekly/issue-57) | 2022-06-02 00:00:00 <!-- easyindie:END -->
 
 
 
