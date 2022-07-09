@@ -72,12 +72,12 @@
 ## eryajf
 
 <!-- eryajf:START -->
-- 🫶 [博客接入了CDN，请求大家江湖支援](https://wiki.eryajf.net/pages/5f559d/) | 2022-07-02 23:28:29 
-- 🧰 [学习周刊-总第60期-2022年第25周](https://wiki.eryajf.net/pages/bff449/) | 2022-07-02 11:07:05 
-- 🌏 [利用GitHub Actions自动获取博客rss文章](https://wiki.eryajf.net/pages/1b1ba3/) | 2022-06-27 16:39:27 
-- 😎 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) | 2022-06-24 15:52:01 
-- 💂 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) | 2022-06-22 17:20:54 
-- 🔥 [我的开源项目汇总](https://wiki.eryajf.net/pages/67892e/) | 2022-06-19 10:56:00 <!-- eryajf:END -->
+- 🫶 [学习周刊-总第61期-2022年第26周](https://wiki.eryajf.net/pages/703307/) | 2022-07-09 14:45:59 
+- 🧰 [博客接入了CDN，请求大家江湖支援](https://wiki.eryajf.net/pages/5f559d/) | 2022-07-02 23:28:29 
+- 🌏 [学习周刊-总第60期-2022年第25周](https://wiki.eryajf.net/pages/bff449/) | 2022-07-02 11:07:05 
+- 😎 [利用GitHub Actions自动获取博客rss文章](https://wiki.eryajf.net/pages/1b1ba3/) | 2022-06-27 16:39:27 
+- 💂 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) | 2022-06-24 15:52:01 
+- 🔥 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) | 2022-06-22 17:20:54 <!-- eryajf:END -->
 
 
 
