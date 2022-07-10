@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[宽带症候群] ipv6 地址也有人扫描？](https://www.v2ex.com/t/865274#reply2) | 2022-07-10 09:52:26 
-- 🧰 [[CentOS] 请教 vps 内外网卡均显示内网 ip 地址问题, 如何修改](https://www.v2ex.com/t/865272#reply3) | 2022-07-10 09:48:50 
-- 🌏 [[Netflix] 上车 带我一个 滴滴](https://www.v2ex.com/t/865271#reply0) | 2022-07-10 09:42:26 
-- 😎 [[问与答] 现在的大环境是否适合考公？](https://www.v2ex.com/t/865269#reply22) | 2022-07-10 08:57:34 
-- 💂 [[问与答] Spotify 的 Windows 客户端窗口为什么总自己变的很大？](https://www.v2ex.com/t/865267#reply0) | 2022-07-10 08:45:57 
-- 🔥 [[问与答] 迫于小区 2 台电梯装监控需要 1 万，请问有没有什么好的监控方案?](https://www.v2ex.com/t/865266#reply15) | 2022-07-10 08:43:32 
-- 🦅 [[问与答] 寻找类似数据库的文件管理软件， window 平台下。](https://www.v2ex.com/t/865264#reply5) | 2022-07-10 08:32:34 
-- 🙉 [[游戏主机] 突然发现国行的 ps5 已经不缺货了](https://www.v2ex.com/t/865263#reply4) | 2022-07-10 08:20:33 
-- 💫 [[问与答] 哎,有狗咬人](https://www.v2ex.com/t/865262#reply11) | 2022-07-10 08:11:02 
-- 🎓 [[宽带症候群] WI-FI6 多客户端速率疑问](https://www.v2ex.com/t/865261#reply9) | 2022-07-10 08:10:21 
-- 🗽 [[分享发现] 薅 uber eats 新用户 45 美元羊毛发现 uber 识别到 iOS 设备之前用过新用户羊毛,请问一下 uber 是怎么检测到的?买二手机岂不是很多羊毛都没办法薅? iPhone 重新刷机可以绕开设备 ID 检测吗?](https://www.v2ex.com/t/865260#reply9) | 2022-07-10 08:09:43 
-- ⚗️ [[职场话题] 互联网/传统 IT 领域除了美国大厂，还有哪些不错的外企？](https://www.v2ex.com/t/865257#reply1) | 2022-07-10 07:55:36 
-- 🦍 [[酷工作] [求职]上海有 Java 或者架构方向的工作机会吗](https://www.v2ex.com/t/865256#reply2) | 2022-07-10 07:50:58 
-- 🤩 [[职场话题] 劳动仲裁成功！获赔 2N。](https://www.v2ex.com/t/865255#reply35) | 2022-07-10 07:49:55 
-- 🙉 [[Google] 头条搜索（m.toutiao.com）最近攻占了 Google 中文结果页？](https://www.v2ex.com/t/865254#reply11) | 2022-07-10 07:37:58 
-- 🌏 [[Apple] Apple One 美区 空出 1 座位 99/季，长期稳定的来！](https://www.v2ex.com/t/865253#reply9) | 2022-07-10 07:31:28 
-- 🐘 [[程序员] 我自己指向内网的域名都被污染了](https://www.v2ex.com/t/865252#reply9) | 2022-07-10 07:24:13 
-- 🧰 [[Visual Studio Code] 微软发布 VS Code Server 了~ 目前是 private preview 阶段](https://www.v2ex.com/t/865250#reply7) | 2022-07-10 07:15:30 
-- 💃 [[MacBook Pro] [请教] Studio Display 似乎没有跑满雷雳 3 的 40Gbps 传输速度](https://www.v2ex.com/t/865249#reply7) | 2022-07-10 07:10:33 
-- 🕯 [[硬件] 为什么 Anker 的无线充电器这么贵](https://www.v2ex.com/t/865248#reply8) | 2022-07-10 06:45:44 <!-- v2ex:END -->
+- 🫶 [[Python] 请教个问题，将 excel 中的数据生成折线图并保存在 excel 中，要求手动打开 excel 时还可以操作该折线图](https://www.v2ex.com/t/865284#reply0) | 2022-07-10 10:57:11 
+- 🧰 [[问与答] 现在大家都用什么软件或者工具存储和使用 Code Snippets?](https://www.v2ex.com/t/865283#reply1) | 2022-07-10 10:56:29 
+- 🌏 [[JavaScript] 六年前端准备重学 JS，有啥路线吗？](https://www.v2ex.com/t/865282#reply4) | 2022-07-10 10:46:22 
+- 😎 [[程序员] 安卓短信转发 app，方便多卡手机用户](https://www.v2ex.com/t/865281#reply0) | 2022-07-10 10:40:16 
+- 💂 [[宽带症候群] 请教大家一个 udp 问题](https://www.v2ex.com/t/865280#reply1) | 2022-07-10 10:23:32 
+- 🔥 [[问与答] 无锡泊客电商的一些疑问](https://www.v2ex.com/t/865279#reply0) | 2022-07-10 10:22:59 
+- 🦅 [[宽带症候群] [求助]移动光猫 dt720-cs 改桥接](https://www.v2ex.com/t/865278#reply0) | 2022-07-10 10:11:53 
+- 🙉 [[深圳] 现在找租房真是费时又费力！](https://www.v2ex.com/t/865275#reply4) | 2022-07-10 10:07:07 
+- 💫 [[宽带症候群] ipv6 地址也有人扫描？](https://www.v2ex.com/t/865274#reply3) | 2022-07-10 09:52:26 
+- 🎓 [[CentOS] 请教 vps 内外网卡均显示内网 ip 地址问题, 如何修改](https://www.v2ex.com/t/865272#reply3) | 2022-07-10 09:48:50 
+- 🗽 [[Netflix] 上车 带我一个 滴滴](https://www.v2ex.com/t/865271#reply0) | 2022-07-10 09:42:26 
+- ⚗️ [[问与答] Spotify 的 Windows 客户端窗口为什么总自己变的很大？](https://www.v2ex.com/t/865267#reply0) | 2022-07-10 08:45:57 
+- 🦍 [[问与答] 迫于小区 2 台电梯装监控需要 1 万，请问有没有什么好的监控方案?](https://www.v2ex.com/t/865266#reply17) | 2022-07-10 08:43:32 
+- 🤩 [[问与答] 寻找类似数据库的文件管理软件， window 平台下。](https://www.v2ex.com/t/865264#reply8) | 2022-07-10 08:32:34 
+- 🙉 [[游戏主机] 突然发现国行的 ps5 已经不缺货了](https://www.v2ex.com/t/865263#reply9) | 2022-07-10 08:20:33 
+- 🌏 [[宽带症候群] WI-FI6 多客户端速率疑问](https://www.v2ex.com/t/865261#reply12) | 2022-07-10 08:10:21 
+- 🐘 [[职场话题] 互联网/传统 IT 领域除了美国大厂，还有哪些不错的外企？](https://www.v2ex.com/t/865257#reply1) | 2022-07-10 07:55:36 
+- 🧰 [[酷工作] [求职]上海有 Java 或者架构方向的工作机会吗](https://www.v2ex.com/t/865256#reply2) | 2022-07-10 07:50:58 
+- 💃 [[职场话题] 劳动仲裁成功！获赔 2N。](https://www.v2ex.com/t/865255#reply41) | 2022-07-10 07:49:55 
+- 🕯 [[Google] 头条搜索（m.toutiao.com）最近攻占了 Google 中文结果页？](https://www.v2ex.com/t/865254#reply12) | 2022-07-10 07:37:58 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
