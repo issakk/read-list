@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[DNS] 大佬们, windows 下有什么劫持 DNS 的软件吗?](https://www.v2ex.com/t/865397#reply0) | 2022-07-11 04:24:58 
-- 🧰 [[问与答] 一个 nginx 的问题好奇是怎么做到的，比如 node.js 不是访问 js 文件而是跳转到指定页面](https://www.v2ex.com/t/865395#reply3) | 2022-07-11 04:02:30 
-- 🌏 [[CSS] 请教大佬一个前端开发的问题。](https://www.v2ex.com/t/865394#reply0) | 2022-07-11 03:59:41 
-- 😎 [[求职] 5 年 Java 求个远程工作，会一些前端和大数据，做过数据中台](https://www.v2ex.com/t/865393#reply0) | 2022-07-11 03:55:50 
-- 💂 [[问与答] [tailwind css/ windi css 用法讨论] width 大家是使用 w-2 还是 w-[8px] 这样的显示推断？](https://www.v2ex.com/t/865392#reply2) | 2022-07-11 03:53:51 
-- 🔥 [[Apple] 请教各位如何从安卓转移短信到 iPhone](https://www.v2ex.com/t/865391#reply0) | 2022-07-11 03:50:22 
-- 🦅 [[Python] 如何改变一个方法里的常量](https://www.v2ex.com/t/865390#reply3) | 2022-07-11 03:48:37 
-- 🙉 [[问与答] 2022 上海中考语文作文题：这不过是个开场。](https://www.v2ex.com/t/865388#reply2) | 2022-07-11 03:43:58 
-- 💫 [[程序员] 在公司发表发明专利有什么好处？](https://www.v2ex.com/t/865386#reply6) | 2022-07-11 03:35:47 
-- 🎓 [[程序员] 新成为 helmfile 项目核心维护者，声明式管理 helm chart，求志同道合的小伙伴一起参与](https://www.v2ex.com/t/865385#reply1) | 2022-07-11 03:35:23 
-- 🗽 [[Telegram] Telegram 群聊没有输入框，群成员消息只能看到气泡，是怎么回事？](https://www.v2ex.com/t/865383#reply1) | 2022-07-11 03:30:27 
-- ⚗️ [[iPhone] 熊猫吃短信不能吃 Apple Watch 上的辣鸡短信？](https://www.v2ex.com/t/865382#reply5) | 2022-07-11 03:27:54 
-- 🦍 [[酷工作] Web3 招聘：合约测试工程师&amp;上海|远程|杭州&amp;30-60 万](https://www.v2ex.com/t/865381#reply0) | 2022-07-11 03:25:40 
-- 🤩 [[问与答] 前端 Nuxt:可以既用 generate 生成部分静态化页面，其他页面又能继续使用服务端渲染吗](https://www.v2ex.com/t/865380#reply0) | 2022-07-11 03:25:36 
-- 🙉 [[深圳] 由于小孩上学，希望市内迁移一下，有人有渠道吗？](https://www.v2ex.com/t/865379#reply2) | 2022-07-11 03:19:35 
-- 🌏 [[Telegram] 国内真的有人深度使用 Telegram（除币圈和搞 H 色](https://www.v2ex.com/t/865378#reply38) | 2022-07-11 03:18:30 
-- 🐘 [[分享创造] 分享一个模拟朋友圈集赞工具。](https://www.v2ex.com/t/865375#reply10) | 2022-07-11 03:06:52 
-- 🧰 [[云计算] 在预算有限的情况下，服务器放在哪里能兼顾全球用户啊？](https://www.v2ex.com/t/865374#reply5) | 2022-07-11 03:05:46 
-- 💃 [[宽带症候群] 甲骨文 japan 是不是不能注册了，试了三次，提示“Error processing transaction”](https://www.v2ex.com/t/865372#reply3) | 2022-07-11 03:04:39 
-- 🕯 [[酷工作] [武汉前端] 腾讯武汉子公司招聘前端开发](https://www.v2ex.com/t/865371#reply1) | 2022-07-11 02:54:42 <!-- v2ex:END -->
+- 🫶 [[macOS] Mac 两个屏幕一个软件开两个窗口各放一个屏幕显示，点击 dock 栏或者切换应用的时候怎么才能不让两个屏幕同时显示这个软件呢](https://www.v2ex.com/t/865404#reply0) | 2022-07-11 05:10:53 
+- 🧰 [[iPhone] 突然发现 iOS 和微信有点像](https://www.v2ex.com/t/865401#reply2) | 2022-07-11 04:58:21 
+- 🌏 [[程序员] Seenvoy: 一个 envoy 配置的可视化面板，欢迎试用](https://www.v2ex.com/t/865400#reply1) | 2022-07-11 04:56:50 
+- 😎 [[问与答] 豆瓣帖子内容被 AdGuard 误拦截](https://www.v2ex.com/t/865399#reply0) | 2022-07-11 04:41:08 
+- 💂 [[程序员] 有人用 gitlab 极狐吗，体验如何](https://www.v2ex.com/t/865398#reply2) | 2022-07-11 04:35:58 
+- 🔥 [[DNS] 大佬们, windows 下有什么劫持 DNS 的软件吗?](https://www.v2ex.com/t/865397#reply2) | 2022-07-11 04:24:58 
+- 🦅 [[问与答] 一个 nginx 的问题好奇是怎么做到的，比如 node.js 不是访问 js 文件而是跳转到指定页面](https://www.v2ex.com/t/865395#reply7) | 2022-07-11 04:02:30 
+- 🙉 [[CSS] 请教大佬一个前端开发的问题。](https://www.v2ex.com/t/865394#reply1) | 2022-07-11 03:59:41 
+- 💫 [[求职] 5 年 Java 求个远程工作，会一些前端和大数据，做过数据中台](https://www.v2ex.com/t/865393#reply0) | 2022-07-11 03:55:50 
+- 🎓 [[问与答] [tailwind css/ windi css 用法讨论] width 大家是使用 w-2 还是 w-[8px] 这样的显示推断？](https://www.v2ex.com/t/865392#reply3) | 2022-07-11 03:53:51 
+- 🗽 [[Apple] 请教各位如何从安卓转移短信到 iPhone](https://www.v2ex.com/t/865391#reply0) | 2022-07-11 03:50:22 
+- ⚗️ [[Python] 如何改变一个方法里的常量](https://www.v2ex.com/t/865390#reply4) | 2022-07-11 03:48:37 
+- 🦍 [[问与答] 2022 上海中考语文作文题：这不过是个开场。](https://www.v2ex.com/t/865388#reply3) | 2022-07-11 03:43:58 
+- 🤩 [[程序员] 在公司发表发明专利有什么好处？](https://www.v2ex.com/t/865386#reply9) | 2022-07-11 03:35:47 
+- 🙉 [[程序员] 新成为 helmfile 项目核心维护者，声明式管理 helm chart，求志同道合的小伙伴一起参与](https://www.v2ex.com/t/865385#reply2) | 2022-07-11 03:35:23 
+- 🌏 [[Telegram] Telegram 群聊没有输入框，群成员消息只能看到气泡，是怎么回事？](https://www.v2ex.com/t/865383#reply1) | 2022-07-11 03:30:27 
+- 🐘 [[iPhone] 熊猫吃短信不能吃 Apple Watch 上的辣鸡短信？](https://www.v2ex.com/t/865382#reply8) | 2022-07-11 03:27:54 
+- 🧰 [[酷工作] Web3 招聘：合约测试工程师&amp;上海|远程|杭州&amp;30-60 万](https://www.v2ex.com/t/865381#reply0) | 2022-07-11 03:25:40 
+- 💃 [[问与答] 前端 Nuxt:可以既用 generate 生成部分静态化页面，其他页面又能继续使用服务端渲染吗](https://www.v2ex.com/t/865380#reply0) | 2022-07-11 03:25:36 
+- 🕯 [[深圳] 由于小孩上学，希望市内迁移一下，有人有渠道吗？](https://www.v2ex.com/t/865379#reply2) | 2022-07-11 03:19:35 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
