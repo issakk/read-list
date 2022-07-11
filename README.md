@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[酷工作] [武汉前端] 腾讯武汉子公司招聘前端开发](https://www.v2ex.com/t/865371#reply0) | 2022-07-11 02:54:42 
-- 🧰 [[求职] 深圳三年 Java 求职，做过物联网通信](https://www.v2ex.com/t/865370#reply0) | 2022-07-11 02:52:43 
-- 🌏 [[全球工单系统] QQ 音乐 Mac 客户端占用上行带宽，怎么干掉？](https://www.v2ex.com/t/865369#reply0) | 2022-07-11 02:52:09 
-- 😎 [[路由器] 求个 ROS 网关掉线自动切换的脚本呀！](https://www.v2ex.com/t/865368#reply2) | 2022-07-11 02:51:33 
-- 💂 [[问与答] 19 年毕业的菜鸡后端请教学习技巧](https://www.v2ex.com/t/865367#reply0) | 2022-07-11 02:51:17 
-- 🔥 [[程序员] 如何看待 WPS 会审查文件内容，可能导致用户、文件被封](https://www.v2ex.com/t/865365#reply12) | 2022-07-11 02:39:54 
-- 🦅 [[硬件] 既然轻薄本和游戏本，最大的区别是散热，那为什么不外接一根金属导热管，把热量排走呢？](https://www.v2ex.com/t/865364#reply7) | 2022-07-11 02:37:47 
-- 🙉 [[Apple] Apple Watch 进水失控？](https://www.v2ex.com/t/865363#reply2) | 2022-07-11 02:32:05 
-- 💫 [[问与答] LG Ergo 显示器求推荐](https://www.v2ex.com/t/865362#reply2) | 2022-07-11 02:31:38 
-- 🎓 [[问与答] 招行朝朝宝、交行活期盈有必要转为存款吗](https://www.v2ex.com/t/865361#reply18) | 2022-07-11 02:25:09 
-- 🗽 [[iPhone] 吐槽贴， 618 天猫官方买的 iPhone13 后摄像头有粒灰尘。](https://www.v2ex.com/t/865360#reply7) | 2022-07-11 02:21:12 
-- ⚗️ [[Firefox] Firefox 有没有办法按照当前系统启用不同的扩展？](https://www.v2ex.com/t/865359#reply1) | 2022-07-11 02:19:40 
-- 🦍 [[酷工作] 15K-25K 招聘海外产品运营，远程办公](https://www.v2ex.com/t/865358#reply0) | 2022-07-11 02:19:31 
-- 🤩 [[Node.js] Nestjs 最佳实践教程:5 自动验证,序列化与异常处理](https://www.v2ex.com/t/865357#reply0) | 2022-07-11 02:18:18 
-- 🙉 [[Apple] m1 芯片的 macbook pro 视频播放音画不同步](https://www.v2ex.com/t/865356#reply1) | 2022-07-11 02:13:44 
-- 🌏 [[问与答] 原本就是 Markdown 语法的文本，复制到 Notion 中如何让它解析？](https://www.v2ex.com/t/865355#reply14) | 2022-07-11 02:07:08 
-- 🐘 [[macOS] 想换电脑了，旧 macbook 怎么伪装成坏掉的样子](https://www.v2ex.com/t/865354#reply42) | 2022-07-11 02:06:42 
-- 🧰 [[Google] 账户验证详细过程](https://www.v2ex.com/t/865352#reply4) | 2022-07-11 01:57:18 
-- 💃 [[MacBook Pro] 有什么快速从 macOS 到 Windows（BootCamp）的快速切换的方法？](https://www.v2ex.com/t/865351#reply2) | 2022-07-11 01:56:44 
-- 🕯 [[问与答] mac 电源适配器连接线进水，无法充电](https://www.v2ex.com/t/865350#reply0) | 2022-07-11 01:55:31 <!-- v2ex:END -->
+- 🫶 [[DNS] 大佬们, windows 下有什么劫持 DNS 的软件吗?](https://www.v2ex.com/t/865397#reply0) | 2022-07-11 04:24:58 
+- 🧰 [[问与答] 一个 nginx 的问题好奇是怎么做到的，比如 node.js 不是访问 js 文件而是跳转到指定页面](https://www.v2ex.com/t/865395#reply3) | 2022-07-11 04:02:30 
+- 🌏 [[CSS] 请教大佬一个前端开发的问题。](https://www.v2ex.com/t/865394#reply0) | 2022-07-11 03:59:41 
+- 😎 [[求职] 5 年 Java 求个远程工作，会一些前端和大数据，做过数据中台](https://www.v2ex.com/t/865393#reply0) | 2022-07-11 03:55:50 
+- 💂 [[问与答] [tailwind css/ windi css 用法讨论] width 大家是使用 w-2 还是 w-[8px] 这样的显示推断？](https://www.v2ex.com/t/865392#reply2) | 2022-07-11 03:53:51 
+- 🔥 [[Apple] 请教各位如何从安卓转移短信到 iPhone](https://www.v2ex.com/t/865391#reply0) | 2022-07-11 03:50:22 
+- 🦅 [[Python] 如何改变一个方法里的常量](https://www.v2ex.com/t/865390#reply3) | 2022-07-11 03:48:37 
+- 🙉 [[问与答] 2022 上海中考语文作文题：这不过是个开场。](https://www.v2ex.com/t/865388#reply2) | 2022-07-11 03:43:58 
+- 💫 [[程序员] 在公司发表发明专利有什么好处？](https://www.v2ex.com/t/865386#reply6) | 2022-07-11 03:35:47 
+- 🎓 [[程序员] 新成为 helmfile 项目核心维护者，声明式管理 helm chart，求志同道合的小伙伴一起参与](https://www.v2ex.com/t/865385#reply1) | 2022-07-11 03:35:23 
+- 🗽 [[Telegram] Telegram 群聊没有输入框，群成员消息只能看到气泡，是怎么回事？](https://www.v2ex.com/t/865383#reply1) | 2022-07-11 03:30:27 
+- ⚗️ [[iPhone] 熊猫吃短信不能吃 Apple Watch 上的辣鸡短信？](https://www.v2ex.com/t/865382#reply5) | 2022-07-11 03:27:54 
+- 🦍 [[酷工作] Web3 招聘：合约测试工程师&amp;上海|远程|杭州&amp;30-60 万](https://www.v2ex.com/t/865381#reply0) | 2022-07-11 03:25:40 
+- 🤩 [[问与答] 前端 Nuxt:可以既用 generate 生成部分静态化页面，其他页面又能继续使用服务端渲染吗](https://www.v2ex.com/t/865380#reply0) | 2022-07-11 03:25:36 
+- 🙉 [[深圳] 由于小孩上学，希望市内迁移一下，有人有渠道吗？](https://www.v2ex.com/t/865379#reply2) | 2022-07-11 03:19:35 
+- 🌏 [[Telegram] 国内真的有人深度使用 Telegram（除币圈和搞 H 色](https://www.v2ex.com/t/865378#reply38) | 2022-07-11 03:18:30 
+- 🐘 [[分享创造] 分享一个模拟朋友圈集赞工具。](https://www.v2ex.com/t/865375#reply10) | 2022-07-11 03:06:52 
+- 🧰 [[云计算] 在预算有限的情况下，服务器放在哪里能兼顾全球用户啊？](https://www.v2ex.com/t/865374#reply5) | 2022-07-11 03:05:46 
+- 💃 [[宽带症候群] 甲骨文 japan 是不是不能注册了，试了三次，提示“Error processing transaction”](https://www.v2ex.com/t/865372#reply3) | 2022-07-11 03:04:39 
+- 🕯 [[酷工作] [武汉前端] 腾讯武汉子公司招聘前端开发](https://www.v2ex.com/t/865371#reply1) | 2022-07-11 02:54:42 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
