@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[C#] 有什么类库可以实现用 XSD 创建示例 XML？](https://www.v2ex.com/t/865607#reply0) | 2022-07-12 03:03:23 
-- 🧰 [[分享发现] 英语零基础背单词半年](https://www.v2ex.com/t/865606#reply4) | 2022-07-12 03:02:17 
-- 🌏 [[分享发现] 美区 YouTube 在 iOS 设备上可以 pip 了，也算是有生之年系列了吧](https://www.v2ex.com/t/865604#reply2) | 2022-07-12 02:58:57 
-- 😎 [[程序员] 关于接口设计原则和设计模式](https://www.v2ex.com/t/865602#reply1) | 2022-07-12 02:56:42 
-- 💂 [[Python] 全知全能的 v2er, 来探讨一个问题](https://www.v2ex.com/t/865601#reply1) | 2022-07-12 02:52:07 
-- 🔥 [[Google] 请问在大陆使用境外 sim 卡流量上网，并在使用过程中开启定位， sim 卡的 ip 会被 Google 定位中国吗？](https://www.v2ex.com/t/865600#reply2) | 2022-07-12 02:41:33 
-- 🦅 [[问与答] clash for windows 的 rule 模式没法连接公司内网怎么破](https://www.v2ex.com/t/865599#reply5) | 2022-07-12 02:40:04 
-- 🙉 [[问与答] 请教大佬一个 leetcode 上 c++解答的问题](https://www.v2ex.com/t/865597#reply3) | 2022-07-12 02:39:43 
-- 💫 [[程序员] 吐槽一下统信系统](https://www.v2ex.com/t/865596#reply0) | 2022-07-12 02:35:09 
-- 🎓 [[Apple] 求推荐适合 M1 芯片的扩展坞](https://www.v2ex.com/t/865595#reply5) | 2022-07-12 02:27:43 
-- 🗽 [[MacBook Pro] mbp 换电池除了官方,tb 维修所谓的原装靠谱吗?](https://www.v2ex.com/t/865593#reply1) | 2022-07-12 02:23:05 
-- ⚗️ [[上海] 上海打工人求足球野球组织⚽️](https://www.v2ex.com/t/865592#reply0) | 2022-07-12 02:22:40 
-- 🦍 [[Linux] 各位大牛，有谁有 cadence 通过 LSF 提交作业的脚本和算例](https://www.v2ex.com/t/865589#reply0) | 2022-07-12 02:13:51 
-- 🤩 [[Apple] 关于隔空投送设备显示问题](https://www.v2ex.com/t/865587#reply1) | 2022-07-12 02:08:35 
-- 🙉 [[问与答] 请问 tg 上有哪些安全风险，我是 macos+ios](https://www.v2ex.com/t/865585#reply1) | 2022-07-12 02:05:45 
-- 🌏 [[Go 编程语言] GoLand 疯狂刷 go mod list -m -json all](https://www.v2ex.com/t/865584#reply3) | 2022-07-12 02:03:34 
-- 🐘 [[分享创造] 油谷 - 油价查询（送码福利）](https://www.v2ex.com/t/865582#reply12) | 2022-07-12 02:02:21 
-- 🧰 [[微信] 怀疑微信会根据聊天记录投放广告](https://www.v2ex.com/t/865581#reply16) | 2022-07-12 02:02:17 
-- 💃 [[分享发现] 关于 vscode 的问题：自动更换主题背景，还有中英文设置](https://www.v2ex.com/t/865580#reply3) | 2022-07-12 02:01:06 
-- 🕯 [[PHP] laravel 重定向 https 变 http 问题](https://www.v2ex.com/t/865579#reply3) | 2022-07-12 01:59:54 <!-- v2ex:END -->
+- 🫶 [[宽带症候群] 移动要推类似 CN2 的精品网，叫 CMIN2，各位如何看待](https://www.v2ex.com/t/865643#reply1) | 2022-07-12 04:46:29 
+- 🧰 [[问与答] 由于 goroutine 的栈不同，所以 CGO 时需要发生栈切换、导致额外性能开销。所以 GO 的系统调用是否性能更低一些？](https://www.v2ex.com/t/865642#reply0) | 2022-07-12 04:39:14 
+- 🌏 [[Edge] 怎么让 Edge 停止微软账户自动上传访问和搜索记录？](https://www.v2ex.com/t/865639#reply2) | 2022-07-12 04:27:37 
+- 😎 [[Visual Studio Code] Vim easymotion 中文增强](https://www.v2ex.com/t/865637#reply0) | 2022-07-12 04:23:11 
+- 💂 [[Apple] 关于 妙控板 Magic Trackpad 2 配合 Mac 体验不佳的问题](https://www.v2ex.com/t/865636#reply5) | 2022-07-12 04:21:28 
+- 🔥 [[问与答] 寻求 Windows 无隐私问题，并且好用的第三方输入法](https://www.v2ex.com/t/865634#reply4) | 2022-07-12 04:18:11 
+- 🦅 [[iPhone] iphone12 拍 4k 几分钟就自动停止了，是 bug 被修复了吗](https://www.v2ex.com/t/865633#reply0) | 2022-07-12 04:17:56 
+- 🙉 [[程序员] 有人用过 shopify 的 Hydrogen 吗](https://www.v2ex.com/t/865631#reply0) | 2022-07-12 04:13:27 
+- 💫 [[问与答] 社交平台上的 sticker 能不能用来遮挡信息？](https://www.v2ex.com/t/865630#reply0) | 2022-07-12 04:08:51 
+- 🎓 [[程序员] x86 架构的处理器可以运行 armeabi-v7a 指令吗？](https://www.v2ex.com/t/865629#reply4) | 2022-07-12 03:54:10 
+- 🗽 [[问与答] 电信宽带 2 年老客户，送千元手机？](https://www.v2ex.com/t/865628#reply7) | 2022-07-12 03:50:15 
+- ⚗️ [[分享发现] 发现一个存储于 github 仓库的网页笔记程序](https://www.v2ex.com/t/865627#reply0) | 2022-07-12 03:45:54 
+- 🦍 [[问与答] 发现抖音一个很厉害的地方](https://www.v2ex.com/t/865626#reply11) | 2022-07-12 03:45:34 
+- 🤩 [[分享发现] 有大佬知道这种代码网站是用啥技术弄出来的吗？](https://www.v2ex.com/t/865625#reply2) | 2022-07-12 03:44:25 
+- 🙉 [[问与答] 做为程序员，你们会信任自动驾驶么？](https://www.v2ex.com/t/865624#reply18) | 2022-07-12 03:42:04 
+- 🌏 [[Apple] 用 edu 邮箱通过教育优惠买的 iPad Air 5 发货了](https://www.v2ex.com/t/865623#reply1) | 2022-07-12 03:42:02 
+- 🐘 [[问与答] 微信和支付宝是否存在特权小程序，不用询问直接调取姓名](https://www.v2ex.com/t/865622#reply1) | 2022-07-12 03:41:57 
+- 🧰 [[深圳] [整租] 华达园公寓 30 平 全新布置 居家环境 3/5/7 号线地铁口](https://www.v2ex.com/t/865621#reply0) | 2022-07-12 03:40:51 
+- 💃 [[分享创造] 制作了一组简洁的 CSS 基础样式，为 demo 提供轻量的美化](https://www.v2ex.com/t/865620#reply0) | 2022-07-12 03:40:43 
+- 🕯 [[Java] 请教，如何根据时间生成有序号码？](https://www.v2ex.com/t/865619#reply3) | 2022-07-12 03:38:22 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
