@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[宽带症候群] 移动要推类似 CN2 的精品网，叫 CMIN2，各位如何看待](https://www.v2ex.com/t/865643#reply1) | 2022-07-12 04:46:29 
-- 🧰 [[问与答] 由于 goroutine 的栈不同，所以 CGO 时需要发生栈切换、导致额外性能开销。所以 GO 的系统调用是否性能更低一些？](https://www.v2ex.com/t/865642#reply0) | 2022-07-12 04:39:14 
-- 🌏 [[Edge] 怎么让 Edge 停止微软账户自动上传访问和搜索记录？](https://www.v2ex.com/t/865639#reply2) | 2022-07-12 04:27:37 
-- 😎 [[Visual Studio Code] Vim easymotion 中文增强](https://www.v2ex.com/t/865637#reply0) | 2022-07-12 04:23:11 
-- 💂 [[Apple] 关于 妙控板 Magic Trackpad 2 配合 Mac 体验不佳的问题](https://www.v2ex.com/t/865636#reply5) | 2022-07-12 04:21:28 
-- 🔥 [[问与答] 寻求 Windows 无隐私问题，并且好用的第三方输入法](https://www.v2ex.com/t/865634#reply4) | 2022-07-12 04:18:11 
-- 🦅 [[iPhone] iphone12 拍 4k 几分钟就自动停止了，是 bug 被修复了吗](https://www.v2ex.com/t/865633#reply0) | 2022-07-12 04:17:56 
-- 🙉 [[程序员] 有人用过 shopify 的 Hydrogen 吗](https://www.v2ex.com/t/865631#reply0) | 2022-07-12 04:13:27 
-- 💫 [[问与答] 社交平台上的 sticker 能不能用来遮挡信息？](https://www.v2ex.com/t/865630#reply0) | 2022-07-12 04:08:51 
-- 🎓 [[程序员] x86 架构的处理器可以运行 armeabi-v7a 指令吗？](https://www.v2ex.com/t/865629#reply4) | 2022-07-12 03:54:10 
-- 🗽 [[问与答] 电信宽带 2 年老客户，送千元手机？](https://www.v2ex.com/t/865628#reply7) | 2022-07-12 03:50:15 
-- ⚗️ [[分享发现] 发现一个存储于 github 仓库的网页笔记程序](https://www.v2ex.com/t/865627#reply0) | 2022-07-12 03:45:54 
-- 🦍 [[问与答] 发现抖音一个很厉害的地方](https://www.v2ex.com/t/865626#reply11) | 2022-07-12 03:45:34 
-- 🤩 [[分享发现] 有大佬知道这种代码网站是用啥技术弄出来的吗？](https://www.v2ex.com/t/865625#reply2) | 2022-07-12 03:44:25 
-- 🙉 [[问与答] 做为程序员，你们会信任自动驾驶么？](https://www.v2ex.com/t/865624#reply18) | 2022-07-12 03:42:04 
-- 🌏 [[Apple] 用 edu 邮箱通过教育优惠买的 iPad Air 5 发货了](https://www.v2ex.com/t/865623#reply1) | 2022-07-12 03:42:02 
-- 🐘 [[问与答] 微信和支付宝是否存在特权小程序，不用询问直接调取姓名](https://www.v2ex.com/t/865622#reply1) | 2022-07-12 03:41:57 
-- 🧰 [[深圳] [整租] 华达园公寓 30 平 全新布置 居家环境 3/5/7 号线地铁口](https://www.v2ex.com/t/865621#reply0) | 2022-07-12 03:40:51 
-- 💃 [[分享创造] 制作了一组简洁的 CSS 基础样式，为 demo 提供轻量的美化](https://www.v2ex.com/t/865620#reply0) | 2022-07-12 03:40:43 
-- 🕯 [[Java] 请教，如何根据时间生成有序号码？](https://www.v2ex.com/t/865619#reply3) | 2022-07-12 03:38:22 <!-- v2ex:END -->
+- 🫶 [[Apple] IOS 16 空间音频强化 太赞了](https://www.v2ex.com/t/865645#reply5) | 2022-07-12 04:58:55 
+- 🧰 [[程序员] 有没有技术比较强但是运营/盈利一般的公司？](https://www.v2ex.com/t/865644#reply12) | 2022-07-12 04:52:16 
+- 🌏 [[宽带症候群] 移动要推类似 CN2 的精品网，叫 CMIN2，各位如何看待](https://www.v2ex.com/t/865643#reply5) | 2022-07-12 04:46:29 
+- 😎 [[问与答] 由于 goroutine 的栈不同，所以 CGO 时需要发生栈切换、导致额外性能开销。所以 GO 的系统调用是否性能更低一些？](https://www.v2ex.com/t/865642#reply0) | 2022-07-12 04:39:14 
+- 💂 [[Edge] 怎么让 Edge 停止微软账户自动上传访问和搜索记录？](https://www.v2ex.com/t/865639#reply2) | 2022-07-12 04:27:37 
+- 🔥 [[Visual Studio Code] Vim easymotion 中文增强](https://www.v2ex.com/t/865637#reply0) | 2022-07-12 04:23:11 
+- 🦅 [[Apple] 关于 妙控板 Magic Trackpad 2 配合 Mac 体验不佳的问题](https://www.v2ex.com/t/865636#reply9) | 2022-07-12 04:21:28 
+- 🙉 [[问与答] 寻求 Windows 无隐私问题，并且好用的第三方输入法](https://www.v2ex.com/t/865634#reply4) | 2022-07-12 04:18:11 
+- 💫 [[iPhone] iphone12 拍 4k 几分钟就自动停止了，是 bug 被修复了吗](https://www.v2ex.com/t/865633#reply0) | 2022-07-12 04:17:56 
+- 🎓 [[程序员] 有人用过 shopify 的 Hydrogen 吗](https://www.v2ex.com/t/865631#reply1) | 2022-07-12 04:13:27 
+- 🗽 [[问与答] 社交平台上的 sticker 能不能用来遮挡信息？](https://www.v2ex.com/t/865630#reply1) | 2022-07-12 04:08:51 
+- ⚗️ [[程序员] x86 架构的处理器可以运行 armeabi-v7a 指令吗？](https://www.v2ex.com/t/865629#reply5) | 2022-07-12 03:54:10 
+- 🦍 [[问与答] 电信宽带 2 年老客户，送千元手机？](https://www.v2ex.com/t/865628#reply7) | 2022-07-12 03:50:15 
+- 🤩 [[分享发现] 发现一个存储于 github 仓库的网页笔记程序](https://www.v2ex.com/t/865627#reply0) | 2022-07-12 03:45:54 
+- 🙉 [[问与答] 发现抖音一个很厉害的地方](https://www.v2ex.com/t/865626#reply14) | 2022-07-12 03:45:34 
+- 🌏 [[分享发现] 有大佬知道这种代码网站是用啥技术弄出来的吗？](https://www.v2ex.com/t/865625#reply3) | 2022-07-12 03:44:25 
+- 🐘 [[问与答] 做为程序员，你们会信任自动驾驶么？](https://www.v2ex.com/t/865624#reply32) | 2022-07-12 03:42:04 
+- 🧰 [[Apple] 用 edu 邮箱通过教育优惠买的 iPad Air 5 发货了](https://www.v2ex.com/t/865623#reply1) | 2022-07-12 03:42:02 
+- 💃 [[问与答] 微信和支付宝是否存在特权小程序，不用询问直接调取姓名](https://www.v2ex.com/t/865622#reply1) | 2022-07-12 03:41:57 
+- 🕯 [[深圳] [整租] 华达园公寓 30 平 全新布置 居家环境 3/5/7 号线地铁口](https://www.v2ex.com/t/865621#reply1) | 2022-07-12 03:40:51 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
