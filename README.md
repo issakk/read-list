@@ -6,26 +6,30 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[VirtualBox] 机器较老， VirtualBox 跑哪一个 Linux 发行版较流畅？](https://www.v2ex.com/t/865696#reply2) | 2022-07-12 08:02:23 
-- 🧰 [[问与答] 用国外盗版的网站模板有风险吗](https://www.v2ex.com/t/865695#reply0) | 2022-07-12 08:00:20 
-- 🌏 [[问与答] 有什么好玩的双人游戏](https://www.v2ex.com/t/865694#reply4) | 2022-07-12 07:58:28 
-- 😎 [[问与答] 抖音的 OpenApi 可以获取短视频内容在自己的 app 内播放么？](https://www.v2ex.com/t/865693#reply0) | 2022-07-12 07:48:16 
-- 💂 [[Linux] KVM 下 Windows 虚拟机 CPU 性能过低](https://www.v2ex.com/t/865692#reply2) | 2022-07-12 07:47:39 
-- 🔥 [[Go 编程语言] golin 编译不过，求解](https://www.v2ex.com/t/865691#reply0) | 2022-07-12 07:44:58 
-- 🦅 [[问与答] 有关国家规定办公室空调问题](https://www.v2ex.com/t/865690#reply4) | 2022-07-12 07:39:16 
-- 🙉 [[酷工作] [上海/北京/南京/成都/广州][校招/社招内推] 星环科技招人，外企风格，岗位多多](https://www.v2ex.com/t/865689#reply4) | 2022-07-12 07:36:14 
-- 💫 [[问与答] 请教关于分布式系统日志处理、健康检查、链路追踪、流量控制相关](https://www.v2ex.com/t/865688#reply5) | 2022-07-12 07:35:37 
-- 🎓 [[酷工作] [开源/远程] RSS3 母公司 Natural Selection Labs 提供最酷最理想最自由的工作 | 前端/全栈工程师](https://www.v2ex.com/t/865687#reply2) | 2022-07-12 07:29:59 
-- 🗽 [[iCloud] 为什么 iCloud private rely 不支持 Chrome 浏览器 和 App? 人在美国 iCloud private rely 用的 cloudflare 服务器速度真的爽](https://www.v2ex.com/t/865685#reply1) | 2022-07-12 07:24:20 
-- ⚗️ [[求职] [上海][实习/校招求职]23 届前端， React + TS，坐标南京，校招目标 base 上海/杭州（北京），目前比较迷茫，求老哥指点迷津，附简历概要，有愿意校招/实习要我的老哥也可以回复我下~](https://www.v2ex.com/t/865684#reply4) | 2022-07-12 07:23:39 
-- 🦍 [[问与答] 现在有没有什么 阅读类或者音乐类的 开放平台··](https://www.v2ex.com/t/865682#reply0) | 2022-07-12 07:13:18 
-- 🤩 [[VPS] 有愿意换着 vps 用的吗？](https://www.v2ex.com/t/865680#reply4) | 2022-07-12 07:05:41 
-- 🙉 [[Go 编程语言] 询问下 Go 的这个语法是否存在](https://www.v2ex.com/t/865679#reply3) | 2022-07-12 07:03:45 
-- 🌏 [[问与答] 求助成都华西医院附近的租房，短租一个月左右](https://www.v2ex.com/t/865678#reply0) | 2022-07-12 07:02:59 
-- 🐘 [[iPhone] iPhone7 要不要升级系统](https://www.v2ex.com/t/865677#reply1) | 2022-07-12 07:02:44 
-- 🧰 [[问与答] 油价 you jia](https://www.v2ex.com/t/865676#reply0) | 2022-07-12 07:01:34 
-- 💃 [[Apple] MacBook Pro 外接显示器使用，一盒盖，外接妙控板就卡顿](https://www.v2ex.com/t/865674#reply0) | 2022-07-12 06:53:34 
-- 🕯 [[Telegram] Telegram 全網搜索查找系統&lpar;電報群、電報頻道、機器人&rpar;](https://www.v2ex.com/t/865673#reply0) | 2022-07-12 06:49:05 <!-- v2ex:END -->
+- 🫶 [[Kubernetes] Visual Studio Code Java 问卷调研 —— 云原生开发](https://www.v2ex.com/t/865719#reply0) | 2022-07-12 09:09:45 
+- 🧰 [[区块链] 成都的打着区块链旗号的公司是不是都是搞交易所的？](https://www.v2ex.com/t/865718#reply1) | 2022-07-12 09:05:47 
+- 🌏 [[iOS] 看到 ios16 支持 message 发送后再编辑。我突然想到一个问题](https://www.v2ex.com/t/865717#reply2) | 2022-07-12 09:01:46 
+- 😎 [[问与答] Ubuntu18.04 下 xsd 检验失败](https://www.v2ex.com/t/865715#reply0) | 2022-07-12 08:58:08 
+- 💂 [[酷工作] 网络开发工程师
+base：上海/北京/深圳
+客户：国内头部量化机构
+经验：需要网络组件开发经验，但是是 C/C++ 网络开发
+补充：网络库开发， c++11、tcp/ip、网络编程等掌握](https://www.v2ex.com/t/865714#reply0) | 2022-07-12 08:55:56 
+- 🔥 [[问与答] 有没有办法能批量抓取 APP 的商品轮播图呢](https://www.v2ex.com/t/865713#reply1) | 2022-07-12 08:54:20 
+- 🦅 [[程序员] 用国外盗版的网站模板有风险吗](https://www.v2ex.com/t/865712#reply6) | 2022-07-12 08:51:10 
+- 🙉 [[北京] V 友们， 2 个人北京海淀租房，公司在清河站附近，预算 2000 左右，怎么租最合适啊](https://www.v2ex.com/t/865710#reply2) | 2022-07-12 08:47:43 
+- 💫 [[Vue.js] 求教 html 字符串替换 关键词 为 组件 怎样能得到 Jsx ？](https://www.v2ex.com/t/865709#reply5) | 2022-07-12 08:44:01 
+- 🎓 [[问与答] 国内吐槽微信，国外吐槽 facebook](https://www.v2ex.com/t/865708#reply6) | 2022-07-12 08:40:15 
+- 🗽 [[长沙] 长沙产品+技术交流群](https://www.v2ex.com/t/865707#reply0) | 2022-07-12 08:35:32 
+- ⚗️ [[酷工作] [深圳/福州/南京/西安] [社招内推] 丰疆智能·移动 APP 软件研发大量招聘 2022](https://www.v2ex.com/t/865706#reply0) | 2022-07-12 08:34:32 
+- 🦍 [[音乐] 有没有听 EDM 的 太好听了](https://www.v2ex.com/t/865705#reply0) | 2022-07-12 08:33:25 
+- 🤩 [[成都] v2 成都技术交流 3.0 群招新](https://www.v2ex.com/t/865704#reply7) | 2022-07-12 08:30:19 
+- 🙉 [[问与答] MacBook air m1 突然出现这样的粉条纹是什么个情况](https://www.v2ex.com/t/865703#reply0) | 2022-07-12 08:29:23 
+- 🌏 [[iPhone] 14.4.2 越狱后重启是不是恢复正常系统？被新版 thor 搞疯了，想一越百了。](https://www.v2ex.com/t/865702#reply0) | 2022-07-12 08:28:38 
+- 🐘 [[Java] VS Code Java 调查问卷——云原生开发](https://www.v2ex.com/t/865701#reply0) | 2022-07-12 08:28:23 
+- 🧰 [[Java] 询问一个关于 Java 日期在数据库存储的格式问题](https://www.v2ex.com/t/865700#reply7) | 2022-07-12 08:20:36 
+- 💃 [[Java] Java 加密后，启动如何带密码？](https://www.v2ex.com/t/865699#reply2) | 2022-07-12 08:20:26 
+- 🕯 [[VirtualBox] 机器较老， VirtualBox 跑哪一个 Linux 发行版较流畅？](https://www.v2ex.com/t/865696#reply13) | 2022-07-12 08:02:23 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
