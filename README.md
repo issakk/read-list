@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[Windows] 向各位请教一下，迁移已经停止支援的 Windows（比如 Windows Server 2008）还能否获得授权？](https://www.v2ex.com/t/865762#reply2) | 2022-07-12 13:22:11 
-- 🧰 [[Linux] 公司要开发一款类似宝塔的软件,大家提点意见](https://www.v2ex.com/t/865761#reply2) | 2022-07-12 13:17:21 
-- 🌏 [[Chrome] 问个问题，为什么我的 chrome 浏览器登录不了 v2ex?](https://www.v2ex.com/t/865758#reply3) | 2022-07-12 12:53:23 
-- 😎 [[宽带症候群] 上海移动，改桥接后无法连接 dospod 和 alidns 的 doh](https://www.v2ex.com/t/865756#reply1) | 2022-07-12 12:46:50 
-- 💂 [[求职] 全栈&lpar;react+node.js/ PHP &rpar;开发者希望能找一份合适的远程工作](https://www.v2ex.com/t/865755#reply0) | 2022-07-12 12:35:47 
-- 🔥 [[JavaScript] 怎么通过 node 脚本打开一个本地应用程序](https://www.v2ex.com/t/865754#reply6) | 2022-07-12 12:32:37 
-- 🦅 [[酷工作] 字节跳动招聘 前端开发工程师-Node.js 方向](https://www.v2ex.com/t/865753#reply0) | 2022-07-12 12:27:29 
-- 🙉 [[随想] 原来注销并不意味着消失，注销了别人也能访问到你的主页。](https://www.v2ex.com/t/865752#reply1) | 2022-07-12 12:24:32 
-- 💫 [[问与答] 如何防止因为自己技术菜又爱钻牛角尖产生的失落感？](https://www.v2ex.com/t/865751#reply7) | 2022-07-12 12:04:23 
-- 🎓 [[酷工作] [上海/外企/WLB] Microfocus 内推,大量岗位,长期有效](https://www.v2ex.com/t/865748#reply1) | 2022-07-12 11:23:46 
-- 🗽 [[分享创造] SwiftUI 搞出一个超简洁的习惯养成+待办的 App（CoreData + iCloud 自动同步数据）｜附永久码](https://www.v2ex.com/t/865747#reply19) | 2022-07-12 11:23:05 
-- ⚗️ [[酷工作] 中高级机器学习算法工程师《居家办公》](https://www.v2ex.com/t/865746#reply2) | 2022-07-12 11:18:32 
-- 🦍 [[问与答] 关于 kubernetes pod 启动时内存， cpu 资源分配的问题](https://www.v2ex.com/t/865745#reply2) | 2022-07-12 11:17:10 
-- 🤩 [[程序员] gengine 的性能损耗这么大的吗？](https://www.v2ex.com/t/865744#reply0) | 2022-07-12 11:15:36 
-- 🙉 [[问与答] 关于 react 教程中， react 只更新它需要更新的部分这一章节](https://www.v2ex.com/t/865743#reply5) | 2022-07-12 11:10:19 
-- 🌏 [[问与答] 有什么办法可以只安装 LibreOffice 的 Writer 组件，或者 OpenOffice 的 writer 组件，或者说除了 Atlantis Word Processor 还有什么单独的类似 word 的软件吗？](https://www.v2ex.com/t/865742#reply5) | 2022-07-12 11:04:33 
-- 🐘 [[问与答] 有没有京东方的兄弟啊](https://www.v2ex.com/t/865741#reply3) | 2022-07-12 11:01:44 
-- 🧰 [[Apple] 官网又放出了一大波 MBP 翻新机](https://www.v2ex.com/t/865740#reply21) | 2022-07-12 10:51:47 
-- 💃 [[求职] 6 年 Java 广州还有要的吗](https://www.v2ex.com/t/865739#reply0) | 2022-07-12 10:51:10 
-- 🕯 [[分享创造] 分享一个开源的安全工具：用于检测镜像安全风险](https://www.v2ex.com/t/865738#reply1) | 2022-07-12 10:47:44 <!-- v2ex:END -->
+- 🫶 [[问与答] mac 上有啥软件能给左右声道设置不同的 equlizer 么？](https://www.v2ex.com/t/865771#reply0) | 2022-07-12 14:08:19 
+- 🧰 [[问与答] 机器学习有没有什么方案可以实现文章自动配图？](https://www.v2ex.com/t/865770#reply1) | 2022-07-12 14:01:34 
+- 🌏 [[问与答] 有感而发，经济危机时，做什么才能最大程度减少自己的损失？](https://www.v2ex.com/t/865768#reply0) | 2022-07-12 13:58:37 
+- 😎 [[Cloudflare] Cloudflare 批量删除 DNS 记录的方式](https://www.v2ex.com/t/865765#reply0) | 2022-07-12 13:48:19 
+- 💂 [[程序员] 字符串 hash 问题，有 &lt;N 个字符串长度任意，放入到长度为 N 的数组，后续还需要根据这 N 个字符串快速得到位置，怎么样最快呢？](https://www.v2ex.com/t/865764#reply1) | 2022-07-12 13:38:31 
+- 🔥 [[问与答] 联想 e570c 怎么能做到合盖的情况下开机](https://www.v2ex.com/t/865763#reply0) | 2022-07-12 13:34:09 
+- 🦅 [[Windows] 向各位请教一下，迁移已经停止支援的 Windows（比如 Windows Server 2008）还能否获得授权？](https://www.v2ex.com/t/865762#reply6) | 2022-07-12 13:22:11 
+- 🙉 [[Linux] 公司要开发一款类似宝塔的软件,大家提点意见](https://www.v2ex.com/t/865761#reply13) | 2022-07-12 13:17:21 
+- 💫 [[Chrome] 问个问题，为什么我的 chrome 浏览器登录不了 v2ex?](https://www.v2ex.com/t/865758#reply3) | 2022-07-12 12:53:23 
+- 🎓 [[宽带症候群] 上海移动，改桥接后无法连接 dospod 和 alidns 的 doh](https://www.v2ex.com/t/865756#reply1) | 2022-07-12 12:46:50 
+- 🗽 [[求职] 全栈&lpar;react+node.js/ PHP &rpar;开发者希望能找一份合适的远程工作](https://www.v2ex.com/t/865755#reply0) | 2022-07-12 12:35:47 
+- ⚗️ [[JavaScript] 怎么通过 node 脚本打开一个本地应用程序](https://www.v2ex.com/t/865754#reply7) | 2022-07-12 12:32:37 
+- 🦍 [[酷工作] 字节跳动招聘 前端开发工程师-Node.js 方向](https://www.v2ex.com/t/865753#reply0) | 2022-07-12 12:27:29 
+- 🤩 [[随想] 原来注销并不意味着消失，注销了别人也能访问到你的主页。](https://www.v2ex.com/t/865752#reply1) | 2022-07-12 12:24:32 
+- 🙉 [[问与答] 如何防止因为自己技术菜又爱钻牛角尖产生的失落感？](https://www.v2ex.com/t/865751#reply8) | 2022-07-12 12:04:23 
+- 🌏 [[酷工作] [上海/外企/WLB] Microfocus 内推,大量岗位,长期有效](https://www.v2ex.com/t/865748#reply1) | 2022-07-12 11:23:46 
+- 🐘 [[分享创造] SwiftUI 搞出一个超简洁的习惯养成+待办的 App（CoreData + iCloud 自动同步数据）｜附永久码](https://www.v2ex.com/t/865747#reply21) | 2022-07-12 11:23:05 
+- 🧰 [[酷工作] 中高级机器学习算法工程师《居家办公》](https://www.v2ex.com/t/865746#reply2) | 2022-07-12 11:18:32 
+- 💃 [[问与答] 关于 kubernetes pod 启动时内存， cpu 资源分配的问题](https://www.v2ex.com/t/865745#reply2) | 2022-07-12 11:17:10 
+- 🕯 [[程序员] gengine 的性能损耗这么大的吗？](https://www.v2ex.com/t/865744#reply0) | 2022-07-12 11:15:36 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
