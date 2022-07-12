@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[前端开发] 非引战，谈谈目前 react、vue3 选型以及 flutter 的未来](https://www.v2ex.com/t/865778#reply1) | 2022-07-12 15:01:25 
-- 🧰 [[服务器] 直通卡连接的硬盘， Esxi 中可否单独用 RDM 方式直通](https://www.v2ex.com/t/865777#reply0) | 2022-07-12 15:00:54 
-- 🌏 [[macOS] 没有类似 微信文件传输助手的工具](https://www.v2ex.com/t/865776#reply1) | 2022-07-12 14:50:14 
-- 😎 [[分享创造] 一个 Pomodoro「专注小番茄」Web App](https://www.v2ex.com/t/865775#reply0) | 2022-07-12 14:40:41 
-- 💂 [[数据库] Ignite 有人用过吗？](https://www.v2ex.com/t/865774#reply1) | 2022-07-12 14:33:35 
-- 🔥 [[Linux] 给精简的 shell 循环遍历代码只传两个参数，处理时间差距 10 倍是为何？内详](https://www.v2ex.com/t/865773#reply5) | 2022-07-12 14:25:45 
-- 🦅 [[问与答] 有哪些不需看屏幕的小游戏?](https://www.v2ex.com/t/865772#reply0) | 2022-07-12 14:17:01 
-- 🙉 [[问与答] mac 上有啥软件能给左右声道设置不同的 equlizer 么？](https://www.v2ex.com/t/865771#reply0) | 2022-07-12 14:08:19 
-- 💫 [[问与答] 机器学习有没有什么方案可以实现文章自动配图？](https://www.v2ex.com/t/865770#reply1) | 2022-07-12 14:01:34 
-- 🎓 [[问与答] 有感而发，经济危机时，做什么才能最大程度减少自己的损失？](https://www.v2ex.com/t/865768#reply0) | 2022-07-12 13:58:37 
-- 🗽 [[Cloudflare] Cloudflare 批量删除 DNS 记录的方式](https://www.v2ex.com/t/865765#reply0) | 2022-07-12 13:48:19 
-- ⚗️ [[程序员] 字符串 hash 问题，有 &lt;N 个字符串长度任意，放入到长度为 N 的数组，后续还需要根据这 N 个字符串快速得到位置，怎么样最快呢？](https://www.v2ex.com/t/865764#reply1) | 2022-07-12 13:38:31 
-- 🦍 [[问与答] 联想 e570c 怎么能做到合盖的情况下开机](https://www.v2ex.com/t/865763#reply0) | 2022-07-12 13:34:09 
-- 🤩 [[Windows] 向各位请教一下，迁移已经停止支援的 Windows（比如 Windows Server 2008）还能否获得授权？](https://www.v2ex.com/t/865762#reply8) | 2022-07-12 13:22:11 
-- 🙉 [[Linux] 公司要开发一款类似宝塔的软件,大家提点意见](https://www.v2ex.com/t/865761#reply15) | 2022-07-12 13:17:21 
-- 🌏 [[Chrome] 问个问题，为什么我的 chrome 浏览器登录不了 v2ex?](https://www.v2ex.com/t/865758#reply4) | 2022-07-12 12:53:23 
-- 🐘 [[宽带症候群] 上海移动，改桥接后无法连接 dospod 和 alidns 的 doh](https://www.v2ex.com/t/865756#reply1) | 2022-07-12 12:46:50 
-- 🧰 [[求职] 全栈&lpar;react+node.js/ PHP &rpar;开发者希望能找一份合适的远程工作](https://www.v2ex.com/t/865755#reply0) | 2022-07-12 12:35:47 
-- 💃 [[JavaScript] 怎么通过 node 脚本打开一个本地应用程序](https://www.v2ex.com/t/865754#reply7) | 2022-07-12 12:32:37 
-- 🕯 [[酷工作] 字节跳动招聘 前端开发工程师-Node.js 方向](https://www.v2ex.com/t/865753#reply0) | 2022-07-12 12:27:29 <!-- v2ex:END -->
+- 🫶 [[问与答] 准备换个三星 Galaxy S22 Ultra（从华为），需要什么软件迁移数据吗？](https://www.v2ex.com/t/865784#reply0) | 2022-07-12 16:04:57 
+- 🧰 [[Telegram] telegram 点击图片或视频就全屏有办法改嘛？](https://www.v2ex.com/t/865783#reply1) | 2022-07-12 16:04:17 
+- 🌏 [[问与答] 突然来了一堆微信支付的验证码，是密码泄露了吗？](https://www.v2ex.com/t/865780#reply0) | 2022-07-12 15:53:56 
+- 😎 [[前端开发] 非引战，谈谈目前 react、vue3 选型以及 flutter 的未来](https://www.v2ex.com/t/865778#reply3) | 2022-07-12 15:01:25 
+- 💂 [[服务器] 直通卡连接的硬盘， Esxi 中可否单独用 RDM 方式直通](https://www.v2ex.com/t/865777#reply0) | 2022-07-12 15:00:54 
+- 🔥 [[macOS] 没有类似 微信文件传输助手的工具](https://www.v2ex.com/t/865776#reply1) | 2022-07-12 14:50:14 
+- 🦅 [[分享创造] 一个 Pomodoro「专注小番茄」Web App](https://www.v2ex.com/t/865775#reply0) | 2022-07-12 14:40:41 
+- 🙉 [[数据库] Ignite 有人用过吗？](https://www.v2ex.com/t/865774#reply1) | 2022-07-12 14:33:35 
+- 💫 [[Linux] 给精简的 shell 循环遍历代码只传两个参数，处理时间差距 10 倍是为何？内详](https://www.v2ex.com/t/865773#reply5) | 2022-07-12 14:25:45 
+- 🎓 [[问与答] 有哪些不需看屏幕的小游戏?](https://www.v2ex.com/t/865772#reply3) | 2022-07-12 14:17:01 
+- 🗽 [[问与答] mac 上有啥软件能给左右声道设置不同的 equlizer 么？](https://www.v2ex.com/t/865771#reply0) | 2022-07-12 14:08:19 
+- ⚗️ [[问与答] 机器学习有没有什么方案可以实现文章自动配图？](https://www.v2ex.com/t/865770#reply1) | 2022-07-12 14:01:34 
+- 🦍 [[问与答] 有感而发，经济危机时，做什么才能最大程度减少自己的损失？](https://www.v2ex.com/t/865768#reply0) | 2022-07-12 13:58:37 
+- 🤩 [[Cloudflare] Cloudflare 批量删除 DNS 记录的方式](https://www.v2ex.com/t/865765#reply0) | 2022-07-12 13:48:19 
+- 🙉 [[程序员] 字符串 hash 问题，有 &lt;N 个字符串长度任意，放入到长度为 N 的数组，后续还需要根据这 N 个字符串快速得到位置，怎么样最快呢？](https://www.v2ex.com/t/865764#reply2) | 2022-07-12 13:38:31 
+- 🌏 [[问与答] 联想 e570c 怎么能做到合盖的情况下开机](https://www.v2ex.com/t/865763#reply0) | 2022-07-12 13:34:09 
+- 🐘 [[Windows] 向各位请教一下，迁移已经停止支援的 Windows（比如 Windows Server 2008）还能否获得授权？](https://www.v2ex.com/t/865762#reply8) | 2022-07-12 13:22:11 
+- 🧰 [[Linux] 公司要开发一款类似宝塔的软件,大家提点意见](https://www.v2ex.com/t/865761#reply20) | 2022-07-12 13:17:21 
+- 💃 [[Chrome] 问个问题，为什么我的 chrome 浏览器登录不了 v2ex?](https://www.v2ex.com/t/865758#reply6) | 2022-07-12 12:53:23 
+- 🕯 [[宽带症候群] 上海移动，改桥接后无法连接 dospod 和 alidns 的 doh](https://www.v2ex.com/t/865756#reply1) | 2022-07-12 12:46:50 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
