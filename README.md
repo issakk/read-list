@@ -7,9 +7,9 @@
 
 <!-- v2ex:START  -->
 - 🫶 [[推广] 来自英国的保投乐 Betadia 开创数字保险新世界](https://www.v2ex.com/t/866016#reply0) | 2022-07-13 20:47:19 
-- 🧰 [[Android] Android wechat 到底想干啥？！在后台 CPU 占用到 156%](https://www.v2ex.com/t/866015#reply0) | 2022-07-13 20:11:28 
-- 🌏 [[Python] 一个编程小白关于微信读书的程序构想](https://www.v2ex.com/t/866014#reply1) | 2022-07-13 18:51:30 
-- 😎 [[问与答] 有没有什么 windows 下面好用的命令行工具](https://www.v2ex.com/t/866013#reply7) | 2022-07-13 18:09:38 
+- 🧰 [[Android] Android wechat 到底想干啥？！在后台 CPU 占用到 156%](https://www.v2ex.com/t/866015#reply3) | 2022-07-13 20:11:28 
+- 🌏 [[Python] 一个编程小白关于微信读书的程序构想](https://www.v2ex.com/t/866014#reply2) | 2022-07-13 18:51:30 
+- 😎 [[问与答] 有没有什么 windows 下面好用的命令行工具](https://www.v2ex.com/t/866013#reply8) | 2022-07-13 18:09:38 
 - 💂 [[问与答] 每天在家办公，想要租一个月看海或者大湖，有哪些地方可以选](https://www.v2ex.com/t/866011#reply0) | 2022-07-13 17:37:19 
 - 🔥 [[问与答] 求助贴:入睡困难，容易失眠，有什么好方法可以改善吗？](https://www.v2ex.com/t/866010#reply8) | 2022-07-13 17:18:42 
 - 🦅 [[优惠信息] 四大视频网站会员，一年仅需 99 元，每月任选，无惧独播！&lpar;爱奇艺、腾讯视频、芒果 TV、优酷&rpar;](https://www.v2ex.com/t/866009#reply1) | 2022-07-13 17:08:52 
