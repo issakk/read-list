@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[问与答] 每天在家办公，想要租一个月看海或者大湖，有哪些地方可以选](https://www.v2ex.com/t/866011#reply0) | 2022-07-13 17:37:19 
-- 🧰 [[问与答] 求助贴:入睡困难，容易失眠，有什么好方法可以改善吗？](https://www.v2ex.com/t/866010#reply1) | 2022-07-13 17:18:42 
-- 🌏 [[优惠信息] 四大视频网站会员，一年仅需 99 元，每月任选，无惧独播！&lpar;爱奇艺、腾讯视频、芒果 TV、优酷&rpar;](https://www.v2ex.com/t/866009#reply1) | 2022-07-13 17:08:52 
-- 😎 [[Apple] M1/M2 对比 20 款 Intel MBP13&#39; 性能提升大概有多大啊？](https://www.v2ex.com/t/866008#reply3) | 2022-07-13 16:14:22 
-- 💂 [[问与答] 感觉要解决大事情了？——超大基建要来了](https://www.v2ex.com/t/866007#reply9) | 2022-07-13 16:01:00 
-- 🔥 [[问与答] 给老哥们提个需求， 大佬过来设计下，给个方案](https://www.v2ex.com/t/866006#reply5) | 2022-07-13 15:36:42 
-- 🦅 [[程序员] 果然， GitHub 推出了更多的徽标](https://www.v2ex.com/t/866005#reply5) | 2022-07-13 15:18:38 
-- 🙉 [[Android] 定制安卓 10， 系统 OTA 升级过程中如何覆盖 WiFi 之前的配置](https://www.v2ex.com/t/866004#reply0) | 2022-07-13 15:08:26 
-- 💫 [[问与答] Proxmox VE 性能问题](https://www.v2ex.com/t/866003#reply4) | 2022-07-13 14:57:45 
-- 🎓 [[Apple] MacBook Pro &lpar;16-inch, 2019&rpar; TouchBar 自行误点击问题](https://www.v2ex.com/t/866002#reply2) | 2022-07-13 14:52:15 
-- 🗽 [[SQLite] 应该怎么理解 rowid 在 sqlite 中的使用](https://www.v2ex.com/t/866001#reply0) | 2022-07-13 14:44:21 
-- ⚗️ [[路由器] 华硕路由器 RT-AC66U B1 2.4GHz 灯不亮， 1~13 频道丢失](https://www.v2ex.com/t/866000#reply2) | 2022-07-13 14:40:14 
-- 🦍 [[问与答] mac 浏览器（chrome 和 safari 都这样）鼠标中键没有出箭头不能快速滑动页面](https://www.v2ex.com/t/865999#reply4) | 2022-07-13 14:36:26 
-- 🤩 [[问与答] 沙盒中的程序如何推数据到物理机？](https://www.v2ex.com/t/865998#reply0) | 2022-07-13 14:25:54 
-- 🙉 [[分享创造] Logseq 自动同步方案](https://www.v2ex.com/t/865997#reply2) | 2022-07-13 14:24:46 
-- 🌏 [[Apple] 请问有没有遇到过 iOS 照片丢失的情况](https://www.v2ex.com/t/865996#reply8) | 2022-07-13 14:14:10 
-- 🐘 [[程序员] Git 三大分支策略， 2 个人的前端团队，开发一个中型应用，适合用哪种策略](https://www.v2ex.com/t/865994#reply7) | 2022-07-13 14:01:45 
-- 🧰 [[Go 编程语言] 问一个 golang 新手问题，一个 golang 的 struct 使用了 json fields，怎么在导入的时候加入其他的 fields？](https://www.v2ex.com/t/865993#reply4) | 2022-07-13 13:57:33 
-- 💃 [[问与答] Pixle4a 5G 的手势感觉有点难，有没有像 iPhone 那样的悬浮触控小圆圈按钮呀？](https://www.v2ex.com/t/865992#reply0) | 2022-07-13 13:57:13 
-- 🕯 [[硬件] 生产力工具笔记本有推荐的吗](https://www.v2ex.com/t/865991#reply9) | 2022-07-13 13:55:57 <!-- v2ex:END -->
+- 🫶 [[Python] 一个编程小白关于微信读书的程序构想](https://www.v2ex.com/t/866014#reply0) | 2022-07-13 18:51:30 
+- 🧰 [[问与答] 有没有什么 windows 下面好用的命令行工具](https://www.v2ex.com/t/866013#reply7) | 2022-07-13 18:09:38 
+- 🌏 [[问与答] 每天在家办公，想要租一个月看海或者大湖，有哪些地方可以选](https://www.v2ex.com/t/866011#reply0) | 2022-07-13 17:37:19 
+- 😎 [[问与答] 求助贴:入睡困难，容易失眠，有什么好方法可以改善吗？](https://www.v2ex.com/t/866010#reply2) | 2022-07-13 17:18:42 
+- 💂 [[优惠信息] 四大视频网站会员，一年仅需 99 元，每月任选，无惧独播！&lpar;爱奇艺、腾讯视频、芒果 TV、优酷&rpar;](https://www.v2ex.com/t/866009#reply1) | 2022-07-13 17:08:52 
+- 🔥 [[Apple] M1/M2 对比 20 款 Intel MBP13&#39; 性能提升大概有多大啊？](https://www.v2ex.com/t/866008#reply3) | 2022-07-13 16:14:22 
+- 🦅 [[问与答] 给老哥们提个需求， 大佬过来设计下，给个方案](https://www.v2ex.com/t/866006#reply5) | 2022-07-13 15:36:42 
+- 🙉 [[程序员] 果然， GitHub 推出了更多的徽标](https://www.v2ex.com/t/866005#reply5) | 2022-07-13 15:18:38 
+- 💫 [[Android] 定制安卓 10， 系统 OTA 升级过程中如何覆盖 WiFi 之前的配置](https://www.v2ex.com/t/866004#reply0) | 2022-07-13 15:08:26 
+- 🎓 [[问与答] Proxmox VE 性能问题](https://www.v2ex.com/t/866003#reply4) | 2022-07-13 14:57:45 
+- 🗽 [[Apple] MacBook Pro &lpar;16-inch, 2019&rpar; TouchBar 自行误点击问题](https://www.v2ex.com/t/866002#reply2) | 2022-07-13 14:52:15 
+- ⚗️ [[SQLite] 应该怎么理解 rowid 在 sqlite 中的使用](https://www.v2ex.com/t/866001#reply0) | 2022-07-13 14:44:21 
+- 🦍 [[路由器] 华硕路由器 RT-AC66U B1 2.4GHz 灯不亮， 1~13 频道丢失](https://www.v2ex.com/t/866000#reply2) | 2022-07-13 14:40:14 
+- 🤩 [[问与答] mac 浏览器（chrome 和 safari 都这样）鼠标中键没有出箭头不能快速滑动页面](https://www.v2ex.com/t/865999#reply4) | 2022-07-13 14:36:26 
+- 🙉 [[问与答] 沙盒中的程序如何推数据到物理机？](https://www.v2ex.com/t/865998#reply0) | 2022-07-13 14:25:54 
+- 🌏 [[分享创造] Logseq 自动同步方案](https://www.v2ex.com/t/865997#reply2) | 2022-07-13 14:24:46 
+- 🐘 [[Apple] 请问有没有遇到过 iOS 照片丢失的情况](https://www.v2ex.com/t/865996#reply8) | 2022-07-13 14:14:10 
+- 🧰 [[程序员] Git 三大分支策略， 2 个人的前端团队，开发一个中型应用，适合用哪种策略](https://www.v2ex.com/t/865994#reply7) | 2022-07-13 14:01:45 
+- 💃 [[Go 编程语言] 问一个 golang 新手问题，一个 golang 的 struct 使用了 json fields，怎么在导入的时候加入其他的 fields？](https://www.v2ex.com/t/865993#reply4) | 2022-07-13 13:57:33 
+- 🕯 [[问与答] Pixle4a 5G 的手势感觉有点难，有没有像 iPhone 那样的悬浮触控小圆圈按钮呀？](https://www.v2ex.com/t/865992#reply0) | 2022-07-13 13:57:13 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
