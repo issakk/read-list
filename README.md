@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[问与答] 34 寸带鱼屏敲代码好用吗？比得过双屏吗?](https://www.v2ex.com/t/866418#reply1) | 2022-07-15 06:06:37 
-- 🧰 [[游戏开发] 有没有也在用 godot 搞独立游戏开发的朋友](https://www.v2ex.com/t/866417#reply0) | 2022-07-15 05:58:37 
-- 🌏 [[程序员] Swift 中调用 siri voice 有办法吗？](https://www.v2ex.com/t/866416#reply1) | 2022-07-15 05:55:14 
-- 😎 [[程序员] [如何使用遗传算法优化 RBF 参数？]](https://www.v2ex.com/t/866415#reply1) | 2022-07-15 05:53:18 
-- 💂 [[React] 初窥.contains 在 react 中应用的冰山一角](https://www.v2ex.com/t/866414#reply0) | 2022-07-15 05:53:07 
-- 🔥 [[程序员] 不限编程语言，你认为哪个 ORM 最好用？](https://www.v2ex.com/t/866413#reply14) | 2022-07-15 05:49:57 
-- 🦅 [[Apple] 过保了一年的 Airpods Pro 还能维修吗？](https://www.v2ex.com/t/866412#reply1) | 2022-07-15 05:46:40 
-- 🙉 [[宽带症候群] 深圳宽带资费那些事儿｜教你如何 PUA 到便宜的融合套餐](https://www.v2ex.com/t/866411#reply2) | 2022-07-15 05:46:00 
-- 💫 [[VPS] 求推荐 128M 或者 512M 内存的乞丐配置 VPS 购买的地方](https://www.v2ex.com/t/866410#reply3) | 2022-07-15 05:44:06 
-- 🎓 [[NAS] 为啥群晖内核启动 log 不在显示器上打印了](https://www.v2ex.com/t/866409#reply0) | 2022-07-15 05:41:13 
-- 🗽 [[问与答] 丈人骑电瓶摔手骨折，怎么表示一下](https://www.v2ex.com/t/866407#reply1) | 2022-07-15 05:37:43 
-- ⚗️ [[分享创造] APTV 正式上架 AppStore 啦，支持回看！（内含兑换码&amp;多图预警）](https://www.v2ex.com/t/866406#reply17) | 2022-07-15 05:34:07 
-- 🦍 [[问与答] 真无奈了，有人碰到过 vscode 同步替换本地出错的问题吗](https://www.v2ex.com/t/866405#reply1) | 2022-07-15 05:33:00 
-- 🤩 [[问与答] 深圳住房公积金](https://www.v2ex.com/t/866401#reply1) | 2022-07-15 05:10:53 
-- 🙉 [[问与答] 关于 javacv hls 切片结果很模糊的为](https://www.v2ex.com/t/866400#reply0) | 2022-07-15 05:07:53 
-- 🌏 [[程序员] Go 友会继续招纳&lpar;之前小伙伴加入没来得及处理&rpar;](https://www.v2ex.com/t/866398#reply12) | 2022-07-15 05:06:07 
-- 🐘 [[路由器] 路由器推荐 2](https://www.v2ex.com/t/866397#reply2) | 2022-07-15 05:05:27 
-- 🧰 [[Android] 求推荐能使用 GMS 的千元机](https://www.v2ex.com/t/866396#reply2) | 2022-07-15 04:47:58 
-- 💃 [[Apple] 《最伟大的作品》专辑，啥时上架国区 apple music](https://www.v2ex.com/t/866395#reply4) | 2022-07-15 04:44:30 
-- 🕯 [[问与答] 有什么你知道（或者听说过）的好工作？](https://www.v2ex.com/t/866394#reply7) | 2022-07-15 04:42:27 <!-- v2ex:END -->
+- 🫶 [[问与答] 想把系统装到移动硬盘中，有稳定高速的硬盘盒推荐吗](https://www.v2ex.com/t/866434#reply0) | 2022-07-15 07:06:09 
+- 🧰 [[求职] 求职 react、vue、rn、electron 的前端 或着 ruby、node 的全栈](https://www.v2ex.com/t/866433#reply0) | 2022-07-15 07:00:51 
+- 🌏 [[iDev] Xcode 输入指定代码必卡死](https://www.v2ex.com/t/866432#reply0) | 2022-07-15 06:53:17 
+- 😎 [[Apple] 你们的 M1 CPU 占用高吗？](https://www.v2ex.com/t/866430#reply0) | 2022-07-15 06:40:12 
+- 💂 [[分享创造] AnimeRes，整理你的动漫图片](https://www.v2ex.com/t/866429#reply0) | 2022-07-15 06:39:27 
+- 🔥 [[机器学习] 学机器学习和统计的人需要学数值分析么？](https://www.v2ex.com/t/866428#reply0) | 2022-07-15 06:38:57 
+- 🦅 [[Google] Google 登录账号后搜索结果只有几条](https://www.v2ex.com/t/866426#reply1) | 2022-07-15 06:35:58 
+- 🙉 [[Apple] m2pro 的 MacBook 啥时候出](https://www.v2ex.com/t/866424#reply0) | 2022-07-15 06:27:40 
+- 💫 [[程序员] 为什么 RBF 内核的 gamma=&#39;scale&#39; 的 SVM 工作效果这么好,内部机理是什么？](https://www.v2ex.com/t/866423#reply0) | 2022-07-15 06:26:58 
+- 🎓 [[程序员] wx 营销软件开发（代友咨询）](https://www.v2ex.com/t/866421#reply2) | 2022-07-15 06:21:45 
+- 🗽 [[程序员] Java 到什么程度,人家就会要了](https://www.v2ex.com/t/866420#reply1) | 2022-07-15 06:11:37 
+- ⚗️ [[问与答] google 登录账号后搜索结果无法加载完全？很奇怪。](https://www.v2ex.com/t/866419#reply2) | 2022-07-15 06:10:13 
+- 🦍 [[问与答] 34 寸带鱼屏敲代码好用吗？比得过双屏吗?](https://www.v2ex.com/t/866418#reply7) | 2022-07-15 06:06:37 
+- 🤩 [[游戏开发] 有没有也在用 godot 搞独立游戏开发的朋友](https://www.v2ex.com/t/866417#reply0) | 2022-07-15 05:58:37 
+- 🙉 [[程序员] Swift 中调用 siri voice 有办法吗？](https://www.v2ex.com/t/866416#reply1) | 2022-07-15 05:55:14 
+- 🌏 [[程序员] [如何使用遗传算法优化 RBF 参数？]](https://www.v2ex.com/t/866415#reply2) | 2022-07-15 05:53:18 
+- 🐘 [[React] 初窥.contains 在 react 中应用的冰山一角](https://www.v2ex.com/t/866414#reply2) | 2022-07-15 05:53:07 
+- 🧰 [[程序员] 不限编程语言，你认为哪个 ORM 最好用？](https://www.v2ex.com/t/866413#reply32) | 2022-07-15 05:49:57 
+- 💃 [[Apple] 过保了一年的 Airpods Pro 还能维修吗？](https://www.v2ex.com/t/866412#reply2) | 2022-07-15 05:46:40 
+- 🕯 [[宽带症候群] 深圳宽带资费那些事儿｜教你如何 PUA 到便宜的融合套餐](https://www.v2ex.com/t/866411#reply13) | 2022-07-15 05:46:00 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
