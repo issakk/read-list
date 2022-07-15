@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[问与答] 华硕 B660i 开机风扇全速转](https://www.v2ex.com/t/866549#reply0) | 2022-07-15 16:06:47 
-- 🧰 [[求职] 杭州有企业正经招人吗？ 35 岁大龄程序员求内推机会](https://www.v2ex.com/t/866548#reply0) | 2022-07-15 16:05:00 
-- 🌏 [[北京] 2022 北京公积金基数上限会调整吗？](https://www.v2ex.com/t/866547#reply0) | 2022-07-15 15:54:51 
-- 😎 [[求职] 亚麻 ebay 有内推的不？想试试](https://www.v2ex.com/t/866546#reply0) | 2022-07-15 15:46:53 
-- 💂 [[问与答] 为什么我的每一个鼠标都会出现回滚的问题？](https://www.v2ex.com/t/866545#reply2) | 2022-07-15 15:46:49 
-- 🔥 [[分享发现] 最近沉迷于寻找支持自建的 e2ee/zero-knowledge 的开源应用](https://www.v2ex.com/t/866544#reply0) | 2022-07-15 15:33:54 
-- 🦅 [[Apple] 刘海屏 MacBook，外接显示器时， menu bar 高度是多少？](https://www.v2ex.com/t/866543#reply1) | 2022-07-15 15:26:21 
-- 🙉 [[问与答] 在前端实习中，如何为秋招面试积攒能够写进简历的东西？](https://www.v2ex.com/t/866542#reply0) | 2022-07-15 15:23:01 
-- 💫 [[Go 编程语言] 本周六&lpar;7.16 日&rpar;晚上 8:00 B 站直播，一起聊聊 Go 语言《借势:GO 语言红利期—如何弯道超车》](https://www.v2ex.com/t/866541#reply0) | 2022-07-15 15:20:25 
-- 🎓 [[程序员] 耗时 8 个多月，基于 SSH 协议，我开发了一个内网穿透工具，请大家来使用看看效果](https://www.v2ex.com/t/866540#reply13) | 2022-07-15 15:17:31 
-- 🗽 [[问与答] google fonts 下载的字体和图标可以商用吗？](https://www.v2ex.com/t/866537#reply0) | 2022-07-15 14:42:30 
-- ⚗️ [[macOS] [求助] mac Safari 如何 class-dump 导出 头文件](https://www.v2ex.com/t/866536#reply2) | 2022-07-15 14:39:25 
-- 🦍 [[Visual Studio Code] 偷渡 VS Code Server](https://www.v2ex.com/t/866535#reply6) | 2022-07-15 14:30:45 
-- 🤩 [[问与答] 唉，装修时不懂，把光纤 HDMI 线的方向布反了~](https://www.v2ex.com/t/866534#reply6) | 2022-07-15 14:28:29 
-- 🙉 [[Surface] 其实 ARM64 的 Win11 体验已经很不错，可惜摆烂的微软并没有更新 Surface Pro X II](https://www.v2ex.com/t/866533#reply7) | 2022-07-15 14:24:51 
-- 🌏 [[Linux] xrdp 的 session 模式选择](https://www.v2ex.com/t/866532#reply4) | 2022-07-15 14:12:07 
-- 🐘 [[Python] PDM 2.0 发布了](https://www.v2ex.com/t/866529#reply0) | 2022-07-15 13:47:10 
-- 🧰 [[程序员] IOS 开发：请教大家，手机版本 IOS15.3.1 批量发送短信时 sms://多手机号，其中多个手机号间用什么符号隔开](https://www.v2ex.com/t/866528#reply1) | 2022-07-15 13:37:54 
-- 💃 [[数据库] 数据库设计表的时候把不管啥字段类型都设置为 varchar，有啥好处嘛](https://www.v2ex.com/t/866526#reply8) | 2022-07-15 13:22:17 
-- 🕯 [[程序员] 你们是怎么受得了 996 的？我 955 就已经觉得很累了](https://www.v2ex.com/t/866525#reply31) | 2022-07-15 12:57:32 <!-- v2ex:END -->
+- 🫶 [[问与答] 如何查询 Hive 两个分区的 diff？](https://www.v2ex.com/t/866554#reply0) | 2022-07-15 16:27:48 
+- 🧰 [[Figma] 为什么 figma 设计 UI 的时候，大家都把 app 的多个界面（都是以 Frame 形式一个个呈现）放在一个 Page 里](https://www.v2ex.com/t/866553#reply0) | 2022-07-15 16:24:21 
+- 🌏 [[问与答] 怎么扩展社交圈，提高社交能力](https://www.v2ex.com/t/866552#reply3) | 2022-07-15 16:16:15 
+- 😎 [[问与答] XDM，我的 Mac 是不是中病毒了？](https://www.v2ex.com/t/866551#reply2) | 2022-07-15 16:14:50 
+- 💂 [[酷工作] 关于程序员英语水平问题](https://www.v2ex.com/t/866550#reply0) | 2022-07-15 16:11:04 
+- 🔥 [[问与答] 华硕 B660i 开机风扇全速转](https://www.v2ex.com/t/866549#reply5) | 2022-07-15 16:06:47 
+- 🦅 [[求职] 杭州有企业正经招人吗？ 35 岁大龄程序员求内推机会](https://www.v2ex.com/t/866548#reply0) | 2022-07-15 16:05:00 
+- 🙉 [[北京] 2022 北京公积金基数上限会调整吗？](https://www.v2ex.com/t/866547#reply5) | 2022-07-15 15:54:51 
+- 💫 [[求职] 亚麻 ebay 有内推的不？想试试](https://www.v2ex.com/t/866546#reply0) | 2022-07-15 15:46:53 
+- 🎓 [[问与答] 为什么我的每一个鼠标都会出现回滚的问题？](https://www.v2ex.com/t/866545#reply2) | 2022-07-15 15:46:49 
+- 🗽 [[分享发现] 最近沉迷于寻找支持自建的 e2ee/zero-knowledge 的开源应用](https://www.v2ex.com/t/866544#reply0) | 2022-07-15 15:33:54 
+- ⚗️ [[Apple] 刘海屏 MacBook，外接显示器时， menu bar 高度是多少？](https://www.v2ex.com/t/866543#reply1) | 2022-07-15 15:26:21 
+- 🦍 [[问与答] 在前端实习中，如何为秋招面试积攒能够写进简历的东西？](https://www.v2ex.com/t/866542#reply0) | 2022-07-15 15:23:01 
+- 🤩 [[Go 编程语言] 本周六&lpar;7.16 日&rpar;晚上 8:00 B 站直播，一起聊聊 Go 语言《借势:GO 语言红利期—如何弯道超车》](https://www.v2ex.com/t/866541#reply0) | 2022-07-15 15:20:25 
+- 🙉 [[程序员] 耗时 8 个多月，基于 SSH 协议，我开发了一个内网穿透工具，请大家来使用看看效果](https://www.v2ex.com/t/866540#reply13) | 2022-07-15 15:17:31 
+- 🌏 [[问与答] google fonts 下载的字体和图标可以商用吗？](https://www.v2ex.com/t/866537#reply0) | 2022-07-15 14:42:30 
+- 🐘 [[macOS] [求助] mac Safari 如何 class-dump 导出 头文件](https://www.v2ex.com/t/866536#reply2) | 2022-07-15 14:39:25 
+- 🧰 [[Visual Studio Code] 偷渡 VS Code Server](https://www.v2ex.com/t/866535#reply8) | 2022-07-15 14:30:45 
+- 💃 [[问与答] 唉，装修时不懂，把光纤 HDMI 线的方向布反了~](https://www.v2ex.com/t/866534#reply6) | 2022-07-15 14:28:29 
+- 🕯 [[Surface] 其实 ARM64 的 Win11 体验已经很不错，可惜摆烂的微软并没有更新 Surface Pro X II](https://www.v2ex.com/t/866533#reply9) | 2022-07-15 14:24:51 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
