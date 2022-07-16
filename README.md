@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[MacBook] m1 mac 外接显示器的问题](https://www.v2ex.com/t/866586#reply0) | 2022-07-16 02:46:15 
-- 🧰 [[程序员] MongoDB Atlas 和 AWS Lambda 链接出现超时错误, 求解决方法](https://www.v2ex.com/t/866585#reply0) | 2022-07-16 02:38:49 
-- 🌏 [[OpenWrt] openwrt ssp+问题请教](https://www.v2ex.com/t/866584#reply0) | 2022-07-16 02:28:29 
-- 😎 [[全球工单系统] Brave 浏览器中文翻译是官翻吗？](https://www.v2ex.com/t/866583#reply0) | 2022-07-16 02:14:41 
-- 💂 [[程序员] 请问: 德语信件回复这句话是否恰当: Ich würde mich über Antworten freuen](https://www.v2ex.com/t/866582#reply1) | 2022-07-16 02:10:58 
-- 🔥 [[Windows] Win 11 开机之后， WiFi 连上后自动断开成地球图标](https://www.v2ex.com/t/866581#reply1) | 2022-07-16 02:04:32 
-- 🦅 [[Surge] 网络调试工具 surge 4 车位 135 软妹币，有需要的快来。](https://www.v2ex.com/t/866579#reply2) | 2022-07-16 01:59:11 
-- 🙉 [[问与答] 日常工作与人沟通时总想笑是为啥？](https://www.v2ex.com/t/866577#reply4) | 2022-07-16 01:56:53 
-- 💫 [[Linux] Manjaro-KDE 下配置 NoMachine 远程访问時多用户使用独立 GUI。](https://www.v2ex.com/t/866575#reply0) | 2022-07-16 01:26:35 
-- 🎓 [[Apple] 百度网盘 适配 Apple Silicon](https://www.v2ex.com/t/866574#reply13) | 2022-07-16 01:07:38 
-- 🗽 [[Java] 代码生成](https://www.v2ex.com/t/866573#reply9) | 2022-07-16 01:03:02 
-- ⚗️ [[问与答] 内存，作为计算机核心零部件中成本最低，性能提升最明显的一个，为啥品牌机厂商却都控制的非常谨慎，不愿意多给，基本要等四五年才给加 2G，现在很多万元本还是 16G 内存……很多手机内存都比电脑大了……](https://www.v2ex.com/t/866572#reply31) | 2022-07-16 01:01:23 
-- 🦍 [[前端开发] 前端用 VUE3 打包静态文件，后端 API 是否需要考虑安全保护？](https://www.v2ex.com/t/866571#reply10) | 2022-07-16 00:58:47 
-- 🤩 [[C++] C++分配 vector 进行初始化问题，想要分配一个 N 个字符串类型的 vector,后续直接下标访问,有没有比较好的方式？](https://www.v2ex.com/t/866570#reply5) | 2022-07-16 00:58:23 
-- 🙉 [[VPS] debian VPS 有啥整盘搬家的办法吗?](https://www.v2ex.com/t/866568#reply7) | 2022-07-16 00:27:17 
-- 🌏 [[问与答] 阿里云的服务器定价, 看不太懂了](https://www.v2ex.com/t/866567#reply5) | 2022-07-16 00:19:08 
-- 🐘 [[NAS] UNRAID 优惠折扣 5 折依然有效](https://www.v2ex.com/t/866566#reply4) | 2022-07-16 00:16:47 
-- 🧰 [[Apple] youtube app 如何改变地理位置以享受会员权益？](https://www.v2ex.com/t/866565#reply17) | 2022-07-16 00:16:43 
-- 💃 [[Apple] 最近发现了 iPhone 和 iPad 上 youtube 应用有了画中画功能](https://www.v2ex.com/t/866563#reply13) | 2022-07-15 23:36:37 
-- 🕯 [[随想] 《有孩子以后就是一切原罪的开始》后续](https://www.v2ex.com/t/866562#reply30) | 2022-07-15 23:34:13 <!-- v2ex:END -->
+- 🫶 [[程序员] 请教口语达人: 说口语时, 英语和德语总是会互相影响,互相冲突怎么办?](https://www.v2ex.com/t/866597#reply0) | 2022-07-16 03:36:12 
+- 🧰 [[macOS] MacBook Pro 16 M1 Max， 网速只能达到 60M（100M 宽带的情况下），这是什么情况，大家出现过同样的问题吗？](https://www.v2ex.com/t/866596#reply1) | 2022-07-16 03:23:00 
+- 🌏 [[问与答] 请问 pc 哪个输入法能支持首字母大写，剩下的小写这个功能？](https://www.v2ex.com/t/866594#reply3) | 2022-07-16 03:16:09 
+- 😎 [[问与答] 国内现在还有大量新型号的电脑和手机在使用不支持 802.11ac 的无限网卡么？](https://www.v2ex.com/t/866593#reply0) | 2022-07-16 03:09:39 
+- 💂 [[大连] 冒个泡 123](https://www.v2ex.com/t/866592#reply1) | 2022-07-16 02:58:52 
+- 🔥 [[Mac Studio] Mac Studio 的上至少 4 个 USB 接口是残血的 5Gb/s](https://www.v2ex.com/t/866591#reply0) | 2022-07-16 02:57:15 
+- 🦅 [[Apple] 苹果查找手机的疑问](https://www.v2ex.com/t/866589#reply1) | 2022-07-16 02:56:12 
+- 🙉 [[MacBook] m1 mac 外接显示器的问题](https://www.v2ex.com/t/866586#reply1) | 2022-07-16 02:46:15 
+- 💫 [[程序员] MongoDB Atlas 和 AWS Lambda 链接出现超时错误, 求解决方法](https://www.v2ex.com/t/866585#reply0) | 2022-07-16 02:38:49 
+- 🎓 [[OpenWrt] openwrt ssp+问题请教](https://www.v2ex.com/t/866584#reply0) | 2022-07-16 02:28:29 
+- 🗽 [[全球工单系统] Brave 浏览器中文翻译是官翻吗？](https://www.v2ex.com/t/866583#reply4) | 2022-07-16 02:14:41 
+- ⚗️ [[程序员] 请问: 德语信件回复这句话是否恰当: Ich würde mich über Antworten freuen](https://www.v2ex.com/t/866582#reply4) | 2022-07-16 02:10:58 
+- 🦍 [[Windows] Win 11 开机之后， WiFi 连上后自动断开成地球图标](https://www.v2ex.com/t/866581#reply4) | 2022-07-16 02:04:32 
+- 🤩 [[Surge] 网络调试工具 surge 4 车位 135 软妹币，有需要的快来。](https://www.v2ex.com/t/866579#reply2) | 2022-07-16 01:59:11 
+- 🙉 [[问与答] 日常工作与人沟通时总想笑是为啥？](https://www.v2ex.com/t/866577#reply7) | 2022-07-16 01:56:53 
+- 🌏 [[Linux] Manjaro-KDE 下配置 NoMachine 远程访问時多用户使用独立 GUI。](https://www.v2ex.com/t/866575#reply0) | 2022-07-16 01:26:35 
+- 🐘 [[Apple] 百度网盘 适配 Apple Silicon](https://www.v2ex.com/t/866574#reply21) | 2022-07-16 01:07:38 
+- 🧰 [[Java] 代码生成](https://www.v2ex.com/t/866573#reply11) | 2022-07-16 01:03:02 
+- 💃 [[问与答] 内存，作为计算机核心零部件中成本最低，性能提升最明显的一个，为啥品牌机厂商却都控制的非常谨慎，不愿意多给，基本要等四五年才给加 2G，现在很多万元本还是 16G 内存……很多手机内存都比电脑大了……](https://www.v2ex.com/t/866572#reply36) | 2022-07-16 01:01:23 
+- 🕯 [[前端开发] 前端用 VUE3 打包静态文件，后端 API 是否需要考虑安全保护？](https://www.v2ex.com/t/866571#reply15) | 2022-07-16 00:58:47 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
