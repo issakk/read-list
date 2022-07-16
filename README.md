@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[VPS] debian VPS 有啥整盘搬家的办法吗?](https://www.v2ex.com/t/866568#reply0) | 2022-07-16 00:27:17 
-- 🧰 [[问与答] 阿里云的服务器定价, 看不太懂了](https://www.v2ex.com/t/866567#reply0) | 2022-07-16 00:19:08 
-- 🌏 [[NAS] UNRAID 优惠折扣 5 折依然有效](https://www.v2ex.com/t/866566#reply1) | 2022-07-16 00:16:47 
-- 😎 [[Apple] youtube app 如何改变地理位置以享受会员权益？](https://www.v2ex.com/t/866565#reply2) | 2022-07-16 00:16:43 
-- 💂 [[分享发现] 红包🧧领取少的 3 元，多的 20+，欢迎来扫](https://www.v2ex.com/t/866564#reply3) | 2022-07-15 23:58:00 
-- 🔥 [[Apple] 最近发现了 iPhone 和 iPad 上 youtube 应用有了画中画功能](https://www.v2ex.com/t/866563#reply7) | 2022-07-15 23:36:37 
-- 🦅 [[随想] 《有孩子以后就是一切原罪的开始》后续](https://www.v2ex.com/t/866562#reply12) | 2022-07-15 23:34:13 
-- 🙉 [[程序员] 你最喜欢的 ORM 有哪些最讨厌的地方？](https://www.v2ex.com/t/866561#reply1) | 2022-07-15 23:29:19 
-- 💫 [[宽带症候群] 求移动 rax3000z 的超级密码](https://www.v2ex.com/t/866560#reply2) | 2022-07-15 23:20:52 
-- 🎓 [[Apple] 去店里看新出的 M2 Air，下单了深空灰色。。。](https://www.v2ex.com/t/866559#reply0) | 2022-07-15 23:17:15 
-- 🗽 [[PHP] 如何限制 PHP 每秒只执行一次？](https://www.v2ex.com/t/866558#reply6) | 2022-07-15 23:14:43 
-- ⚗️ [[macOS] 下单了 mac mini 做 NAS， mac 支持 raid 吗？有几个问题想请教](https://www.v2ex.com/t/866557#reply2) | 2022-07-15 23:10:43 
-- 🦍 [[问与答] 智能手机会调节充电速率，越接近 100% 越慢。那么用移动电源给手机充电，从 5% 充到 15%，与，从 85% 充到 95% 所消耗的容量相同吗？](https://www.v2ex.com/t/866556#reply3) | 2022-07-15 18:17:16 
-- 🤩 [[Python] 实时保存股票 tick 数据，采用什么数据结构或者数据库比较好？](https://www.v2ex.com/t/866555#reply4) | 2022-07-15 17:47:01 
-- 🙉 [[问与答] 如何查询 Hive 两个分区的 diff？](https://www.v2ex.com/t/866554#reply0) | 2022-07-15 16:27:48 
-- 🌏 [[Figma] 为什么 figma 设计 UI 的时候，大家都把 app 的多个界面（都是以 Frame 形式一个个呈现）放在一个 Page 里](https://www.v2ex.com/t/866553#reply1) | 2022-07-15 16:24:21 
-- 🐘 [[问与答] 怎么扩展社交圈，提高社交能力](https://www.v2ex.com/t/866552#reply6) | 2022-07-15 16:16:15 
-- 🧰 [[问与答] XDM，我的 Mac 是不是中病毒了？](https://www.v2ex.com/t/866551#reply6) | 2022-07-15 16:14:50 
-- 💃 [[职场话题] 关于程序员英语水平问题](https://www.v2ex.com/t/866550#reply8) | 2022-07-15 16:11:04 
-- 🕯 [[问与答] 华硕 B660i 开机风扇全速转](https://www.v2ex.com/t/866549#reply6) | 2022-07-15 16:06:47 <!-- v2ex:END -->
+- 🫶 [[MacBook] m1 mac 外接显示器的问题](https://www.v2ex.com/t/866586#reply0) | 2022-07-16 02:46:15 
+- 🧰 [[程序员] MongoDB Atlas 和 AWS Lambda 链接出现超时错误, 求解决方法](https://www.v2ex.com/t/866585#reply0) | 2022-07-16 02:38:49 
+- 🌏 [[OpenWrt] openwrt ssp+问题请教](https://www.v2ex.com/t/866584#reply0) | 2022-07-16 02:28:29 
+- 😎 [[全球工单系统] Brave 浏览器中文翻译是官翻吗？](https://www.v2ex.com/t/866583#reply0) | 2022-07-16 02:14:41 
+- 💂 [[程序员] 请问: 德语信件回复这句话是否恰当: Ich würde mich über Antworten freuen](https://www.v2ex.com/t/866582#reply1) | 2022-07-16 02:10:58 
+- 🔥 [[Windows] Win 11 开机之后， WiFi 连上后自动断开成地球图标](https://www.v2ex.com/t/866581#reply1) | 2022-07-16 02:04:32 
+- 🦅 [[Surge] 网络调试工具 surge 4 车位 135 软妹币，有需要的快来。](https://www.v2ex.com/t/866579#reply2) | 2022-07-16 01:59:11 
+- 🙉 [[问与答] 日常工作与人沟通时总想笑是为啥？](https://www.v2ex.com/t/866577#reply4) | 2022-07-16 01:56:53 
+- 💫 [[Linux] Manjaro-KDE 下配置 NoMachine 远程访问時多用户使用独立 GUI。](https://www.v2ex.com/t/866575#reply0) | 2022-07-16 01:26:35 
+- 🎓 [[Apple] 百度网盘 适配 Apple Silicon](https://www.v2ex.com/t/866574#reply13) | 2022-07-16 01:07:38 
+- 🗽 [[Java] 代码生成](https://www.v2ex.com/t/866573#reply9) | 2022-07-16 01:03:02 
+- ⚗️ [[问与答] 内存，作为计算机核心零部件中成本最低，性能提升最明显的一个，为啥品牌机厂商却都控制的非常谨慎，不愿意多给，基本要等四五年才给加 2G，现在很多万元本还是 16G 内存……很多手机内存都比电脑大了……](https://www.v2ex.com/t/866572#reply31) | 2022-07-16 01:01:23 
+- 🦍 [[前端开发] 前端用 VUE3 打包静态文件，后端 API 是否需要考虑安全保护？](https://www.v2ex.com/t/866571#reply10) | 2022-07-16 00:58:47 
+- 🤩 [[C++] C++分配 vector 进行初始化问题，想要分配一个 N 个字符串类型的 vector,后续直接下标访问,有没有比较好的方式？](https://www.v2ex.com/t/866570#reply5) | 2022-07-16 00:58:23 
+- 🙉 [[VPS] debian VPS 有啥整盘搬家的办法吗?](https://www.v2ex.com/t/866568#reply7) | 2022-07-16 00:27:17 
+- 🌏 [[问与答] 阿里云的服务器定价, 看不太懂了](https://www.v2ex.com/t/866567#reply5) | 2022-07-16 00:19:08 
+- 🐘 [[NAS] UNRAID 优惠折扣 5 折依然有效](https://www.v2ex.com/t/866566#reply4) | 2022-07-16 00:16:47 
+- 🧰 [[Apple] youtube app 如何改变地理位置以享受会员权益？](https://www.v2ex.com/t/866565#reply17) | 2022-07-16 00:16:43 
+- 💃 [[Apple] 最近发现了 iPhone 和 iPad 上 youtube 应用有了画中画功能](https://www.v2ex.com/t/866563#reply13) | 2022-07-15 23:36:37 
+- 🕯 [[随想] 《有孩子以后就是一切原罪的开始》后续](https://www.v2ex.com/t/866562#reply30) | 2022-07-15 23:34:13 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
