@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[macOS] 村通网： Mac 截图支持选中后移动选框](https://www.v2ex.com/t/866647#reply0) | 2022-07-16 09:02:12 
-- 🧰 [[程序员] 居家用 Golang 撸了一款小而美的 [Markdown 静态博客程序]](https://www.v2ex.com/t/866645#reply3) | 2022-07-16 08:29:13 
-- 🌏 [[问与答] 群的二维码设置有效期的目的是什么？](https://www.v2ex.com/t/866644#reply2) | 2022-07-16 08:28:11 
-- 😎 [[问与答] 求帮忙估计下网站费用](https://www.v2ex.com/t/866642#reply6) | 2022-07-16 08:19:33 
-- 💂 [[推广] 支付 bao 扫码的活动放水了，想省钱的可以看看](https://www.v2ex.com/t/866641#reply0) | 2022-07-16 08:16:41 
-- 🔥 [[问与答] 请问大家,我如何在国内很好的分享我录制的算法课程](https://www.v2ex.com/t/866640#reply4) | 2022-07-16 08:13:09 
-- 🦅 [[Android] 发现国内的 Android 比 pixel 原生系列的系统文件大了好多。](https://www.v2ex.com/t/866638#reply1) | 2022-07-16 07:54:56 
-- 🙉 [[问与答] 关注性价比大功率音响](https://www.v2ex.com/t/866637#reply0) | 2022-07-16 07:39:52 
-- 💫 [[git] 求问，假设我 Fork 了一个 github 私库，如果 upstream 的源库某天移除了我的权限， Fork 出的库还能找回吗。。。](https://www.v2ex.com/t/866636#reply5) | 2022-07-16 07:37:17 
-- 🎓 [[Apple] M2 Air 里 U1 超宽频芯片未来会有什么作用？](https://www.v2ex.com/t/866635#reply4) | 2022-07-16 07:36:55 
-- 🗽 [[macOS] iMac 内置系统 macOS+外置 SSD 双系统 每次启动都跑到内置 OS](https://www.v2ex.com/t/866633#reply1) | 2022-07-16 07:32:34 
-- ⚗️ [[问与答] 晚上睡觉空调开多少度？](https://www.v2ex.com/t/866631#reply23) | 2022-07-16 07:14:48 
-- 🦍 [[酷工作] [上海]-[不加班]-[外企] 招 Java 、C++、安卓、中级测试、支持工程师、初级 devOps， Java 和 测试有残疾人岗位](https://www.v2ex.com/t/866629#reply0) | 2022-07-16 06:55:06 
-- 🤩 [[问与答] 普通人到底如何才能申请到 Google Voice？ GV 这么难申请，网络上为什么有那么多 GV 号在卖？](https://www.v2ex.com/t/866625#reply19) | 2022-07-16 06:10:42 
-- 🙉 [[问与答] 工作 5 年出去读书，再就业的时候高级的 title 还有么？还是要从初级干起？](https://www.v2ex.com/t/866624#reply4) | 2022-07-16 06:05:21 
-- 🌏 [[小米] 如何解决小米机器人无法连接网件路由器的问题？](https://www.v2ex.com/t/866623#reply2) | 2022-07-16 05:47:58 
-- 🐘 [[Apple] 戴尔 s2721qs 适配 Mac mini m1 可以了吗？](https://www.v2ex.com/t/866622#reply0) | 2022-07-16 05:45:37 
-- 🧰 [[Vue.js] vue3 eslint 和 prettier 都配了，格式化有冲突，看这个冲突怎么解决](https://www.v2ex.com/t/866621#reply7) | 2022-07-16 05:45:33 
-- 💃 [[宽带症候群] 深圳电信已经禁止 IPTV 宽带双公网 IP](https://www.v2ex.com/t/866620#reply7) | 2022-07-16 05:44:11 
-- 🕯 [[Windows] Win11 神奇 bug，视频无法播放（目前无法复现](https://www.v2ex.com/t/866619#reply2) | 2022-07-16 05:22:20 <!-- v2ex:END -->
+- 🫶 [[宽带症候群] ntt 准备建设日美之间光缆](https://www.v2ex.com/t/866657#reply0) | 2022-07-16 09:59:54 
+- 🧰 [[职场话题] 前端做点啥小工具可以写到简历上](https://www.v2ex.com/t/866656#reply0) | 2022-07-16 09:58:39 
+- 🌏 [[上海] 一只大橘找领养](https://www.v2ex.com/t/866655#reply2) | 2022-07-16 09:54:31 
+- 😎 [[科技] 用 rust 撸了一个 lisp 解释器](https://www.v2ex.com/t/866654#reply3) | 2022-07-16 09:46:28 
+- 💂 [[问与答] 双屏的时候关闭副屏时如何自动禁止窗口还能拖动到副屏上](https://www.v2ex.com/t/866653#reply2) | 2022-07-16 09:40:43 
+- 🔥 [[互联网] macos 上的 QQ 居然需要手机扫码，什么毛病了](https://www.v2ex.com/t/866652#reply0) | 2022-07-16 09:37:05 
+- 🦅 [[问与答] 国内有没有什么类似于 DNSPod Pulic DNS 或 NextDNS 的个性化 DNS 服务？](https://www.v2ex.com/t/866651#reply1) | 2022-07-16 09:30:34 
+- 🙉 [[程序员] 北航 2023 非全日制考研，一起信息交流，探讨与相互监督。](https://www.v2ex.com/t/866650#reply1) | 2022-07-16 09:27:44 
+- 💫 [[上海] 现阶段感觉租房太难了，第一次这么强烈的想买房的欲望](https://www.v2ex.com/t/866648#reply8) | 2022-07-16 09:10:58 
+- 🎓 [[macOS] 村通网： Mac 截图支持选中后移动选框](https://www.v2ex.com/t/866647#reply0) | 2022-07-16 09:02:12 
+- 🗽 [[程序员] 居家用 Golang 撸了一款小而美的 [Markdown 静态博客程序]](https://www.v2ex.com/t/866645#reply9) | 2022-07-16 08:29:13 
+- ⚗️ [[问与答] 群的二维码设置有效期的目的是什么？](https://www.v2ex.com/t/866644#reply4) | 2022-07-16 08:28:11 
+- 🦍 [[问与答] 求帮忙估计下网站费用](https://www.v2ex.com/t/866642#reply6) | 2022-07-16 08:19:33 
+- 🤩 [[推广] 支付 bao 扫码的活动放水了，想省钱的可以看看](https://www.v2ex.com/t/866641#reply1) | 2022-07-16 08:16:41 
+- 🙉 [[问与答] 请问大家,我如何在国内很好的分享我录制的算法课程](https://www.v2ex.com/t/866640#reply4) | 2022-07-16 08:13:09 
+- 🌏 [[Android] 发现国内的 Android 比 pixel 原生系列的系统文件大了好多。](https://www.v2ex.com/t/866638#reply2) | 2022-07-16 07:54:56 
+- 🐘 [[问与答] 关注性价比大功率音响](https://www.v2ex.com/t/866637#reply0) | 2022-07-16 07:39:52 
+- 🧰 [[git] 求问，假设我 Fork 了一个 github 私库，如果 upstream 的源库某天移除了我的权限， Fork 出的库还能找回吗。。。](https://www.v2ex.com/t/866636#reply5) | 2022-07-16 07:37:17 
+- 💃 [[Apple] M2 Air 里 U1 超宽频芯片未来会有什么作用？](https://www.v2ex.com/t/866635#reply5) | 2022-07-16 07:36:55 
+- 🕯 [[macOS] iMac 内置系统 macOS+外置 SSD 双系统 每次启动都跑到内置 OS](https://www.v2ex.com/t/866633#reply1) | 2022-07-16 07:32:34 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
