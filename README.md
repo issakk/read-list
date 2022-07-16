@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[Android] 发现国内的 Android 比 pixel 原生系列的系统文件大了好多。](https://www.v2ex.com/t/866638#reply0) | 2022-07-16 07:54:56 
-- 🧰 [[问与答] 关注性价比大功率音响](https://www.v2ex.com/t/866637#reply0) | 2022-07-16 07:39:52 
-- 🌏 [[git] 求问，假设我 Fork 了一个 github 私库，如果 upstream 的源库某天移除了我的权限， Fork 出的库还能找回吗。。。](https://www.v2ex.com/t/866636#reply2) | 2022-07-16 07:37:17 
-- 😎 [[Apple] M2 Air 里 U1 超宽频芯片未来会有什么作用？](https://www.v2ex.com/t/866635#reply1) | 2022-07-16 07:36:55 
-- 💂 [[macOS] iMac 内置系统 macOS+外置 SSD 双系统 每次启动都跑到内置 OS](https://www.v2ex.com/t/866633#reply1) | 2022-07-16 07:32:34 
-- 🔥 [[问与答] 晚上睡觉空调开多少度？](https://www.v2ex.com/t/866631#reply15) | 2022-07-16 07:14:48 
-- 🦅 [[酷工作] [上海]-[不加班]-[外企] 招 Java 、C++、安卓、中级测试、支持工程师、初级 devOps， Java 和 测试有残疾人岗位](https://www.v2ex.com/t/866629#reply0) | 2022-07-16 06:55:06 
-- 🙉 [[问与答] 普通人到底如何才能申请到 Google Voice？ GV 这么难申请，网络上为什么有那么多 GV 号在卖？](https://www.v2ex.com/t/866625#reply16) | 2022-07-16 06:10:42 
-- 💫 [[问与答] 工作 5 年出去读书，再就业的时候高级的 title 还有么？还是要从初级干起？](https://www.v2ex.com/t/866624#reply3) | 2022-07-16 06:05:21 
-- 🎓 [[小米] 如何解决小米机器人无法连接网件路由器的问题？](https://www.v2ex.com/t/866623#reply2) | 2022-07-16 05:47:58 
-- 🗽 [[Apple] 戴尔 s2721qs 适配 Mac mini m1 可以了吗？](https://www.v2ex.com/t/866622#reply0) | 2022-07-16 05:45:37 
-- ⚗️ [[Vue.js] vue3 eslint 和 prettier 都配了，格式化有冲突，看这个冲突怎么解决](https://www.v2ex.com/t/866621#reply7) | 2022-07-16 05:45:33 
-- 🦍 [[宽带症候群] 深圳电信已经禁止 IPTV 宽带双公网 IP](https://www.v2ex.com/t/866620#reply7) | 2022-07-16 05:44:11 
-- 🤩 [[Windows] Win11 神奇 bug，视频无法播放（目前无法复现](https://www.v2ex.com/t/866619#reply2) | 2022-07-16 05:22:20 
-- 🙉 [[问与答] 推荐个 Windows 上用的词典吧！现在用欧路 Eudic 还不错，以前用过 Lingoes 但是不更新了。不知道有没有别的更好用的。](https://www.v2ex.com/t/866618#reply6) | 2022-07-16 05:14:28 
-- 🌏 [[北京] 北京报驾校有“内推”渠道吗](https://www.v2ex.com/t/866615#reply5) | 2022-07-16 04:59:48 
-- 🐘 [[Java] jshell 如何调用 dubbo 远程服务接口](https://www.v2ex.com/t/866614#reply5) | 2022-07-16 04:46:16 
-- 🧰 [[程序员] 码了个新玩意儿， redis 命令行工具集](https://www.v2ex.com/t/866613#reply0) | 2022-07-16 04:46:01 
-- 💃 [[数学] 已知一个点坐标，中心点，线段长度和角度。求在坐标系中另外一个点？求公式。](https://www.v2ex.com/t/866612#reply3) | 2022-07-16 04:41:20 
-- 🕯 [[问与答] iPhone 拍的实况图，图+视频，该使用什么软件备份？](https://www.v2ex.com/t/866610#reply0) | 2022-07-16 04:31:06 <!-- v2ex:END -->
+- 🫶 [[macOS] 村通网： Mac 截图支持选中后移动选框](https://www.v2ex.com/t/866647#reply0) | 2022-07-16 09:02:12 
+- 🧰 [[程序员] 居家用 Golang 撸了一款小而美的 [Markdown 静态博客程序]](https://www.v2ex.com/t/866645#reply3) | 2022-07-16 08:29:13 
+- 🌏 [[问与答] 群的二维码设置有效期的目的是什么？](https://www.v2ex.com/t/866644#reply2) | 2022-07-16 08:28:11 
+- 😎 [[问与答] 求帮忙估计下网站费用](https://www.v2ex.com/t/866642#reply6) | 2022-07-16 08:19:33 
+- 💂 [[推广] 支付 bao 扫码的活动放水了，想省钱的可以看看](https://www.v2ex.com/t/866641#reply0) | 2022-07-16 08:16:41 
+- 🔥 [[问与答] 请问大家,我如何在国内很好的分享我录制的算法课程](https://www.v2ex.com/t/866640#reply4) | 2022-07-16 08:13:09 
+- 🦅 [[Android] 发现国内的 Android 比 pixel 原生系列的系统文件大了好多。](https://www.v2ex.com/t/866638#reply1) | 2022-07-16 07:54:56 
+- 🙉 [[问与答] 关注性价比大功率音响](https://www.v2ex.com/t/866637#reply0) | 2022-07-16 07:39:52 
+- 💫 [[git] 求问，假设我 Fork 了一个 github 私库，如果 upstream 的源库某天移除了我的权限， Fork 出的库还能找回吗。。。](https://www.v2ex.com/t/866636#reply5) | 2022-07-16 07:37:17 
+- 🎓 [[Apple] M2 Air 里 U1 超宽频芯片未来会有什么作用？](https://www.v2ex.com/t/866635#reply4) | 2022-07-16 07:36:55 
+- 🗽 [[macOS] iMac 内置系统 macOS+外置 SSD 双系统 每次启动都跑到内置 OS](https://www.v2ex.com/t/866633#reply1) | 2022-07-16 07:32:34 
+- ⚗️ [[问与答] 晚上睡觉空调开多少度？](https://www.v2ex.com/t/866631#reply23) | 2022-07-16 07:14:48 
+- 🦍 [[酷工作] [上海]-[不加班]-[外企] 招 Java 、C++、安卓、中级测试、支持工程师、初级 devOps， Java 和 测试有残疾人岗位](https://www.v2ex.com/t/866629#reply0) | 2022-07-16 06:55:06 
+- 🤩 [[问与答] 普通人到底如何才能申请到 Google Voice？ GV 这么难申请，网络上为什么有那么多 GV 号在卖？](https://www.v2ex.com/t/866625#reply19) | 2022-07-16 06:10:42 
+- 🙉 [[问与答] 工作 5 年出去读书，再就业的时候高级的 title 还有么？还是要从初级干起？](https://www.v2ex.com/t/866624#reply4) | 2022-07-16 06:05:21 
+- 🌏 [[小米] 如何解决小米机器人无法连接网件路由器的问题？](https://www.v2ex.com/t/866623#reply2) | 2022-07-16 05:47:58 
+- 🐘 [[Apple] 戴尔 s2721qs 适配 Mac mini m1 可以了吗？](https://www.v2ex.com/t/866622#reply0) | 2022-07-16 05:45:37 
+- 🧰 [[Vue.js] vue3 eslint 和 prettier 都配了，格式化有冲突，看这个冲突怎么解决](https://www.v2ex.com/t/866621#reply7) | 2022-07-16 05:45:33 
+- 💃 [[宽带症候群] 深圳电信已经禁止 IPTV 宽带双公网 IP](https://www.v2ex.com/t/866620#reply7) | 2022-07-16 05:44:11 
+- 🕯 [[Windows] Win11 神奇 bug，视频无法播放（目前无法复现](https://www.v2ex.com/t/866619#reply2) | 2022-07-16 05:22:20 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
