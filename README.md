@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[程序员] 请教口语达人: 说口语时, 英语和德语总是会互相影响,互相冲突怎么办?](https://www.v2ex.com/t/866597#reply0) | 2022-07-16 03:36:12 
-- 🧰 [[macOS] MacBook Pro 16 M1 Max， 网速只能达到 60M（100M 宽带的情况下），这是什么情况，大家出现过同样的问题吗？](https://www.v2ex.com/t/866596#reply1) | 2022-07-16 03:23:00 
-- 🌏 [[问与答] 请问 pc 哪个输入法能支持首字母大写，剩下的小写这个功能？](https://www.v2ex.com/t/866594#reply3) | 2022-07-16 03:16:09 
-- 😎 [[问与答] 国内现在还有大量新型号的电脑和手机在使用不支持 802.11ac 的无限网卡么？](https://www.v2ex.com/t/866593#reply0) | 2022-07-16 03:09:39 
-- 💂 [[大连] 冒个泡 123](https://www.v2ex.com/t/866592#reply1) | 2022-07-16 02:58:52 
-- 🔥 [[Mac Studio] Mac Studio 的上至少 4 个 USB 接口是残血的 5Gb/s](https://www.v2ex.com/t/866591#reply0) | 2022-07-16 02:57:15 
-- 🦅 [[Apple] 苹果查找手机的疑问](https://www.v2ex.com/t/866589#reply1) | 2022-07-16 02:56:12 
-- 🙉 [[MacBook] m1 mac 外接显示器的问题](https://www.v2ex.com/t/866586#reply1) | 2022-07-16 02:46:15 
-- 💫 [[程序员] MongoDB Atlas 和 AWS Lambda 链接出现超时错误, 求解决方法](https://www.v2ex.com/t/866585#reply0) | 2022-07-16 02:38:49 
-- 🎓 [[OpenWrt] openwrt ssp+问题请教](https://www.v2ex.com/t/866584#reply0) | 2022-07-16 02:28:29 
-- 🗽 [[全球工单系统] Brave 浏览器中文翻译是官翻吗？](https://www.v2ex.com/t/866583#reply4) | 2022-07-16 02:14:41 
-- ⚗️ [[程序员] 请问: 德语信件回复这句话是否恰当: Ich würde mich über Antworten freuen](https://www.v2ex.com/t/866582#reply4) | 2022-07-16 02:10:58 
-- 🦍 [[Windows] Win 11 开机之后， WiFi 连上后自动断开成地球图标](https://www.v2ex.com/t/866581#reply4) | 2022-07-16 02:04:32 
-- 🤩 [[Surge] 网络调试工具 surge 4 车位 135 软妹币，有需要的快来。](https://www.v2ex.com/t/866579#reply2) | 2022-07-16 01:59:11 
-- 🙉 [[问与答] 日常工作与人沟通时总想笑是为啥？](https://www.v2ex.com/t/866577#reply7) | 2022-07-16 01:56:53 
-- 🌏 [[Linux] Manjaro-KDE 下配置 NoMachine 远程访问時多用户使用独立 GUI。](https://www.v2ex.com/t/866575#reply0) | 2022-07-16 01:26:35 
-- 🐘 [[Apple] 百度网盘 适配 Apple Silicon](https://www.v2ex.com/t/866574#reply21) | 2022-07-16 01:07:38 
-- 🧰 [[Java] 代码生成](https://www.v2ex.com/t/866573#reply11) | 2022-07-16 01:03:02 
-- 💃 [[问与答] 内存，作为计算机核心零部件中成本最低，性能提升最明显的一个，为啥品牌机厂商却都控制的非常谨慎，不愿意多给，基本要等四五年才给加 2G，现在很多万元本还是 16G 内存……很多手机内存都比电脑大了……](https://www.v2ex.com/t/866572#reply36) | 2022-07-16 01:01:23 
-- 🕯 [[前端开发] 前端用 VUE3 打包静态文件，后端 API 是否需要考虑安全保护？](https://www.v2ex.com/t/866571#reply15) | 2022-07-16 00:58:47 <!-- v2ex:END -->
+- 🫶 [[程序员] 请教 Mac &lpar;Intel&rpar; vs. Mac &lpar;M1&rpar; 在开发 Apple 应用的区别](https://www.v2ex.com/t/866608#reply0) | 2022-07-16 04:15:01 
+- 🧰 [[macOS] 如何优雅地把一个 10g 左右的 zip 文件从 mac 系统放到 ios 系统里呢？](https://www.v2ex.com/t/866607#reply2) | 2022-07-16 04:07:06 
+- 🌏 [[Apple] 想问一下要不要把 intel mbp 换成 m1 的 mba](https://www.v2ex.com/t/866606#reply0) | 2022-07-16 04:06:02 
+- 😎 [[Apple] 现在换 M1，还是等九月发布会？](https://www.v2ex.com/t/866605#reply1) | 2022-07-16 04:05:19 
+- 💂 [[程序员] 现在还有人在搞区块链吗？区块链存在的意义到底是什么？](https://www.v2ex.com/t/866604#reply2) | 2022-07-16 04:02:05 
+- 🔥 [[Amazon Web Services] 基于 Aws Glue 构建大数据方案有没有实战过的，求分享](https://www.v2ex.com/t/866603#reply0) | 2022-07-16 03:53:54 
+- 🦅 [[问与答] 请教前端大佬，星巴克小程序的首页效果该如何实现](https://www.v2ex.com/t/866602#reply2) | 2022-07-16 03:47:31 
+- 🙉 [[问与答] 没有安卓手机，能不能将 youtube 转到美区？](https://www.v2ex.com/t/866601#reply0) | 2022-07-16 03:47:16 
+- 💫 [[Windows] 求助， Win10 更新后自动重启如何关闭？](https://www.v2ex.com/t/866600#reply4) | 2022-07-16 03:44:11 
+- 🎓 [[macOS] MacBook Pro 16 M1 Max， 网速只能达到 60M（100M 宽带的情况下），这是什么情况，大家出现过同样的问题吗？](https://www.v2ex.com/t/866596#reply2) | 2022-07-16 03:23:00 
+- 🗽 [[问与答] 请问 pc 哪个输入法能支持首字母大写，剩下的小写这个功能？](https://www.v2ex.com/t/866594#reply8) | 2022-07-16 03:16:09 
+- ⚗️ [[问与答] 国内现在还有大量新型号的电脑和手机在使用不支持 802.11ac 的无限网卡么？](https://www.v2ex.com/t/866593#reply0) | 2022-07-16 03:09:39 
+- 🦍 [[大连] 冒个泡 123](https://www.v2ex.com/t/866592#reply2) | 2022-07-16 02:58:52 
+- 🤩 [[Mac Studio] Mac Studio 的上至少 4 个 USB 接口是残血的 5Gb/s](https://www.v2ex.com/t/866591#reply0) | 2022-07-16 02:57:15 
+- 🙉 [[Apple] 苹果查找手机的疑问](https://www.v2ex.com/t/866589#reply1) | 2022-07-16 02:56:12 
+- 🌏 [[MacBook] m1 mac 外接显示器的问题](https://www.v2ex.com/t/866586#reply1) | 2022-07-16 02:46:15 
+- 🐘 [[OpenWrt] openwrt ssp+问题请教](https://www.v2ex.com/t/866584#reply0) | 2022-07-16 02:28:29 
+- 🧰 [[全球工单系统] Brave 浏览器中文翻译是官翻吗？](https://www.v2ex.com/t/866583#reply4) | 2022-07-16 02:14:41 
+- 💃 [[Windows] Win 11 开机之后， WiFi 连上后自动断开成地球图标](https://www.v2ex.com/t/866581#reply10) | 2022-07-16 02:04:32 
+- 🕯 [[Surge] 网络调试工具 surge 4 车位 135 软妹币，有需要的快来。](https://www.v2ex.com/t/866579#reply2) | 2022-07-16 01:59:11 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
