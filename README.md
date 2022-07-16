@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[程序员] 请教 Mac &lpar;Intel&rpar; vs. Mac &lpar;M1&rpar; 在开发 Apple 应用的区别](https://www.v2ex.com/t/866608#reply0) | 2022-07-16 04:15:01 
-- 🧰 [[macOS] 如何优雅地把一个 10g 左右的 zip 文件从 mac 系统放到 ios 系统里呢？](https://www.v2ex.com/t/866607#reply2) | 2022-07-16 04:07:06 
-- 🌏 [[Apple] 想问一下要不要把 intel mbp 换成 m1 的 mba](https://www.v2ex.com/t/866606#reply0) | 2022-07-16 04:06:02 
-- 😎 [[Apple] 现在换 M1，还是等九月发布会？](https://www.v2ex.com/t/866605#reply1) | 2022-07-16 04:05:19 
-- 💂 [[程序员] 现在还有人在搞区块链吗？区块链存在的意义到底是什么？](https://www.v2ex.com/t/866604#reply2) | 2022-07-16 04:02:05 
-- 🔥 [[Amazon Web Services] 基于 Aws Glue 构建大数据方案有没有实战过的，求分享](https://www.v2ex.com/t/866603#reply0) | 2022-07-16 03:53:54 
-- 🦅 [[问与答] 请教前端大佬，星巴克小程序的首页效果该如何实现](https://www.v2ex.com/t/866602#reply2) | 2022-07-16 03:47:31 
-- 🙉 [[问与答] 没有安卓手机，能不能将 youtube 转到美区？](https://www.v2ex.com/t/866601#reply0) | 2022-07-16 03:47:16 
-- 💫 [[Windows] 求助， Win10 更新后自动重启如何关闭？](https://www.v2ex.com/t/866600#reply4) | 2022-07-16 03:44:11 
-- 🎓 [[macOS] MacBook Pro 16 M1 Max， 网速只能达到 60M（100M 宽带的情况下），这是什么情况，大家出现过同样的问题吗？](https://www.v2ex.com/t/866596#reply2) | 2022-07-16 03:23:00 
-- 🗽 [[问与答] 请问 pc 哪个输入法能支持首字母大写，剩下的小写这个功能？](https://www.v2ex.com/t/866594#reply8) | 2022-07-16 03:16:09 
-- ⚗️ [[问与答] 国内现在还有大量新型号的电脑和手机在使用不支持 802.11ac 的无限网卡么？](https://www.v2ex.com/t/866593#reply0) | 2022-07-16 03:09:39 
-- 🦍 [[大连] 冒个泡 123](https://www.v2ex.com/t/866592#reply2) | 2022-07-16 02:58:52 
-- 🤩 [[Mac Studio] Mac Studio 的上至少 4 个 USB 接口是残血的 5Gb/s](https://www.v2ex.com/t/866591#reply0) | 2022-07-16 02:57:15 
-- 🙉 [[Apple] 苹果查找手机的疑问](https://www.v2ex.com/t/866589#reply1) | 2022-07-16 02:56:12 
-- 🌏 [[MacBook] m1 mac 外接显示器的问题](https://www.v2ex.com/t/866586#reply1) | 2022-07-16 02:46:15 
-- 🐘 [[OpenWrt] openwrt ssp+问题请教](https://www.v2ex.com/t/866584#reply0) | 2022-07-16 02:28:29 
-- 🧰 [[全球工单系统] Brave 浏览器中文翻译是官翻吗？](https://www.v2ex.com/t/866583#reply4) | 2022-07-16 02:14:41 
-- 💃 [[Windows] Win 11 开机之后， WiFi 连上后自动断开成地球图标](https://www.v2ex.com/t/866581#reply10) | 2022-07-16 02:04:32 
-- 🕯 [[Surge] 网络调试工具 surge 4 车位 135 软妹币，有需要的快来。](https://www.v2ex.com/t/866579#reply2) | 2022-07-16 01:59:11 <!-- v2ex:END -->
+- 🫶 [[北京] 北京报驾校有“内推”渠道吗](https://www.v2ex.com/t/866615#reply1) | 2022-07-16 04:59:48 
+- 🧰 [[Java] jshell 如何调用 dubbo 远程服务接口](https://www.v2ex.com/t/866614#reply1) | 2022-07-16 04:46:16 
+- 🌏 [[程序员] 码了个新玩意儿， redis 命令行工具集](https://www.v2ex.com/t/866613#reply0) | 2022-07-16 04:46:01 
+- 😎 [[数学] 已知一个点坐标，中心点，线段长度和角度。求在坐标系中另外一个点？求公式。](https://www.v2ex.com/t/866612#reply1) | 2022-07-16 04:41:20 
+- 💂 [[问与答] 加密货币出现前，暗网是如何进行匿名支付的呢？](https://www.v2ex.com/t/866611#reply2) | 2022-07-16 04:37:39 
+- 🔥 [[问与答] iPhone 拍的实况图，图+视频，该使用什么软件备份？](https://www.v2ex.com/t/866610#reply0) | 2022-07-16 04:31:06 
+- 🦅 [[分享创造] 懒是第一生产力，部署后无成本追番的项目](https://www.v2ex.com/t/866609#reply0) | 2022-07-16 04:29:32 
+- 🙉 [[程序员] 请教 Mac &lpar;Intel&rpar; vs. Mac &lpar;M1&rpar; 在开发 Apple 应用的区别](https://www.v2ex.com/t/866608#reply3) | 2022-07-16 04:15:01 
+- 💫 [[macOS] 如何优雅地把一个 10g 左右的 zip 文件从 mac 系统放到 ios 系统里呢？](https://www.v2ex.com/t/866607#reply9) | 2022-07-16 04:07:06 
+- 🎓 [[Apple] 想问一下要不要把 intel mbp 换成 m1 的 mba](https://www.v2ex.com/t/866606#reply0) | 2022-07-16 04:06:02 
+- 🗽 [[Apple] 现在换 M1，还是等九月发布会？](https://www.v2ex.com/t/866605#reply5) | 2022-07-16 04:05:19 
+- ⚗️ [[程序员] 现在还有人在搞区块链吗？区块链存在的意义到底是什么？](https://www.v2ex.com/t/866604#reply6) | 2022-07-16 04:02:05 
+- 🦍 [[Amazon Web Services] 基于 Aws Glue 构建大数据方案有没有实战过的，求分享](https://www.v2ex.com/t/866603#reply0) | 2022-07-16 03:53:54 
+- 🤩 [[问与答] 请教前端大佬，星巴克小程序的首页效果该如何实现](https://www.v2ex.com/t/866602#reply5) | 2022-07-16 03:47:31 
+- 🙉 [[问与答] 没有安卓手机，能不能将 youtube 转到美区？](https://www.v2ex.com/t/866601#reply2) | 2022-07-16 03:47:16 
+- 🌏 [[Windows] 求助， Win10 更新后自动重启如何关闭？](https://www.v2ex.com/t/866600#reply4) | 2022-07-16 03:44:11 
+- 🐘 [[macOS] MacBook Pro 16 M1 Max， 网速只能达到 60M（100M 宽带的情况下），这是什么情况，大家出现过同样的问题吗？](https://www.v2ex.com/t/866596#reply2) | 2022-07-16 03:23:00 
+- 🧰 [[问与答] 请问 pc 哪个输入法能支持首字母大写，剩下的小写这个功能？](https://www.v2ex.com/t/866594#reply12) | 2022-07-16 03:16:09 
+- 💃 [[问与答] 国内现在还有大量新型号的电脑和手机在使用不支持 802.11ac 的无限网卡么？](https://www.v2ex.com/t/866593#reply1) | 2022-07-16 03:09:39 
+- 🕯 [[大连] 冒个泡 123](https://www.v2ex.com/t/866592#reply2) | 2022-07-16 02:58:52 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
