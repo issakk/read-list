@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[问与答] 感觉 USB-C 带来一个混乱的数码世界](https://www.v2ex.com/t/866718#reply0) | 2022-07-16 19:55:00 
-- 🧰 [[程序员] 想问个问题，做微信公众号爬虫， cookie 失效后要如何获取新的 cookie?](https://www.v2ex.com/t/866717#reply2) | 2022-07-16 18:49:06 
-- 🌏 [[问与答] 我买的苹果手机可能是假的吗？](https://www.v2ex.com/t/866716#reply3) | 2022-07-16 18:24:37 
-- 😎 [[数学] 发了两个贴子，关于解三角函数正弦余弦的公式的，但是带入公式都没成功，所以描述一下问题产生的原因。](https://www.v2ex.com/t/866714#reply1) | 2022-07-16 17:51:47 
-- 💂 [[macOS] Stage Manager 的左侧边栏只能显示四个软件吗？](https://www.v2ex.com/t/866713#reply2) | 2022-07-16 17:28:11 
-- 🔥 [[数学] 之前发了一个问题，可能没有图片，大家不太理解，我弄了一个图片。](https://www.v2ex.com/t/866709#reply3) | 2022-07-16 16:45:09 
-- 🦅 [[上海] 上海转租，浦东/蓝村路 附近就是 4/6 号线](https://www.v2ex.com/t/866708#reply3) | 2022-07-16 16:32:42 
-- 🙉 [[iDev] 各位大佬问一个 Xcode App Group 的问题](https://www.v2ex.com/t/866707#reply4) | 2022-07-16 16:24:41 
-- 💫 [[Node.js] V 友们，有什么好的 Node 项目推荐吗](https://www.v2ex.com/t/866706#reply2) | 2022-07-16 16:23:46 
-- 🎓 [[问与答] 现在转行做程序员还值得吗, 29 岁了](https://www.v2ex.com/t/866705#reply18) | 2022-07-16 16:12:42 
-- 🗽 [[Node.js] 推荐一款新发现的用 Node 实现的免费下载无损音乐的命令行工具 Musicn](https://www.v2ex.com/t/866704#reply0) | 2022-07-16 15:52:32 
-- ⚗️ [[问与答] 求助！能推荐个 5~8 K 的笔记本嘛](https://www.v2ex.com/t/866702#reply12) | 2022-07-16 15:41:32 
-- 🦍 [[分享发现] 刚在 YouTube 看到李永乐老师关于梦的解析，感觉有点意思，给大家分享一下](https://www.v2ex.com/t/866701#reply1) | 2022-07-16 15:37:49 
-- 🤩 [[Apple] 2022 年关于 Apple ID 区域选择和 Pro App 套装](https://www.v2ex.com/t/866700#reply4) | 2022-07-16 15:30:41 
-- 🙉 [[Surge] Mac 版 surge5 人车](https://www.v2ex.com/t/866698#reply0) | 2022-07-16 15:17:03 
-- 🌏 [[MySQL] 请教个 SqlServer 筛选查询结果的 SQL](https://www.v2ex.com/t/866696#reply2) | 2022-07-16 14:57:49 
-- 🐘 [[程序员] 请问大家分布式微服务都是怎么看 log 的？](https://www.v2ex.com/t/866695#reply4) | 2022-07-16 14:49:16 
-- 🧰 [[程序员] wordpress 怎么优化主题的性能](https://www.v2ex.com/t/866694#reply0) | 2022-07-16 14:35:36 
-- 💃 [[问与答] window10 提示升级 11 有必要嘛？有没有经验的老哥](https://www.v2ex.com/t/866692#reply6) | 2022-07-16 14:14:49 
-- 🕯 [[问与答] 网络问题：连接公司 VPN 出现问题](https://www.v2ex.com/t/866691#reply1) | 2022-07-16 14:14:17 <!-- v2ex:END -->
+- 🫶 [[Apple] 大佬们， mac mini m1 16g 日常开发 Java 是否够用？打算收台二手](https://www.v2ex.com/t/866719#reply0) | 2022-07-16 21:58:32 
+- 🧰 [[问与答] 感觉 USB-C 带来一个混乱的数码世界](https://www.v2ex.com/t/866718#reply0) | 2022-07-16 19:55:00 
+- 🌏 [[程序员] 想问个问题，做微信公众号爬虫， cookie 失效后要如何获取新的 cookie?](https://www.v2ex.com/t/866717#reply2) | 2022-07-16 18:49:06 
+- 😎 [[问与答] 我买的苹果手机可能是假的吗？](https://www.v2ex.com/t/866716#reply3) | 2022-07-16 18:24:37 
+- 💂 [[数学] 发了两个贴子，关于解三角函数正弦余弦的公式的，但是带入公式都没成功，所以描述一下问题产生的原因。](https://www.v2ex.com/t/866714#reply2) | 2022-07-16 17:51:47 
+- 🔥 [[macOS] Stage Manager 的左侧边栏只能显示四个软件吗？](https://www.v2ex.com/t/866713#reply3) | 2022-07-16 17:28:11 
+- 🦅 [[数学] 之前发了一个问题，可能没有图片，大家不太理解，我弄了一个图片。](https://www.v2ex.com/t/866709#reply3) | 2022-07-16 16:45:09 
+- 🙉 [[上海] 上海转租，浦东/蓝村路 附近就是 4/6 号线](https://www.v2ex.com/t/866708#reply3) | 2022-07-16 16:32:42 
+- 💫 [[iDev] 各位大佬问一个 Xcode App Group 的问题](https://www.v2ex.com/t/866707#reply4) | 2022-07-16 16:24:41 
+- 🎓 [[Node.js] V 友们，有什么好的 Node 项目推荐吗](https://www.v2ex.com/t/866706#reply2) | 2022-07-16 16:23:46 
+- 🗽 [[问与答] 现在转行做程序员还值得吗, 29 岁了](https://www.v2ex.com/t/866705#reply18) | 2022-07-16 16:12:42 
+- ⚗️ [[Node.js] 推荐一款新发现的用 Node 实现的免费下载无损音乐的命令行工具 Musicn](https://www.v2ex.com/t/866704#reply0) | 2022-07-16 15:52:32 
+- 🦍 [[问与答] 求助！能推荐个 5~8 K 的笔记本嘛](https://www.v2ex.com/t/866702#reply12) | 2022-07-16 15:41:32 
+- 🤩 [[分享发现] 刚在 YouTube 看到李永乐老师关于梦的解析，感觉有点意思，给大家分享一下](https://www.v2ex.com/t/866701#reply1) | 2022-07-16 15:37:49 
+- 🙉 [[Apple] 2022 年关于 Apple ID 区域选择和 Pro App 套装](https://www.v2ex.com/t/866700#reply4) | 2022-07-16 15:30:41 
+- 🌏 [[Surge] Mac 版 surge5 人车](https://www.v2ex.com/t/866698#reply0) | 2022-07-16 15:17:03 
+- 🐘 [[MySQL] 请教个 SqlServer 筛选查询结果的 SQL](https://www.v2ex.com/t/866696#reply2) | 2022-07-16 14:57:49 
+- 🧰 [[程序员] 请问大家分布式微服务都是怎么看 log 的？](https://www.v2ex.com/t/866695#reply4) | 2022-07-16 14:49:16 
+- 💃 [[程序员] wordpress 怎么优化主题的性能](https://www.v2ex.com/t/866694#reply0) | 2022-07-16 14:35:36 
+- 🕯 [[问与答] window10 提示升级 11 有必要嘛？有没有经验的老哥](https://www.v2ex.com/t/866692#reply6) | 2022-07-16 14:14:49 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
