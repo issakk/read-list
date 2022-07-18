@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[macOS] 除了 stats， mac 上还有更好用的网速监控 app 吗](https://www.v2ex.com/t/866875#reply1) | 2022-07-17 22:45:37 
-- 🧰 [[Google] 谷歌商店换区，原来购买过的软件游戏图书还能下载吗？](https://www.v2ex.com/t/866874#reply3) | 2022-07-17 21:41:59 
-- 🌏 [[Docker] docker compose 如何扩容自动分配端口？](https://www.v2ex.com/t/866873#reply2) | 2022-07-17 20:31:58 
-- 😎 [[阅读] 读《山月记》有感，连续两晚让我夜不能眠。](https://www.v2ex.com/t/866872#reply0) | 2022-07-17 18:58:54 
-- 💂 [[MacBook Pro] 刘海挡住顶部状态栏部分应用如何解决？](https://www.v2ex.com/t/866869#reply1) | 2022-07-17 17:06:57 
-- 🔥 [[Apple] 用 mac 来做个人的 OCR 和翻译服务器可行吗](https://www.v2ex.com/t/866867#reply5) | 2022-07-17 16:29:34 
-- 🦅 [[问与答] 话说，最近大厂裁了这么多人，腾讯和头条这种现在还有社招的 hc 吗](https://www.v2ex.com/t/866866#reply2) | 2022-07-17 16:17:45 
-- 🙉 [[问与答] 29 岁转行互联网，前景如何？（个人情况已优化）](https://www.v2ex.com/t/866864#reply3) | 2022-07-17 15:53:11 
-- 💫 [[服务器] 通过后端代码判断屏蔽恶意请求来对抗 DDOS 攻击有用吗？](https://www.v2ex.com/t/866863#reply9) | 2022-07-17 15:52:28 
-- 🎓 [[硬件] Yubikey 小白级使用感受](https://www.v2ex.com/t/866862#reply3) | 2022-07-17 15:43:45 
-- 🗽 [[Python] pycharm 自动推断 typing](https://www.v2ex.com/t/866860#reply10) | 2022-07-17 15:17:07 
-- ⚗️ [[程序员] 有什么值得学习的应用数学知识嘛？或者编程的奇巧淫技？](https://www.v2ex.com/t/866859#reply8) | 2022-07-17 14:54:59 
-- 🦍 [[iMac] 不知道为什么雷电三硬盘盒搭配 2T SN750 2T 写入只有 1000 多，搭配 1T 写入速度有 2000 多](https://www.v2ex.com/t/866858#reply6) | 2022-07-17 14:38:00 
-- 🤩 [[微信] 绑定 gv 之后被永封还能解吗](https://www.v2ex.com/t/866857#reply2) | 2022-07-17 14:33:43 
-- 🙉 [[问与答] WindowsServer 环境 API 网关选择](https://www.v2ex.com/t/866855#reply2) | 2022-07-17 14:24:17 
-- 🌏 [[问与答] app 视觉问题](https://www.v2ex.com/t/866854#reply0) | 2022-07-17 14:09:14 
-- 🐘 [[问与答] 有什么实时代码备份工具？](https://www.v2ex.com/t/866852#reply16) | 2022-07-17 13:36:22 
-- 🧰 [[macOS] Mac 上有没有好用的管理手机照片的方式或 app](https://www.v2ex.com/t/866851#reply0) | 2022-07-17 13:29:31 
-- 💃 [[iCloud] 如何避免 iCloud 的登录验证信息在一台电脑上出现？](https://www.v2ex.com/t/866850#reply1) | 2022-07-17 13:27:11 
-- 🕯 [[程序员] 关于开发使用 VIM 编辑的一些问题，有老大哥指点一下吗？](https://www.v2ex.com/t/866849#reply13) | 2022-07-17 13:20:08 <!-- v2ex:END -->
+- 🫶 [[程序员] 好用的曲线平滑算法？](https://www.v2ex.com/t/866884#reply1) | 2022-07-18 00:36:44 
+- 🧰 [[问与答] 请教几个装修种网络线材和工作台问题？](https://www.v2ex.com/t/866883#reply0) | 2022-07-18 00:30:15 
+- 🌏 [[程序员] 打开 PC 端微信比打开个 IDEA 还要卡，是真的厉害](https://www.v2ex.com/t/866882#reply2) | 2022-07-18 00:22:21 
+- 😎 [[问与答] 现在 v 站很多话题都会转向互相攻击了](https://www.v2ex.com/t/866881#reply1) | 2022-07-18 00:21:51 
+- 💂 [[分享创造] 有没有经常弄混 macOS 输入法的？我实在是受不了了 😤](https://www.v2ex.com/t/866880#reply2) | 2022-07-18 00:16:34 
+- 🔥 [[程序员] 学习周刊-总第 62 期-一个优秀开源的的论坛程序与免费 gif 图片压缩工具](https://www.v2ex.com/t/866879#reply1) | 2022-07-18 00:00:21 
+- 🦅 [[问与答] 淘汰下来的 mbp 有什么奇妙的用处吗？](https://www.v2ex.com/t/866878#reply9) | 2022-07-17 23:55:31 
+- 🙉 [[问与答] 通勤开车一小时，还是租房子](https://www.v2ex.com/t/866877#reply4) | 2022-07-17 23:53:05 
+- 💫 [[Android] 编译 android 源码后打包 genpac 的 avbtool 报错问题](https://www.v2ex.com/t/866876#reply0) | 2022-07-17 23:45:47 
+- 🎓 [[macOS] 除了 stats， mac 上还有更好用的网速监控 app 吗](https://www.v2ex.com/t/866875#reply4) | 2022-07-17 22:45:37 
+- 🗽 [[Google] 谷歌商店换区，原来购买过的软件游戏图书还能下载吗？](https://www.v2ex.com/t/866874#reply7) | 2022-07-17 21:41:59 
+- ⚗️ [[Docker] docker compose 如何扩容自动分配端口？](https://www.v2ex.com/t/866873#reply2) | 2022-07-17 20:31:58 
+- 🦍 [[阅读] 读《山月记》有感，连续两晚让我夜不能眠。](https://www.v2ex.com/t/866872#reply0) | 2022-07-17 18:58:54 
+- 🤩 [[MacBook Pro] 刘海挡住顶部状态栏部分应用如何解决？](https://www.v2ex.com/t/866869#reply1) | 2022-07-17 17:06:57 
+- 🙉 [[Apple] 用 mac 来做个人的 OCR 和翻译服务器可行吗](https://www.v2ex.com/t/866867#reply5) | 2022-07-17 16:29:34 
+- 🌏 [[问与答] 话说，最近大厂裁了这么多人，腾讯和头条这种现在还有社招的 hc 吗](https://www.v2ex.com/t/866866#reply3) | 2022-07-17 16:17:45 
+- 🐘 [[问与答] 29 岁转行互联网，前景如何？（个人情况已优化）](https://www.v2ex.com/t/866864#reply4) | 2022-07-17 15:53:11 
+- 🧰 [[服务器] 通过后端代码判断屏蔽恶意请求来对抗 DDOS 攻击有用吗？](https://www.v2ex.com/t/866863#reply9) | 2022-07-17 15:52:28 
+- 💃 [[硬件] Yubikey 小白级使用感受](https://www.v2ex.com/t/866862#reply3) | 2022-07-17 15:43:45 
+- 🕯 [[Python] pycharm 自动推断 typing](https://www.v2ex.com/t/866860#reply12) | 2022-07-17 15:17:07 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
