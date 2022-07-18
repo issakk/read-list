@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[问与答] 给 6 岁的娃 iPad 再装些什么 App 呢？](https://www.v2ex.com/t/866985#reply0) | 2022-07-18 05:20:58 
-- 🧰 [[分享发现] 原来厌恶的开发方式, 现在成了唯一的选择](https://www.v2ex.com/t/866984#reply0) | 2022-07-18 05:19:38 
-- 🌏 [[硬件] 买了个二手 2060 矿卡打游戏，也不知道能用多少时间。](https://www.v2ex.com/t/866983#reply0) | 2022-07-18 05:19:08 
-- 😎 [[Android] repeatOnLifecycle + SharedFlow 隐藏坑排查与治理](https://www.v2ex.com/t/866982#reply0) | 2022-07-18 05:16:29 
-- 💂 [[YouTube] 请问如何批量下载油管播放列表？](https://www.v2ex.com/t/866981#reply0) | 2022-07-18 05:15:20 
-- 🔥 [[反馈] 我遇到的手机版的回复框问题](https://www.v2ex.com/t/866978#reply2) | 2022-07-18 04:59:32 
-- 🦅 [[OpenWrt] 有熟悉 openwrt 的编译 Makefile 的大佬吗，缓存后二次编译的几个问题请教](https://www.v2ex.com/t/866977#reply0) | 2022-07-18 04:52:38 
-- 🙉 [[宽带症候群] 有啥国内大带宽测速网站，下载地址，想测一下宽带下载速度，同时也测一下上传速度。](https://www.v2ex.com/t/866975#reply1) | 2022-07-18 04:44:29 
-- 💫 [[北京] 北京有啥好玩的](https://www.v2ex.com/t/866974#reply2) | 2022-07-18 04:39:03 
-- 🎓 [[OpenWrt] 分享一下原版 x86 openwrt 手动安装需要的插件的方案](https://www.v2ex.com/t/866972#reply4) | 2022-07-18 04:27:19 
-- 🗽 [[Apple] 各位有没有感觉 Monterey 下掌心很容易令触摸板误触啊](https://www.v2ex.com/t/866971#reply0) | 2022-07-18 04:27:08 
-- ⚗️ [[酷工作] [北京][上海] 区块链公司 树图 Conflux--技术专家](https://www.v2ex.com/t/866970#reply0) | 2022-07-18 04:26:08 
-- 🦍 [[程序员] 求问下各位大佬 general 互联网公司里还有 C++的生存空间吗？](https://www.v2ex.com/t/866968#reply3) | 2022-07-18 04:18:08 
-- 🤩 [[杭州] 杭州租房「V 友直租价格便宜」 西溪·留下·君逸汇 「地铁 3 号线 300 米内，交通生活方便」](https://www.v2ex.com/t/866967#reply0) | 2022-07-18 04:13:15 
-- 🙉 [[Docker] Dockerfile FROM 能做判断吗？](https://www.v2ex.com/t/866966#reply2) | 2022-07-18 04:05:57 
-- 🌏 [[分享发现] 基于学习目的和记录加油并统计油耗、花费需求，开发一个简易微信小程序](https://www.v2ex.com/t/866965#reply0) | 2022-07-18 04:03:15 
-- 🐘 [[前端开发] 有人知道腾讯云的控制台 [用户业务管理后台] 管理框架 UI 是基于哪一款开源项目么？](https://www.v2ex.com/t/866964#reply1) | 2022-07-18 04:02:12 
-- 🧰 [[程序员] 请问 Springboot 相比于 Java 是不是类似 QT 相比于 C++？](https://www.v2ex.com/t/866963#reply3) | 2022-07-18 03:59:58 
-- 💃 [[分享发现] 独立产品灵感周刊 DecoHack #022 - 截图应用如何在一个月收入 8000 美元](https://www.v2ex.com/t/866962#reply0) | 2022-07-18 03:59:02 
-- 🕯 [[剧集] 现在才看到 v2 有这么个节点，来推荐一下《月光骑士》](https://www.v2ex.com/t/866961#reply0) | 2022-07-18 03:58:59 <!-- v2ex:END -->
+- 🫶 [[Visual Studio Code] Code Runner for VS Code，下载量突破 4000 万！支持超过 50 种语言](https://www.v2ex.com/t/866995#reply0) | 2022-07-18 06:08:41 
+- 🧰 [[问与答] 有啥好吃的雪糕](https://www.v2ex.com/t/866994#reply3) | 2022-07-18 05:59:01 
+- 🌏 [[Apple] 2019 Intel mbp 16 寸，合盖连 studio display 使用，会很热么？](https://www.v2ex.com/t/866993#reply1) | 2022-07-18 05:55:51 
+- 😎 [[Apple] 7 月 17 号凌晨就是 [准备发货] 了，到今天咋还不发货](https://www.v2ex.com/t/866992#reply2) | 2022-07-18 05:54:09 
+- 💂 [[问与答] QQ 群的一起听歌有办法转到电脑上听么](https://www.v2ex.com/t/866991#reply0) | 2022-07-18 05:54:07 
+- 🔥 [[编程] 求教订单使用优惠券的技术最佳实践](https://www.v2ex.com/t/866990#reply1) | 2022-07-18 05:46:30 
+- 🦅 [[问与答] 有推荐的 iOS 平台的邮件客户端吗？](https://www.v2ex.com/t/866988#reply2) | 2022-07-18 05:29:52 
+- 🙉 [[酷工作] 部分 7-8 月还 active 招聘的岗位分享，上海、武汉都有， Java /React, TS/C++游戏服务端/IOS/Principal QE/SRE 来自外资 Top 3 上市猎企资深 IT 研发组顾问，介意的免进](https://www.v2ex.com/t/866987#reply0) | 2022-07-18 05:26:58 
+- 💫 [[游戏] 以前玩的一个手机游戏没有运营了](https://www.v2ex.com/t/866986#reply6) | 2022-07-18 05:22:49 
+- 🎓 [[问与答] 给 6 岁的娃 iPad 再装些什么 App 呢？](https://www.v2ex.com/t/866985#reply0) | 2022-07-18 05:20:58 
+- 🗽 [[分享发现] 原来厌恶的开发方式, 现在成了唯一的选择](https://www.v2ex.com/t/866984#reply5) | 2022-07-18 05:19:38 
+- ⚗️ [[硬件] 买了个二手 2060 矿卡打游戏，也不知道能用多少时间。](https://www.v2ex.com/t/866983#reply2) | 2022-07-18 05:19:08 
+- 🦍 [[Android] repeatOnLifecycle + SharedFlow 隐藏坑排查与治理](https://www.v2ex.com/t/866982#reply0) | 2022-07-18 05:16:29 
+- 🤩 [[YouTube] 请问如何批量下载油管播放列表？](https://www.v2ex.com/t/866981#reply1) | 2022-07-18 05:15:20 
+- 🙉 [[反馈] 我遇到的手机版的回复框问题](https://www.v2ex.com/t/866978#reply2) | 2022-07-18 04:59:32 
+- 🌏 [[OpenWrt] 有熟悉 openwrt 的编译 Makefile 的大佬吗，缓存后二次编译的几个问题请教](https://www.v2ex.com/t/866977#reply0) | 2022-07-18 04:52:38 
+- 🐘 [[宽带症候群] 有啥国内大带宽测速网站，下载地址，想测一下宽带下载速度，同时也测一下上传速度。](https://www.v2ex.com/t/866975#reply1) | 2022-07-18 04:44:29 
+- 🧰 [[北京] 北京有啥好玩的](https://www.v2ex.com/t/866974#reply3) | 2022-07-18 04:39:03 
+- 💃 [[OpenWrt] 分享一下原版 x86 openwrt 手动安装需要的插件的方案](https://www.v2ex.com/t/866972#reply6) | 2022-07-18 04:27:19 
+- 🕯 [[Apple] 各位有没有感觉 Monterey 下掌心很容易令触摸板误触啊](https://www.v2ex.com/t/866971#reply0) | 2022-07-18 04:27:08 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
