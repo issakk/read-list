@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[程序员] 推荐个自己做的开源论坛，适合嵌入在 已有业务/App 内使用](https://www.v2ex.com/t/867139#reply0) | 2022-07-18 17:56:36 
-- 🧰 [[问与答] 都说 ssd 是有寿命的，但我从来没看到真被操到 0%寿命的 ssd](https://www.v2ex.com/t/867138#reply1) | 2022-07-18 17:29:48 
-- 🌏 [[iPhone] 星巴克 App 是怎么做到的呢？](https://www.v2ex.com/t/867137#reply6) | 2022-07-18 17:17:39 
-- 😎 [[Java] 问问有没有肥友有兴趣一起继续开发 SuperSpineViewer 的](https://www.v2ex.com/t/867136#reply0) | 2022-07-18 16:03:09 
-- 💂 [[问与答] 有玩电吉他的 V 友吗，求推荐新手入门设备](https://www.v2ex.com/t/867135#reply2) | 2022-07-18 16:00:53 
-- 🔥 [[Docker] ubuntu16.04 在 docker 中 source 报错怎么解决？](https://www.v2ex.com/t/867134#reply0) | 2022-07-18 15:59:04 
-- 🦅 [[NGINX] 一个 ip 根据 url，配置 3 个平台](https://www.v2ex.com/t/867133#reply2) | 2022-07-18 15:58:03 
-- 🙉 [[生活] 想对大家说：要注意血糖](https://www.v2ex.com/t/867130#reply5) | 2022-07-18 15:37:54 
-- 💫 [[macOS] 虚拟机里的程序如何不在程序坞显示](https://www.v2ex.com/t/867129#reply4) | 2022-07-18 15:37:40 
-- 🎓 [[奇思妙想] 各位对一个创作者平台的社区化运营持什么样的看法](https://www.v2ex.com/t/867127#reply0) | 2022-07-18 15:33:06 
-- 🗽 [[MacBook Air] M1 Macbook Air 开发体验如何？](https://www.v2ex.com/t/867123#reply4) | 2022-07-18 14:53:01 
-- ⚗️ [[问与答] 问问山姆副卡值得买吗？打算去体验一趟](https://www.v2ex.com/t/867121#reply4) | 2022-07-18 14:33:39 
-- 🦍 [[程序员] typescript 中声明一个类型, 是用 Interface 还是 Type 呢?](https://www.v2ex.com/t/867120#reply16) | 2022-07-18 14:31:25 
-- 🤩 [[翻译] 蒸蒸日上的火山翻译](https://www.v2ex.com/t/867119#reply1) | 2022-07-18 14:25:23 
-- 🙉 [[Go 编程语言] 小白写的一个并发判断函数，请问有没有什么可以优化的地方](https://www.v2ex.com/t/867118#reply4) | 2022-07-18 14:22:55 
-- 🌏 [[程序员] curve25519 上的点不到 2^253 个,为什么公钥有 32 字节 256bit？](https://www.v2ex.com/t/867117#reply1) | 2022-07-18 14:22:25 
-- 🐘 [[Apple] Apple Music 云端资料库在其他设备上串流不畅](https://www.v2ex.com/t/867116#reply3) | 2022-07-18 14:19:50 
-- 🧰 [[酷工作] [上海] 米哈游 miHoYo 2022.7.18 最新招聘信息（可内推哦）](https://www.v2ex.com/t/867115#reply0) | 2022-07-18 14:09:04 
-- 💃 [[程序员] 好兄弟萌 iOS 每隔 5 分钟自动打开一次某个 app 怎么弄](https://www.v2ex.com/t/867113#reply10) | 2022-07-18 13:57:24 
-- 🕯 [[iOS] 请问 iOS 越狱后，有没有插件可以将 App 通知进行转发到 Bark 或者其他地方？](https://www.v2ex.com/t/867112#reply0) | 2022-07-18 13:54:59 <!-- v2ex:END -->
+- 🫶 [[游戏] 每次看见发 ITX 相关帖子的都会劝两句。。](https://www.v2ex.com/t/867141#reply0) | 2022-07-18 18:29:28 
+- 🧰 [[宽带症候群] 佛山电信宽带办理了公网 IP，但是无法连接](https://www.v2ex.com/t/867140#reply3) | 2022-07-18 18:23:37 
+- 🌏 [[程序员] 推荐个自己做的开源论坛，适合嵌入在 已有业务/App 内使用](https://www.v2ex.com/t/867139#reply0) | 2022-07-18 17:56:36 
+- 😎 [[问与答] 都说 ssd 是有寿命的，但我从来没看到真被操到 0%寿命的 ssd](https://www.v2ex.com/t/867138#reply2) | 2022-07-18 17:29:48 
+- 💂 [[iPhone] 星巴克 App 是怎么做到的呢？](https://www.v2ex.com/t/867137#reply8) | 2022-07-18 17:17:39 
+- 🔥 [[Java] 问问有没有肥友有兴趣一起继续开发 SuperSpineViewer 的](https://www.v2ex.com/t/867136#reply0) | 2022-07-18 16:03:09 
+- 🦅 [[问与答] 有玩电吉他的 V 友吗，求推荐新手入门设备](https://www.v2ex.com/t/867135#reply2) | 2022-07-18 16:00:53 
+- 🙉 [[Docker] ubuntu16.04 在 docker 中 source 报错怎么解决？](https://www.v2ex.com/t/867134#reply0) | 2022-07-18 15:59:04 
+- 💫 [[NGINX] 一个 ip 根据 url，配置 3 个平台](https://www.v2ex.com/t/867133#reply3) | 2022-07-18 15:58:03 
+- 🎓 [[生活] 想对大家说：要注意血糖](https://www.v2ex.com/t/867130#reply5) | 2022-07-18 15:37:54 
+- 🗽 [[macOS] 虚拟机里的程序如何不在程序坞显示](https://www.v2ex.com/t/867129#reply4) | 2022-07-18 15:37:40 
+- ⚗️ [[奇思妙想] 各位对一个创作者平台的社区化运营持什么样的看法](https://www.v2ex.com/t/867127#reply0) | 2022-07-18 15:33:06 
+- 🦍 [[MacBook Air] M1 Macbook Air 开发体验如何？](https://www.v2ex.com/t/867123#reply4) | 2022-07-18 14:53:01 
+- 🤩 [[问与答] 问问山姆副卡值得买吗？打算去体验一趟](https://www.v2ex.com/t/867121#reply4) | 2022-07-18 14:33:39 
+- 🙉 [[程序员] typescript 中声明一个类型, 是用 Interface 还是 Type 呢?](https://www.v2ex.com/t/867120#reply16) | 2022-07-18 14:31:25 
+- 🌏 [[翻译] 蒸蒸日上的火山翻译](https://www.v2ex.com/t/867119#reply1) | 2022-07-18 14:25:23 
+- 🐘 [[Go 编程语言] 小白写的一个并发判断函数，请问有没有什么可以优化的地方](https://www.v2ex.com/t/867118#reply5) | 2022-07-18 14:22:55 
+- 🧰 [[程序员] curve25519 上的点不到 2^253 个,为什么公钥有 32 字节 256bit？](https://www.v2ex.com/t/867117#reply1) | 2022-07-18 14:22:25 
+- 💃 [[Apple] Apple Music 云端资料库在其他设备上串流不畅](https://www.v2ex.com/t/867116#reply3) | 2022-07-18 14:19:50 
+- 🕯 [[酷工作] [上海] 米哈游 miHoYo 2022.7.18 最新招聘信息（可内推哦）](https://www.v2ex.com/t/867115#reply0) | 2022-07-18 14:09:04 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
