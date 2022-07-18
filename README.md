@@ -86,12 +86,12 @@
 ## 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🦣 [独立产品灵感周刊 DecoHack #021 – 工作、消费主义和新穷人](https://www.decohack.com/Post/753) | 2022-07-11 00:33:57 
-- 🤡 [海外工具类产品深度分析 #2](https://www.decohack.com/Post/746) | 2022-07-06 01:03:36 
--  [独立产品灵感周刊 DecoHack #020 – 如何停止来自金钱的压力](https://www.decohack.com/Post/728) | 2022-07-04 03:31:21 
-- 🐲 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | 2022-06-27 00:14:52 
-- 🦅 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | 2022-06-20 01:05:28 
-- 🧰 [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) | 2022-06-14 00:47:32 <!-- DecoHack:END -->
+- 🦣 [独立产品灵感周刊 DecoHack #022 – 截图应用如何在一个月收入 8000 美元](https://www.decohack.com/Post/774) | 2022-07-18 03:57:05 
+- 🤡 [独立产品灵感周刊 DecoHack #021 – 工作、消费主义和新穷人](https://www.decohack.com/Post/753) | 2022-07-11 00:33:57 
+-  [海外工具类产品深度分析 #2](https://www.decohack.com/Post/746) | 2022-07-06 01:03:36 
+- 🐲 [独立产品灵感周刊 DecoHack #020 – 如何停止来自金钱的压力](https://www.decohack.com/Post/728) | 2022-07-04 03:31:21 
+- 🦅 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | 2022-06-27 00:14:52 
+- 🧰 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | 2022-06-20 01:05:28 <!-- DecoHack:END -->
 
 ## 独立开发变现周刊
 
