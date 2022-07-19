@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[Apple] iOS 16 和 macOS 13 的 Safari 会翻译图片上的文字了，但效果有点适得其反……](https://www.v2ex.com/t/867267#reply0) | 2022-07-19 06:09:56 
-- 🧰 [[酷工作] u3d 开发工程师-休闲游戏-远程工作-15K~20k](https://www.v2ex.com/t/867266#reply0) | 2022-07-19 06:04:14 
-- 🌏 [[汽车] 准备入手 2023 款星瑞豪华版，需要注意什么](https://www.v2ex.com/t/867262#reply0) | 2022-07-19 05:43:51 
-- 😎 [[Apple] 一台老的 iPad air 一代，目前降级到 10.3.3，还是有点慢，有什么办法可以让它快一点吗？日常看看视频打打字的。越狱有用吗？](https://www.v2ex.com/t/867261#reply0) | 2022-07-19 05:41:38 
-- 💂 [[问与答] 求 V 友哪里投诉微博管用？](https://www.v2ex.com/t/867260#reply2) | 2022-07-19 05:41:14 
-- 🔥 [[汽车] 混动补贴最后一年，有必要上车吗！ 上车的话选择哪个？？](https://www.v2ex.com/t/867258#reply8) | 2022-07-19 05:35:47 
-- 🦅 [[macOS] 好尴尬， mac 右上角放不下图标了，刘海又那么宽](https://www.v2ex.com/t/867257#reply6) | 2022-07-19 05:29:14 
-- 🙉 [[程序员] 调研贴：你用什么笔记软件？](https://www.v2ex.com/t/867254#reply38) | 2022-07-19 05:22:54 
-- 💫 [[PHP] pflag - 更好的 PHP 命令行选项解析库](https://www.v2ex.com/t/867253#reply0) | 2022-07-19 05:21:59 
-- 🎓 [[分享创造] 我们做了个能帮大家发现播客的小玩具：🎙中文播客榜](https://www.v2ex.com/t/867252#reply4) | 2022-07-19 05:01:44 
-- 🗽 [[Visual Studio Code] VS Code 全套历史图标从哪里得？](https://www.v2ex.com/t/867250#reply6) | 2022-07-19 04:59:46 
-- ⚗️ [[问与答] 采购服务器，供应商报价 17.5 万，这配置是不是在坑爹？有没有合适的配置方案（预算 15 万以内带 GPU）？](https://www.v2ex.com/t/867249#reply4) | 2022-07-19 04:58:14 
-- 🦍 [[程序员] c++开源库求推荐](https://www.v2ex.com/t/867247#reply3) | 2022-07-19 04:44:43 
-- 🤩 [[Kubernetes] 大家现在 k8s 都用的什么 distribution？](https://www.v2ex.com/t/867243#reply8) | 2022-07-19 04:27:50 
-- 🙉 [[Apple] 显示器自带的 typec 全功能线换成 100w 40GB intel 认证芯片的 USB4 线会不会有改变。](https://www.v2ex.com/t/867242#reply0) | 2022-07-19 04:13:00 
-- 🌏 [[问与答] 请教下有没有英文语法分享的优秀开源库](https://www.v2ex.com/t/867241#reply0) | 2022-07-19 04:09:25 
-- 🐘 [[问与答] 有什么比较好的果粉论坛吗](https://www.v2ex.com/t/867238#reply4) | 2022-07-19 04:01:04 
-- 🧰 [[分享创造] 小米水印生成器](https://www.v2ex.com/t/867237#reply4) | 2022-07-19 03:58:49 
-- 💃 [[反馈] 公司的出口 IP 被 v2 封了，求解封](https://www.v2ex.com/t/867236#reply5) | 2022-07-19 03:57:21 
-- 🕯 [[问与答] 妈妈最近身体不好，天天在家里带着，怎么让老人家有事情做？](https://www.v2ex.com/t/867235#reply16) | 2022-07-19 03:47:31 <!-- v2ex:END -->
+- 🫶 [[Java] 如何在 spring boot 中实现对一个数据对象的流式处理？](https://www.v2ex.com/t/867282#reply0) | 2022-07-19 07:03:10 
+- 🧰 [[macOS] 48G 内存照样有 swap](https://www.v2ex.com/t/867280#reply0) | 2022-07-19 06:59:35 
+- 🌏 [[京东] 出一把京东京造 Q2 铝坨坨机械键盘 &lpar;aka Keycron&rpar;](https://www.v2ex.com/t/867279#reply0) | 2022-07-19 06:58:58 
+- 😎 [[程序员] m1 芯片 macbook pro，用一段时间后 intellij idea 巨卡，重启电脑后又恢复了，大家知道怎么解决吗？](https://www.v2ex.com/t/867278#reply0) | 2022-07-19 06:57:42 
+- 💂 [[北京] 在北京周边，是不是天津最适合定居？](https://www.v2ex.com/t/867277#reply0) | 2022-07-19 06:57:13 
+- 🔥 [[ WATCH] 新买的 apple watch series7 刚开始几天耗电快正常吗](https://www.v2ex.com/t/867276#reply1) | 2022-07-19 06:41:30 
+- 🦅 [[iPhone] iPhone 看微博竟然能同步到 mac?](https://www.v2ex.com/t/867275#reply1) | 2022-07-19 06:38:06 
+- 🙉 [[Xbox Series X/S] 想买个 xbox series x 怎么这么难？](https://www.v2ex.com/t/867274#reply0) | 2022-07-19 06:29:58 
+- 💫 [[程序员] 坐标 Shopee SZ,请问公司裁的话会赔偿多少](https://www.v2ex.com/t/867273#reply4) | 2022-07-19 06:29:20 
+- 🎓 [[Apple] studio display 自我简评](https://www.v2ex.com/t/867271#reply5) | 2022-07-19 06:27:43 
+- 🗽 [[问与答] 有点..怪的问题， Win+R 打开的运行窗口，默认成大写的 CMD 了](https://www.v2ex.com/t/867270#reply3) | 2022-07-19 06:18:49 
+- ⚗️ [[问与答] 轨迹跑路线规划](https://www.v2ex.com/t/867269#reply0) | 2022-07-19 06:17:23 
+- 🦍 [[程序员] PC 端.exe 程序如何看到它实时调用的接口](https://www.v2ex.com/t/867268#reply1) | 2022-07-19 06:16:06 
+- 🤩 [[Apple] iOS 16 和 macOS 13 的 Safari 会翻译图片上的文字了，但效果有点适得其反……](https://www.v2ex.com/t/867267#reply0) | 2022-07-19 06:09:56 
+- 🙉 [[酷工作] u3d 开发工程师-休闲游戏-远程工作-15K~20k](https://www.v2ex.com/t/867266#reply3) | 2022-07-19 06:04:14 
+- 🌏 [[汽车] 准备入手 2023 款星瑞豪华版，需要注意什么](https://www.v2ex.com/t/867262#reply3) | 2022-07-19 05:43:51 
+- 🐘 [[Apple] 一台老的 iPad air 一代，目前降级到 10.3.3，还是有点慢，有什么办法可以让它快一点吗？日常看看视频打打字的。越狱有用吗？](https://www.v2ex.com/t/867261#reply0) | 2022-07-19 05:41:38 
+- 🧰 [[问与答] 求 V 友哪里投诉微博管用？](https://www.v2ex.com/t/867260#reply2) | 2022-07-19 05:41:14 
+- 💃 [[汽车] 混动补贴最后一年，有必要上车吗！ 上车的话选择哪个？？](https://www.v2ex.com/t/867258#reply11) | 2022-07-19 05:35:47 
+- 🕯 [[macOS] 好尴尬， mac 右上角放不下图标了，刘海又那么宽](https://www.v2ex.com/t/867257#reply7) | 2022-07-19 05:29:14 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
