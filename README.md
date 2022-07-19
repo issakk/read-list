@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[Java] 如何在 spring boot 中实现对一个数据对象的流式处理？](https://www.v2ex.com/t/867282#reply0) | 2022-07-19 07:03:10 
-- 🧰 [[macOS] 48G 内存照样有 swap](https://www.v2ex.com/t/867280#reply0) | 2022-07-19 06:59:35 
-- 🌏 [[京东] 出一把京东京造 Q2 铝坨坨机械键盘 &lpar;aka Keycron&rpar;](https://www.v2ex.com/t/867279#reply0) | 2022-07-19 06:58:58 
-- 😎 [[程序员] m1 芯片 macbook pro，用一段时间后 intellij idea 巨卡，重启电脑后又恢复了，大家知道怎么解决吗？](https://www.v2ex.com/t/867278#reply0) | 2022-07-19 06:57:42 
-- 💂 [[北京] 在北京周边，是不是天津最适合定居？](https://www.v2ex.com/t/867277#reply0) | 2022-07-19 06:57:13 
-- 🔥 [[ WATCH] 新买的 apple watch series7 刚开始几天耗电快正常吗](https://www.v2ex.com/t/867276#reply1) | 2022-07-19 06:41:30 
-- 🦅 [[iPhone] iPhone 看微博竟然能同步到 mac?](https://www.v2ex.com/t/867275#reply1) | 2022-07-19 06:38:06 
-- 🙉 [[Xbox Series X/S] 想买个 xbox series x 怎么这么难？](https://www.v2ex.com/t/867274#reply0) | 2022-07-19 06:29:58 
-- 💫 [[程序员] 坐标 Shopee SZ,请问公司裁的话会赔偿多少](https://www.v2ex.com/t/867273#reply4) | 2022-07-19 06:29:20 
-- 🎓 [[Apple] studio display 自我简评](https://www.v2ex.com/t/867271#reply5) | 2022-07-19 06:27:43 
-- 🗽 [[问与答] 有点..怪的问题， Win+R 打开的运行窗口，默认成大写的 CMD 了](https://www.v2ex.com/t/867270#reply3) | 2022-07-19 06:18:49 
-- ⚗️ [[问与答] 轨迹跑路线规划](https://www.v2ex.com/t/867269#reply0) | 2022-07-19 06:17:23 
-- 🦍 [[程序员] PC 端.exe 程序如何看到它实时调用的接口](https://www.v2ex.com/t/867268#reply1) | 2022-07-19 06:16:06 
-- 🤩 [[Apple] iOS 16 和 macOS 13 的 Safari 会翻译图片上的文字了，但效果有点适得其反……](https://www.v2ex.com/t/867267#reply0) | 2022-07-19 06:09:56 
-- 🙉 [[酷工作] u3d 开发工程师-休闲游戏-远程工作-15K~20k](https://www.v2ex.com/t/867266#reply3) | 2022-07-19 06:04:14 
-- 🌏 [[汽车] 准备入手 2023 款星瑞豪华版，需要注意什么](https://www.v2ex.com/t/867262#reply3) | 2022-07-19 05:43:51 
-- 🐘 [[Apple] 一台老的 iPad air 一代，目前降级到 10.3.3，还是有点慢，有什么办法可以让它快一点吗？日常看看视频打打字的。越狱有用吗？](https://www.v2ex.com/t/867261#reply0) | 2022-07-19 05:41:38 
-- 🧰 [[问与答] 求 V 友哪里投诉微博管用？](https://www.v2ex.com/t/867260#reply2) | 2022-07-19 05:41:14 
-- 💃 [[汽车] 混动补贴最后一年，有必要上车吗！ 上车的话选择哪个？？](https://www.v2ex.com/t/867258#reply11) | 2022-07-19 05:35:47 
-- 🕯 [[macOS] 好尴尬， mac 右上角放不下图标了，刘海又那么宽](https://www.v2ex.com/t/867257#reply7) | 2022-07-19 05:29:14 <!-- v2ex:END -->
+- 🫶 [[Apple] mac 自带超多软件,请问 apple 自带的 git 和官方 git 有什么不同，哪个好](https://www.v2ex.com/t/867302#reply0) | 2022-07-19 08:08:47 
+- 🧰 [[问与答] 115 网盘最近是不是失常了](https://www.v2ex.com/t/867301#reply0) | 2022-07-19 08:07:39 
+- 🌏 [[问与答] redmi X75 和 oppo k9 &lpar;75&rpar;选哪个](https://www.v2ex.com/t/867300#reply0) | 2022-07-19 08:05:32 
+- 😎 [[MacBook Pro] 关于 Macbook pro 风扇和 CPU 占用率的问题，请教一下大家](https://www.v2ex.com/t/867299#reply0) | 2022-07-19 08:03:44 
+- 💂 [[问与答] 有没有可以做思维导图的笔记软件？](https://www.v2ex.com/t/867298#reply0) | 2022-07-19 07:56:29 
+- 🔥 [[宽带症候群] IP 和网关不是同一个网段，怎么实现通信？](https://www.v2ex.com/t/867297#reply0) | 2022-07-19 07:55:52 
+- 🦅 [[求职] 求远程全职兼职设计](https://www.v2ex.com/t/867296#reply0) | 2022-07-19 07:54:29 
+- 🙉 [[硬件] 免费台式机组装清单加科普](https://www.v2ex.com/t/867295#reply0) | 2022-07-19 07:52:54 
+- 💫 [[NAS] 冷备盘有什么推荐的吗?](https://www.v2ex.com/t/867294#reply0) | 2022-07-19 07:50:20 
+- 🎓 [[Android] 用上这个 Mock 神器，让你的开发爽上天！](https://www.v2ex.com/t/867293#reply0) | 2022-07-19 07:49:44 
+- 🗽 [[程序员] 有什么办法可以测试跟别人公司的网站连接速度?](https://www.v2ex.com/t/867292#reply3) | 2022-07-19 07:45:51 
+- ⚗️ [[程序员] 接口文档里面参数表格怎样更好的表示多级嵌套的结构？](https://www.v2ex.com/t/867291#reply9) | 2022-07-19 07:39:44 
+- 🦍 [[程序员] 机械键盘求推荐](https://www.v2ex.com/t/867290#reply8) | 2022-07-19 07:39:35 
+- 🤩 [[LeanCloud] 8 月 1 日起， LeanCloud 国际版共享域名不再向中国大陆提供服务](https://www.v2ex.com/t/867289#reply1) | 2022-07-19 07:37:51 
+- 🙉 [[生活] 人的觉悟有高低，父母对孩子的爱也是有高低的。](https://www.v2ex.com/t/867288#reply4) | 2022-07-19 07:37:34 
+- 🌏 [[问与答] Linux 系统 vim 自动退出， Python 脚本也被自动杀死，这个什么原因造成的？](https://www.v2ex.com/t/867287#reply0) | 2022-07-19 07:29:47 
+- 🐘 [[iPhone] （已有答案）后台 app 刷新到底是做什么用的？](https://www.v2ex.com/t/867286#reply0) | 2022-07-19 07:26:48 
+- 🧰 [[奇思妙想] 好兄弟的工地停工了；回老家农村待业了](https://www.v2ex.com/t/867285#reply19) | 2022-07-19 07:19:53 
+- 💃 [[问与答] 想搞个机器来开热点？可有推荐？或者现在带卡的随身 Wi-Fi 也行？](https://www.v2ex.com/t/867284#reply4) | 2022-07-19 07:10:44 
+- 🕯 [[TypeScript] 一个类型体操的问题，我能不能既要又要？](https://www.v2ex.com/t/867283#reply4) | 2022-07-19 07:09:47 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
