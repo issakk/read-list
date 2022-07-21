@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[问与答] 如果开发一个云笔记应该怎么设计?](https://www.v2ex.com/t/867854#reply2) | 2022-07-21 13:17:28 
-- 🧰 [[Apple] 这个老 mbp 的屏幕是完蛋了？](https://www.v2ex.com/t/867853#reply1) | 2022-07-21 12:47:34 
-- 🌏 [[职场话题] 2022 找工作记录](https://www.v2ex.com/t/867852#reply1) | 2022-07-21 12:42:44 
-- 😎 [[问与答] Abort 翻译为「终止」还是「中止」？](https://www.v2ex.com/t/867851#reply7) | 2022-07-21 12:38:06 
-- 💂 [[问与答] 因为丢水里洗了下手机，我的 iPhone 震动出毛病了，什么奇妙情况？](https://www.v2ex.com/t/867850#reply2) | 2022-07-21 12:25:17 
-- 🔥 [[C++] VSCode 的 CodeLLDB 扩展怎么配置](https://www.v2ex.com/t/867849#reply0) | 2022-07-21 12:23:39 
-- 🦅 [[Apple] 金属无线充电支架都会漏电吗？](https://www.v2ex.com/t/867848#reply0) | 2022-07-21 12:16:41 
-- 🙉 [[问与答] play 版本钉钉](https://www.v2ex.com/t/867847#reply0) | 2022-07-21 12:08:44 
-- 💫 [[iPhone] iPhone 14 爆料的一个疑问](https://www.v2ex.com/t/867846#reply22) | 2022-07-21 11:56:54 
-- 🎓 [[问与答] 大家遇到比较好的文章/电影/书籍/视频，是如何进行分享的？](https://www.v2ex.com/t/867845#reply3) | 2022-07-21 11:52:35 
-- 🗽 [[宽带症候群] 有劳帮我看下，杭州电信 v4/v6 双栈光猫哪里设置有误。](https://www.v2ex.com/t/867844#reply2) | 2022-07-21 11:46:42 
-- ⚗️ [[问与答] 添加了 n1 盒子后 esxi 中的 win7 虚拟机没网](https://www.v2ex.com/t/867843#reply2) | 2022-07-21 11:45:24 
-- 🦍 [[macOS] 各位大佬有没有遇到过文件还在但是内容都没了，变成 0 字节](https://www.v2ex.com/t/867842#reply0) | 2022-07-21 11:32:56 
-- 🤩 [[分享创造] 为满足网友需求，现在 i996 免费内网穿透已增加自定义域名功能](https://www.v2ex.com/t/867840#reply0) | 2022-07-21 11:02:04 
-- 🙉 [[程序员] T Chat 第六期「 Yuu - 我在 Linkedin 做移动端 」7 月 21 日（今晚）21:00 开播](https://www.v2ex.com/t/867839#reply0) | 2022-07-21 11:01:35 
-- 🌏 [[Spotify] Spotfy 台区家庭组长期](https://www.v2ex.com/t/867838#reply0) | 2022-07-21 10:57:07 
-- 🐘 [[问与答] 互联网法院起诉腾讯永封微信号的赢面有多大？](https://www.v2ex.com/t/867837#reply30) | 2022-07-21 10:53:07 
-- 🧰 [[Linux] 我有两台不在同一局域网的内网 Linux 机器 A, B, 还有一个公网服务器 C, A 可以 ssh 到 C, B 也可以, 我有什么办法通过 C 来实现 A B 通信么? 或者 A 直接拷贝文件给 B](https://www.v2ex.com/t/867836#reply14) | 2022-07-21 10:30:22 
-- 💃 [[问与答] vscode 不能用只有斜线这种符号的关键词来触发代码片段吗？](https://www.v2ex.com/t/867835#reply2) | 2022-07-21 10:29:10 
-- 🕯 [[Apple] 问个开 Apple One 家庭车的问题](https://www.v2ex.com/t/867834#reply0) | 2022-07-21 10:27:13 <!-- v2ex:END -->
+- 🫶 [[程序员] 从 anki、onenote 到 obsidian，一名小镇做题家的笔记进化史](https://www.v2ex.com/t/867858#reply0) | 2022-07-21 14:06:52 
+- 🧰 [[程序员] MacBook 的声音上多了一个 TFFAudio 的输入输出设备，怎么删除？](https://www.v2ex.com/t/867857#reply0) | 2022-07-21 13:56:43 
+- 🌏 [[生活] 话说和 hr 处对象是怎样的体验？](https://www.v2ex.com/t/867856#reply2) | 2022-07-21 13:55:00 
+- 😎 [[GitHub] GitHub Student Developer Pack 一直申请失败怎么办](https://www.v2ex.com/t/867855#reply0) | 2022-07-21 13:37:19 
+- 💂 [[问与答] 如果开发一个云笔记应该怎么设计?](https://www.v2ex.com/t/867854#reply2) | 2022-07-21 13:17:28 
+- 🔥 [[Apple] 这个老 mbp 的屏幕是完蛋了？](https://www.v2ex.com/t/867853#reply1) | 2022-07-21 12:47:34 
+- 🦅 [[职场话题] 2022 找工作记录](https://www.v2ex.com/t/867852#reply1) | 2022-07-21 12:42:44 
+- 🙉 [[问与答] Abort 翻译为「终止」还是「中止」？](https://www.v2ex.com/t/867851#reply7) | 2022-07-21 12:38:06 
+- 💫 [[问与答] 因为丢水里洗了下手机，我的 iPhone 震动出毛病了，什么奇妙情况？](https://www.v2ex.com/t/867850#reply4) | 2022-07-21 12:25:17 
+- 🎓 [[C++] VSCode 的 CodeLLDB 扩展怎么配置](https://www.v2ex.com/t/867849#reply1) | 2022-07-21 12:23:39 
+- 🗽 [[Apple] 金属无线充电支架都会漏电吗？](https://www.v2ex.com/t/867848#reply0) | 2022-07-21 12:16:41 
+- ⚗️ [[问与答] play 版本钉钉](https://www.v2ex.com/t/867847#reply0) | 2022-07-21 12:08:44 
+- 🦍 [[iPhone] iPhone 14 爆料的一个疑问](https://www.v2ex.com/t/867846#reply25) | 2022-07-21 11:56:54 
+- 🤩 [[问与答] 大家遇到比较好的文章/电影/书籍/视频，是如何进行分享的？](https://www.v2ex.com/t/867845#reply5) | 2022-07-21 11:52:35 
+- 🙉 [[宽带症候群] 有劳帮我看下，杭州电信 v4/v6 双栈光猫哪里设置有误。](https://www.v2ex.com/t/867844#reply2) | 2022-07-21 11:46:42 
+- 🌏 [[问与答] 添加了 n1 盒子后 esxi 中的 win7 虚拟机没网](https://www.v2ex.com/t/867843#reply2) | 2022-07-21 11:45:24 
+- 🐘 [[macOS] 各位大佬有没有遇到过文件还在但是内容都没了，变成 0 字节](https://www.v2ex.com/t/867842#reply0) | 2022-07-21 11:32:56 
+- 🧰 [[分享创造] 为满足网友需求，现在 i996 免费内网穿透已增加自定义域名功能](https://www.v2ex.com/t/867840#reply0) | 2022-07-21 11:02:04 
+- 💃 [[程序员] T Chat 第六期「 Yuu - 我在 Linkedin 做移动端 」7 月 21 日（今晚）21:00 开播](https://www.v2ex.com/t/867839#reply1) | 2022-07-21 11:01:35 
+- 🕯 [[Spotify] Spotfy 台区家庭组长期](https://www.v2ex.com/t/867838#reply0) | 2022-07-21 10:57:07 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
