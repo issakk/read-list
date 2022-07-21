@@ -62,12 +62,12 @@
 ## lcomplete
 
 <!-- lcomplete:START -->
-- 🫶 [🐒 野生架构师成长之路&lpar;1&rpar;——游戏与现实、乌龟与火箭](http://codelc.com/post/growup/s01/) | 2022-04-21 11:35:08 
-- 🧰 [「野生架构师」周刊](http://codelc.com/post/essay/%E9%87%8E%E7%94%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E5%91%A8%E5%88%8A%E4%BB%8B%E7%BB%8D/) | 2022-04-13 04:01:31 
-- 🌏 [🎄 [React] 使用 remotion 制作视频，让圣诞快乐 PSD 动起来](http://codelc.com/post/dev/js/remotion/) | 2021-12-19 21:44:08 
-- 😎 [编程界的 51 条名言佳句](http://codelc.com/post/dev/thinking/quotes/) | 2021-12-16 21:44:08 
-- 💂 [[10 倍程序员] ⭐ 脚本的魅力，内含 js 写爬虫、python 骚操作等实用代码](http://codelc.com/post/dev/10x/script/) | 2021-12-06 21:44:08 
-- 🔥 [MySQL 数据库开发规范](http://codelc.com/post/dev/db/mysql_standard/) | 2021-09-21 21:44:08 <!-- lcomplete:END -->
+- 🫶 [浅谈技术组合](http://codelc.com/post/essay/%E6%B5%85%E8%B0%88%E6%8A%80%E6%9C%AF%E7%BB%84%E5%90%88/) | 2022-05-13 04:01:31 
+- 🧰 [🐒 野生架构师成长之路&lpar;1&rpar;——游戏与现实、乌龟与火箭](http://codelc.com/post/growup/s01/) | 2022-04-21 11:35:08 
+- 🌏 [「野生架构师」周刊](http://codelc.com/post/essay/%E9%87%8E%E7%94%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E5%91%A8%E5%88%8A%E4%BB%8B%E7%BB%8D/) | 2022-04-13 04:01:31 
+- 😎 [🎄 [React] 使用 remotion 制作视频，让圣诞快乐 PSD 动起来](http://codelc.com/post/dev/js/remotion/) | 2021-12-19 21:44:08 
+- 💂 [编程界的 51 条名言佳句](http://codelc.com/post/dev/thinking/quotes/) | 2021-12-16 21:44:08 
+- 🔥 [[10 倍程序员] ⭐ 脚本的魅力，内含 js 写爬虫、python 骚操作等实用代码](http://codelc.com/post/dev/10x/script/) | 2021-12-06 21:44:08 <!-- lcomplete:END -->
 
 ## eryajf
 
