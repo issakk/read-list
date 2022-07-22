@@ -6,27 +6,27 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[程序员] 请教 Python 大佬，遍历一个 5GB 大小的 txt 文件，用什么方式效率比较高](https://www.v2ex.com/t/868095#reply0) | 2022-07-22 12:09:29 
-- 🧰 [[问与答] 自建新闻/资源聚合方案？](https://www.v2ex.com/t/868093#reply0) | 2022-07-22 12:04:49 
-- 🌏 [[程序员] 线路优化问题](https://www.v2ex.com/t/868092#reply0) | 2022-07-22 12:03:19 
-- 😎 [[分享发现] 刚刚发现 GitHub 支持隐藏个人动态了--我最需要的功能😂](https://www.v2ex.com/t/868091#reply2) | 2022-07-22 11:30:13 
-- 💂 [[程序员] 各位聚聚们 hw 是又开始啦？](https://www.v2ex.com/t/868090#reply9) | 2022-07-22 11:27:30 
-- 🔥 [[问与答] 如何戒掉 lol，就是想打两把，怎么办？
+- 🫶 [[OpenWrt] openwrt 局域网内 dns 请求 timeout](https://www.v2ex.com/t/868108#reply0) | 2022-07-22 13:25:33 
+- 🧰 [[C++] 一直做桌面端的工作， c++该往哪个方向精进](https://www.v2ex.com/t/868107#reply0) | 2022-07-22 13:23:12 
+- 🌏 [[全球工单系统] 美团的同学， app 客服这里是就这样设计的吗？](https://www.v2ex.com/t/868106#reply0) | 2022-07-22 13:14:47 
+- 😎 [[Docker] 容器共享缓存目录的问题](https://www.v2ex.com/t/868105#reply0) | 2022-07-22 13:08:58 
+- 💂 [[问与答] 大家公司项目和个人项目都用怎样的 Git 工作流？](https://www.v2ex.com/t/868103#reply0) | 2022-07-22 12:57:51 
+- 🔥 [[Java] 使用 IDEA 开发 mybatis 在注解中写 sql 时没有语法高亮，有没有什么插件可以实现？](https://www.v2ex.com/t/868102#reply2) | 2022-07-22 12:49:47 
+- 🦅 [[Apple] 乐坏了， Apple Self Service Repair 比去 Apple Store 维修还贵](https://www.v2ex.com/t/868101#reply2) | 2022-07-22 12:35:37 
+- 🙉 [[程序员] LSTM 网络中有关维数的理解](https://www.v2ex.com/t/868100#reply1) | 2022-07-22 12:31:10 
+- 💫 [[.NET] asp.net core 使用 watch run hot reload 的时候，怎么刷新 swagger ui](https://www.v2ex.com/t/868099#reply0) | 2022-07-22 12:28:12 
+- 🎓 [[程序员] 关于用不用 Optional 和 warn 级别 log，大家有一套判断标准吗？](https://www.v2ex.com/t/868098#reply0) | 2022-07-22 12:17:19 
+- 🗽 [[宽带症候群] pve 下的 iKuai， bt 下载时极易死机](https://www.v2ex.com/t/868097#reply2) | 2022-07-22 12:14:35 
+- ⚗️ [[问与答] 深夜抖音里卖吉祥号的是什么套路？](https://www.v2ex.com/t/868096#reply2) | 2022-07-22 12:13:40 
+- 🦍 [[程序员] 请教 Python 大佬，遍历一个 5GB 大小的 txt 文件，用什么方式效率比较高](https://www.v2ex.com/t/868095#reply4) | 2022-07-22 12:09:29 
+- 🤩 [[问与答] 自建新闻/资源聚合方案？](https://www.v2ex.com/t/868093#reply3) | 2022-07-22 12:04:49 
+- 🙉 [[程序员] 线路优化问题](https://www.v2ex.com/t/868092#reply8) | 2022-07-22 12:03:19 
+- 🌏 [[分享发现] 刚刚发现 GitHub 支持隐藏个人动态了--我最需要的功能😂](https://www.v2ex.com/t/868091#reply2) | 2022-07-22 11:30:13 
+- 🐘 [[问与答] 如何戒掉 lol，就是想打两把，怎么办？
 如何戒掉抖音，我已经把抖音禁止访问，但是忍不住还是改回来](https://www.v2ex.com/t/868088#reply3) | 2022-07-22 11:26:09 
-- 🦅 [[随想] 对于各公司快递员的一些主观感受](https://www.v2ex.com/t/868087#reply16) | 2022-07-22 11:20:54 
-- 🙉 [[问与答] 大神救我，我要被这个 NTP 问题搞疯了……](https://www.v2ex.com/t/868086#reply0) | 2022-07-22 11:20:02 
-- 💫 [[职场话题] 不经意间参加工作十年了，还记得毕业时的梦想吗](https://www.v2ex.com/t/868085#reply4) | 2022-07-22 11:13:47 
-- 🎓 [[分享创造] 搞了个批量创建层级文件夹的小破工具，有需要的可以体验下~ 😀](https://www.v2ex.com/t/868083#reply0) | 2022-07-22 11:08:29 
-- 🗽 [[前端开发] 关于 js 动效的问题](https://www.v2ex.com/t/868081#reply0) | 2022-07-22 11:02:01 
-- ⚗️ [[iPhone] iPhone 息屏后台上传问题](https://www.v2ex.com/t/868080#reply4) | 2022-07-22 11:01:33 
-- 🦍 [[Docker] 请问一下 docker history 中的 buildkit.dockerfile.v0 是什么意思？](https://www.v2ex.com/t/868079#reply0) | 2022-07-22 10:56:18 
-- 🤩 [[程序员] 快完成了 Blind 75 的一半了😄](https://www.v2ex.com/t/868078#reply1) | 2022-07-22 10:53:51 
-- 🙉 [[深圳] 深圳找羽毛球球友](https://www.v2ex.com/t/868076#reply1) | 2022-07-22 10:32:22 
-- 🌏 [[酷工作] Web3 招聘：韩语客服 - base 上海 - 薪资 10-25 万](https://www.v2ex.com/t/868075#reply0) | 2022-07-22 10:28:12 
-- 🐘 [[VMware] ESXI 平台在 2 个 cpu 情况下 wide vm 如何配置 CPU NUMA](https://www.v2ex.com/t/868074#reply0) | 2022-07-22 10:22:35 
-- 🧰 [[程序员] 有偿共享极客时间会员，差一位同学，一年 120](https://www.v2ex.com/t/868073#reply0) | 2022-07-22 10:22:26 
-- 💃 [[武汉] 武汉现阶段那个版块还有合适的大平房呀， 200 平到 300 平。](https://www.v2ex.com/t/868072#reply1) | 2022-07-22 10:20:38 
-- 🕯 [[Ubuntu] ubuntu 下有什么虚拟机软件推荐吗](https://www.v2ex.com/t/868071#reply5) | 2022-07-22 10:16:22 <!-- v2ex:END -->
+- 🧰 [[随想] 对于各公司快递员的一些主观感受](https://www.v2ex.com/t/868087#reply16) | 2022-07-22 11:20:54 
+- 💃 [[问与答] 大神救我，我要被这个 NTP 问题搞疯了……](https://www.v2ex.com/t/868086#reply0) | 2022-07-22 11:20:02 
+- 🕯 [[职场话题] 不经意间参加工作十年了，还记得毕业时的梦想吗](https://www.v2ex.com/t/868085#reply4) | 2022-07-22 11:13:47 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
