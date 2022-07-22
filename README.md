@@ -6,9 +6,9 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[程序员] 唉，打算用模拟器弄一个微信自动化的程序，结果立马就给我永封了...](https://www.v2ex.com/t/868138#reply5) | 2022-07-22 20:17:44 
+- 🫶 [[程序员] 唉，打算用模拟器弄一个微信自动化的程序，结果立马就给我永封了...](https://www.v2ex.com/t/868138#reply8) | 2022-07-22 20:17:44 
 - 🧰 [[路由器] TPLINK MESH 路由器把我的 http 全部劫持到了 login.netlock.cn 无法打开网页 可端口直连非 http 协议](https://www.v2ex.com/t/868137#reply0) | 2022-07-22 19:11:36 
-- 🌏 [[云计算] xdm 家庭部署服务器有什么解决方案吗？](https://www.v2ex.com/t/868136#reply8) | 2022-07-22 18:51:28 
+- 🌏 [[云计算] xdm 家庭部署服务器有什么解决方案吗？](https://www.v2ex.com/t/868136#reply10) | 2022-07-22 18:51:28 
 - 😎 [[问与答] 想请教咨询网络安全问题:关于 nsecrts 病毒](https://www.v2ex.com/t/868135#reply0) | 2022-07-22 18:46:20 
 - 💂 [[问与答] PC 端用 Shadowsocks 翻墙时不时出现 NS_BINDING_ABORTED 或 ERR_EMPTY_RESPONSE 错误，求教怎么解决？](https://www.v2ex.com/t/868134#reply0) | 2022-07-22 17:47:09 
 - 🔥 [[分享发现] Google Voice 号码终于失而复得！](https://www.v2ex.com/t/868133#reply1) | 2022-07-22 17:20:29 
