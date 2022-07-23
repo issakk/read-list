@@ -6,27 +6,27 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[分享创造] V2EX 首发，专业人才评估服务「人才码头」，诚邀试用~](https://www.v2ex.com/t/868241#reply0) | 2022-07-23 11:49:24 
-- 🧰 [[宽带症候群] 坐标广州，突然发现公网 ip 地址被收回了。。](https://www.v2ex.com/t/868239#reply4) | 2022-07-23 11:14:28 
-- 🌏 [[Apple] 用了 MacBook miniLED 屏幕再用 studio display 感觉屏幕好垃圾不够细腻怎么办?有啥推荐的显示器能媲美 miniLED 屏幕?](https://www.v2ex.com/t/868238#reply3) | 2022-07-23 11:08:33 
-- 😎 [[前端开发] 手机端横向滚动条修复与 postion:sticky 冲突问题](https://www.v2ex.com/t/868237#reply0) | 2022-07-23 10:57:57 
-- 💂 [[问与答] 有没有什么图片加密的工具](https://www.v2ex.com/t/868236#reply6) | 2022-07-23 10:53:57 
-- 🔥 [[酷工作] [上海]-[不加班]-[外企] 招 Java 、C++、安卓、中级测试、支持工程师、初级 devOps， Java 和 测试有残疾人岗位](https://www.v2ex.com/t/868235#reply0) | 2022-07-23 10:50:05 
-- 🦅 [[求职] UI 设计师求职](https://www.v2ex.com/t/868234#reply0) | 2022-07-23 10:41:20 
-- 🙉 [[Python] 有什么好用的分布式爬虫框架吗？](https://www.v2ex.com/t/868232#reply1) | 2022-07-23 10:29:40 
-- 💫 [[职场话题] 像这种事业单位该去吗](https://www.v2ex.com/t/868229#reply17) | 2022-07-23 10:05:51 
-- 🎓 [[程序员] React 和 Vue 应该怎么选？](https://www.v2ex.com/t/868228#reply16) | 2022-07-23 10:03:32 
-- 🗽 [[Google] 悲剧了， google voice 号被收回了，哪位大哥帮忙验证一下](https://www.v2ex.com/t/868227#reply5) | 2022-07-23 09:58:43 
-- ⚗️ [[分享创造] Typing Learner 可以用 MKV 视频或字幕生成词库（单词本），让每个单词都有具体的语境。
-然后通过语境记忆单词，句子，字幕。](https://www.v2ex.com/t/868225#reply1) | 2022-07-23 09:55:58 
-- 🦍 [[奇思妙想] 在相同的条件下用相同的算法训练相同的深度学习模型，训练的结果会是怎么样的呢？](https://www.v2ex.com/t/868224#reply6) | 2022-07-23 09:55:11 
-- 🤩 [[程序员] 请教下各位 v 站的大佬，前端有什么发展方向？](https://www.v2ex.com/t/868223#reply1) | 2022-07-23 09:51:11 
-- 🙉 [[AutoCAD] CAD 主要吃哪方面的配置？](https://www.v2ex.com/t/868222#reply2) | 2022-07-23 09:39:17 
-- 🌏 [[macOS] 升级 Monterey 12.5 之后 AOC LV273HUPR 显示器 USB Hub 功能失效](https://www.v2ex.com/t/868221#reply1) | 2022-07-23 09:31:23 
-- 🐘 [[职场话题] 什么样的公司适合远程办公？](https://www.v2ex.com/t/868219#reply8) | 2022-07-23 09:21:13 
-- 🧰 [[推广] 八五折出三网慢充话费](https://www.v2ex.com/t/868218#reply8) | 2022-07-23 09:01:55 
-- 💃 [[分享发现] 阿里通信 阿里小号 你做尽坏事 投诉无门 只能法院起诉 守规矩的人最受欺负](https://www.v2ex.com/t/868217#reply21) | 2022-07-23 09:01:02 
-- 🕯 [[分享发现] 最近发现 iPhone 不用打开音乐 App 可以直接播放](https://www.v2ex.com/t/868216#reply4) | 2022-07-23 08:50:31 <!-- v2ex:END -->
+- 🫶 [[iPhone] 关于这个时间段买 iphone11](https://www.v2ex.com/t/868253#reply1) | 2022-07-23 13:09:13 
+- 🧰 [[分享创造] catp - 打印已在运行的进程的输出](https://www.v2ex.com/t/868251#reply1) | 2022-07-23 13:05:07 
+- 🌏 [[问与答] 各位彭于晏们，求问安卓手机推荐](https://www.v2ex.com/t/868250#reply0) | 2022-07-23 13:00:52 
+- 😎 [[Apple] iPhone App Stroe 安装软件需要 apple id 密码验证？](https://www.v2ex.com/t/868248#reply0) | 2022-07-23 12:47:51 
+- 💂 [[分享发现] 罗技 mx master 3s 珍珠白是不是会容易发黄](https://www.v2ex.com/t/868247#reply0) | 2022-07-23 12:45:01 
+- 🔥 [[分享发现] 我做个财务薪资计算软件](https://www.v2ex.com/t/868246#reply0) | 2022-07-23 12:42:59 
+- 🦅 [[Windows] Windows 11 麦克风声音很小](https://www.v2ex.com/t/868243#reply0) | 2022-07-23 12:28:20 
+- 🙉 [[Windows] 求助各位用 Windows 笔记本的程序员](https://www.v2ex.com/t/868242#reply24) | 2022-07-23 12:18:34 
+- 💫 [[分享创造] V2EX 首发，专业人才评估服务「人才码头」，诚邀试用~](https://www.v2ex.com/t/868241#reply0) | 2022-07-23 11:49:24 
+- 🎓 [[宽带症候群] 坐标广州，突然发现公网 ip 地址被收回了。。](https://www.v2ex.com/t/868239#reply4) | 2022-07-23 11:14:28 
+- 🗽 [[Apple] 用了 MacBook miniLED 屏幕再用 studio display 感觉屏幕好垃圾不够细腻怎么办?有啥推荐的显示器能媲美 miniLED 屏幕?](https://www.v2ex.com/t/868238#reply12) | 2022-07-23 11:08:33 
+- ⚗️ [[前端开发] 手机端横向滚动条修复与 postion:sticky 冲突问题](https://www.v2ex.com/t/868237#reply2) | 2022-07-23 10:57:57 
+- 🦍 [[问与答] 有没有什么图片加密的工具](https://www.v2ex.com/t/868236#reply7) | 2022-07-23 10:53:57 
+- 🤩 [[酷工作] [上海]-[不加班]-[外企] 招 Java 、C++、安卓、中级测试、支持工程师、初级 devOps， Java 和 测试有残疾人岗位](https://www.v2ex.com/t/868235#reply0) | 2022-07-23 10:50:05 
+- 🙉 [[求职] UI 设计师求职](https://www.v2ex.com/t/868234#reply1) | 2022-07-23 10:41:20 
+- 🌏 [[Python] 有什么好用的分布式爬虫框架吗？](https://www.v2ex.com/t/868232#reply1) | 2022-07-23 10:29:40 
+- 🐘 [[职场话题] 像这种事业单位该去吗](https://www.v2ex.com/t/868229#reply22) | 2022-07-23 10:05:51 
+- 🧰 [[程序员] React 和 Vue 应该怎么选？](https://www.v2ex.com/t/868228#reply21) | 2022-07-23 10:03:32 
+- 💃 [[Google] 悲剧了， google voice 号被收回了，哪位大哥帮忙验证一下](https://www.v2ex.com/t/868227#reply6) | 2022-07-23 09:58:43 
+- 🕯 [[分享创造] Typing Learner 可以用 MKV 视频或字幕生成词库（单词本），让每个单词都有具体的语境。
+然后通过语境记忆单词，句子，字幕。](https://www.v2ex.com/t/868225#reply1) | 2022-07-23 09:55:58 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
