@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[Apple] 新的 m2 macbook 硬盘过度写入的问题还存在吗？](https://www.v2ex.com/t/868271#reply0) | 2022-07-23 15:05:33 
-- 🧰 [[NAS] 威联通 TS-264C /dev/dri 目录不见了](https://www.v2ex.com/t/868270#reply0) | 2022-07-23 15:03:46 
-- 🌏 [[Apple] 有人在 Mac 上用 UPS 么，请教无法自动关机的问题](https://www.v2ex.com/t/868269#reply5) | 2022-07-23 14:47:25 
-- 😎 [[问与答] 老城区换了水管夏天 24 小时免费热水，正常吗？有啥坏处？](https://www.v2ex.com/t/868268#reply3) | 2022-07-23 14:34:43 
-- 💂 [[问与答] 大伙儿平时识图用哪些站？ Google/Yandex/Bing/TinEye ，还有哪些比较常用的站](https://www.v2ex.com/t/868266#reply1) | 2022-07-23 14:11:41 
-- 🔥 [[Apple] 出一个 19 款 MBP15 寸](https://www.v2ex.com/t/868265#reply0) | 2022-07-23 14:09:36 
-- 🦅 [[分享创造] Hi，来试试 web3 的文件永存吧](https://www.v2ex.com/t/868264#reply15) | 2022-07-23 14:07:35 
-- 🙉 [[推广] 广州移动校园卡， 29 月租， 30+40G](https://www.v2ex.com/t/868263#reply0) | 2022-07-23 13:58:06 
-- 💫 [[Go 编程语言] golang 用 &amp; 返回对象和直接返回对象有啥区别？](https://www.v2ex.com/t/868262#reply1) | 2022-07-23 13:57:05 
-- 🎓 [[问与答] V2 为什么屏蔽了我的 IP 地址](https://www.v2ex.com/t/868260#reply10) | 2022-07-23 13:52:44 
-- 🗽 [[问与答] 日益严重的关键词屏蔽,可否发明一种密文交流方式?](https://www.v2ex.com/t/868259#reply13) | 2022-07-23 13:44:31 
-- ⚗️ [[宽带症候群] 移动宽带 NAT 问题。](https://www.v2ex.com/t/868258#reply5) | 2022-07-23 13:35:31 
-- 🦍 [[Google] Google Voice 被收回，求找回短信接收验证](https://www.v2ex.com/t/868257#reply4) | 2022-07-23 13:32:55 
-- 🤩 [[问与答] 麻烦问下百度云网页版的数字排序反人类，有没有解决办法?](https://www.v2ex.com/t/868256#reply1) | 2022-07-23 13:32:21 
-- 🙉 [[Ruby] 用 Ruby 讲从创业到 996 公司的故事&lpar;戏说 master-worker 模式&rpar;](https://www.v2ex.com/t/868255#reply0) | 2022-07-23 13:31:33 
-- 🌏 [[分享创造] audacity 熟练度加 1](https://www.v2ex.com/t/868254#reply0) | 2022-07-23 13:29:01 
-- 🐘 [[iPhone] 关于这个时间段买 iphone11](https://www.v2ex.com/t/868253#reply11) | 2022-07-23 13:09:13 
-- 🧰 [[分享创造] catp - 打印已在运行的进程的输出](https://www.v2ex.com/t/868251#reply1) | 2022-07-23 13:05:07 
-- 💃 [[问与答] 各位彭于晏们，求问安卓手机推荐](https://www.v2ex.com/t/868250#reply1) | 2022-07-23 13:00:52 
-- 🕯 [[Apple] iPhone App Stroe 安装软件需要 apple id 密码验证？](https://www.v2ex.com/t/868248#reply1) | 2022-07-23 12:47:51 <!-- v2ex:END -->
+- 🫶 [[程序员] 用过亚马逊 codewhisperer 的来说说体验](https://www.v2ex.com/t/868282#reply0) | 2022-07-23 15:59:33 
+- 🧰 [[互联网] 发现一个神奇的网站，到底什么原理？](https://www.v2ex.com/t/868280#reply3) | 2022-07-23 15:33:11 
+- 🌏 [[宽带症候群] 家里预埋光纤，应该预埋那种类型的光纤？多芯皮线光纤还是多芯光缆](https://www.v2ex.com/t/868279#reply1) | 2022-07-23 15:29:36 
+- 😎 [[程序员] 请问一个数据库表设计问题](https://www.v2ex.com/t/868277#reply1) | 2022-07-23 15:27:33 
+- 💂 [[硬件] 有一个性能极好的 11/12 代 Intel CPU，装进散热极差的无风扇轻薄本，是一种什么样的体验？](https://www.v2ex.com/t/868276#reply4) | 2022-07-23 15:27:17 
+- 🔥 [[问与答] Tokenview。com 这个网站什么时候开始打不开的？](https://www.v2ex.com/t/868274#reply0) | 2022-07-23 15:14:49 
+- 🦅 [[MacBook Pro] 2020 款 MBP 的 touch bar 花屏，软件问题还是硬件问题？](https://www.v2ex.com/t/868273#reply0) | 2022-07-23 15:10:07 
+- 🙉 [[问与答] PC 端用 SSR 时不时出现 NS_BINDING_ABORTED 或 ERR_EMPTY_RESPONSE 错误，这个是什么问题呀](https://www.v2ex.com/t/868272#reply0) | 2022-07-23 15:09:05 
+- 💫 [[Apple] 新的 m2 macbook 硬盘过度写入的问题还存在吗？](https://www.v2ex.com/t/868271#reply0) | 2022-07-23 15:05:33 
+- 🎓 [[NAS] 威联通 TS-264C /dev/dri 目录不见了](https://www.v2ex.com/t/868270#reply2) | 2022-07-23 15:03:46 
+- 🗽 [[Apple] 有人在 Mac 上用 UPS 么，请教无法自动关机的问题](https://www.v2ex.com/t/868269#reply12) | 2022-07-23 14:47:25 
+- ⚗️ [[问与答] 老城区换了水管夏天 24 小时免费热水，正常吗？有啥坏处？](https://www.v2ex.com/t/868268#reply4) | 2022-07-23 14:34:43 
+- 🦍 [[问与答] 大伙儿平时识图用哪些站？ Google/Yandex/Bing/TinEye ，还有哪些比较常用的站](https://www.v2ex.com/t/868266#reply1) | 2022-07-23 14:11:41 
+- 🤩 [[Apple] 出一个 19 款 MBP15 寸](https://www.v2ex.com/t/868265#reply0) | 2022-07-23 14:09:36 
+- 🙉 [[分享创造] Hi，来试试 web3 的文件永存吧](https://www.v2ex.com/t/868264#reply21) | 2022-07-23 14:07:35 
+- 🌏 [[推广] 广州移动校园卡， 29 月租， 30+40G](https://www.v2ex.com/t/868263#reply0) | 2022-07-23 13:58:06 
+- 🐘 [[Go 编程语言] golang 用 &amp; 返回对象和直接返回对象有啥区别？](https://www.v2ex.com/t/868262#reply4) | 2022-07-23 13:57:05 
+- 🧰 [[问与答] V2 为什么屏蔽了我的 IP 地址](https://www.v2ex.com/t/868260#reply11) | 2022-07-23 13:52:44 
+- 💃 [[问与答] 日益严重的关键词屏蔽,可否发明一种密文交流方式?](https://www.v2ex.com/t/868259#reply16) | 2022-07-23 13:44:31 
+- 🕯 [[宽带症候群] 移动宽带 NAT 问题。](https://www.v2ex.com/t/868258#reply5) | 2022-07-23 13:35:31 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
