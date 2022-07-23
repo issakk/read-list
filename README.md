@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[装修] 10 年魅友准备入手 Lipro 吸顶灯，但媳妇感觉太贵，纠结中。](https://www.v2ex.com/t/868294#reply0) | 2022-07-23 19:38:36 
-- 🧰 [[Apple] Mac 的金子内存和 SSD 回收价](https://www.v2ex.com/t/868293#reply2) | 2022-07-23 19:17:16 
-- 🌏 [[问与答] 求助下西数 element 移动硬盘识别不出来](https://www.v2ex.com/t/868291#reply4) | 2022-07-23 18:51:29 
-- 😎 [[问与答] 手机的亮度手动设置最亮，但是却自动调整到最低，想知道如何检查自己的手机是否被安装了特定的软件](https://www.v2ex.com/t/868290#reply0) | 2022-07-23 18:44:41 
-- 💂 [[问与答] 有什么犹豫了很久最后还是买了的东西？](https://www.v2ex.com/t/868287#reply9) | 2022-07-23 17:17:28 
-- 🔥 [[Apple] 新买了一个 Airpods2，吐槽一下这个双击](https://www.v2ex.com/t/868286#reply0) | 2022-07-23 17:16:10 
-- 🦅 [[MacBook Air] 好家伙， Apple Gift card 没法用来买 Apple care](https://www.v2ex.com/t/868284#reply0) | 2022-07-23 16:41:10 
-- 🙉 [[生活] 惨痛的教训，空调内机底下不要放电脑和显示器](https://www.v2ex.com/t/868283#reply5) | 2022-07-23 16:15:43 
-- 💫 [[程序员] 用过亚马逊 codewhisperer 的来说说体验](https://www.v2ex.com/t/868282#reply0) | 2022-07-23 15:59:33 
-- 🎓 [[互联网] 发现一个神奇的网站，到底什么原理？](https://www.v2ex.com/t/868280#reply3) | 2022-07-23 15:33:11 
-- 🗽 [[宽带症候群] 家里预埋光纤，应该预埋那种类型的光纤？多芯皮线光纤还是多芯光缆](https://www.v2ex.com/t/868279#reply4) | 2022-07-23 15:29:36 
-- ⚗️ [[程序员] 请问一个数据库表设计问题](https://www.v2ex.com/t/868277#reply2) | 2022-07-23 15:27:33 
-- 🦍 [[硬件] 有一个性能极好的 11/12 代 Intel CPU，装进散热极差的无风扇轻薄本，是一种什么样的体验？](https://www.v2ex.com/t/868276#reply9) | 2022-07-23 15:27:17 
-- 🤩 [[问与答] Tokenview。com 这个网站什么时候开始打不开的？](https://www.v2ex.com/t/868274#reply0) | 2022-07-23 15:14:49 
-- 🙉 [[MacBook Pro] 2020 款 MBP 的 touch bar 花屏，软件问题还是硬件问题？](https://www.v2ex.com/t/868273#reply0) | 2022-07-23 15:10:07 
-- 🌏 [[问与答] PC 端用 SSR 时不时出现 NS_BINDING_ABORTED 或 ERR_EMPTY_RESPONSE 错误，这个是什么问题呀](https://www.v2ex.com/t/868272#reply0) | 2022-07-23 15:09:05 
-- 🐘 [[Apple] 新的 m2 macbook 硬盘过度写入的问题还存在吗？](https://www.v2ex.com/t/868271#reply1) | 2022-07-23 15:05:33 
-- 🧰 [[NAS] 威联通 TS-264C /dev/dri 目录不见了](https://www.v2ex.com/t/868270#reply3) | 2022-07-23 15:03:46 
-- 💃 [[Apple] 有人在 Mac 上用 UPS 么，请教无法自动关机的问题](https://www.v2ex.com/t/868269#reply13) | 2022-07-23 14:47:25 
-- 🕯 [[问与答] 老城区换了水管夏天 24 小时免费热水，正常吗？有啥坏处？](https://www.v2ex.com/t/868268#reply6) | 2022-07-23 14:34:43 <!-- v2ex:END -->
+- 🫶 [[iPad] 在家上网和刷剧选 iPad pro 11 还是 mini 6？](https://www.v2ex.com/t/868295#reply0) | 2022-07-23 20:56:05 
+- 🧰 [[装修] 10 年魅友准备入手 Lipro 吸顶灯，但媳妇感觉太贵，纠结中。](https://www.v2ex.com/t/868294#reply0) | 2022-07-23 19:38:36 
+- 🌏 [[Apple] Mac 的金子内存和 SSD 回收价](https://www.v2ex.com/t/868293#reply3) | 2022-07-23 19:17:16 
+- 😎 [[问与答] 求助下西数 element 移动硬盘识别不出来](https://www.v2ex.com/t/868291#reply4) | 2022-07-23 18:51:29 
+- 💂 [[问与答] 手机的亮度手动设置最亮，但是却自动调整到最低，想知道如何检查自己的手机是否被安装了特定的软件](https://www.v2ex.com/t/868290#reply0) | 2022-07-23 18:44:41 
+- 🔥 [[问与答] 有什么犹豫了很久最后还是买了的东西？](https://www.v2ex.com/t/868287#reply10) | 2022-07-23 17:17:28 
+- 🦅 [[Apple] 新买了一个 Airpods2，吐槽一下这个双击](https://www.v2ex.com/t/868286#reply0) | 2022-07-23 17:16:10 
+- 🙉 [[MacBook Air] 好家伙， Apple Gift card 没法用来买 Apple care](https://www.v2ex.com/t/868284#reply0) | 2022-07-23 16:41:10 
+- 💫 [[生活] 惨痛的教训，空调内机底下不要放电脑和显示器](https://www.v2ex.com/t/868283#reply6) | 2022-07-23 16:15:43 
+- 🎓 [[程序员] 用过亚马逊 codewhisperer 的来说说体验](https://www.v2ex.com/t/868282#reply0) | 2022-07-23 15:59:33 
+- 🗽 [[互联网] 发现一个神奇的网站，到底什么原理？](https://www.v2ex.com/t/868280#reply3) | 2022-07-23 15:33:11 
+- ⚗️ [[宽带症候群] 家里预埋光纤，应该预埋那种类型的光纤？多芯皮线光纤还是多芯光缆](https://www.v2ex.com/t/868279#reply4) | 2022-07-23 15:29:36 
+- 🦍 [[程序员] 请问一个数据库表设计问题](https://www.v2ex.com/t/868277#reply2) | 2022-07-23 15:27:33 
+- 🤩 [[硬件] 有一个性能极好的 11/12 代 Intel CPU，装进散热极差的无风扇轻薄本，是一种什么样的体验？](https://www.v2ex.com/t/868276#reply9) | 2022-07-23 15:27:17 
+- 🙉 [[问与答] Tokenview。com 这个网站什么时候开始打不开的？](https://www.v2ex.com/t/868274#reply0) | 2022-07-23 15:14:49 
+- 🌏 [[MacBook Pro] 2020 款 MBP 的 touch bar 花屏，软件问题还是硬件问题？](https://www.v2ex.com/t/868273#reply0) | 2022-07-23 15:10:07 
+- 🐘 [[问与答] PC 端用 SSR 时不时出现 NS_BINDING_ABORTED 或 ERR_EMPTY_RESPONSE 错误，这个是什么问题呀](https://www.v2ex.com/t/868272#reply0) | 2022-07-23 15:09:05 
+- 🧰 [[Apple] 新的 m2 macbook 硬盘过度写入的问题还存在吗？](https://www.v2ex.com/t/868271#reply1) | 2022-07-23 15:05:33 
+- 💃 [[NAS] 威联通 TS-264C /dev/dri 目录不见了](https://www.v2ex.com/t/868270#reply3) | 2022-07-23 15:03:46 
+- 🕯 [[Apple] 有人在 Mac 上用 UPS 么，请教无法自动关机的问题](https://www.v2ex.com/t/868269#reply13) | 2022-07-23 14:47:25 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
