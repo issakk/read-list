@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[Apple] 新 mac studio，只有罗技的无线键盘鼠标，怎么进去系统进行配置？](https://www.v2ex.com/t/868161#reply0) | 2022-07-23 02:59:13 
-- 🧰 [[机器学习] 数学比较差的三年前端工程师想转 AI 研究方向， V 友们觉得有希望吗？可以指点一下学习路线吗？](https://www.v2ex.com/t/868160#reply0) | 2022-07-23 02:56:41 
-- 🌏 [[NVIDIA] win11 中使用 nvida 3080ti，在虚拟机中能做训练和识别么](https://www.v2ex.com/t/868159#reply1) | 2022-07-23 02:51:51 
-- 😎 [[问与答] django 有哪些知名开源项目吗](https://www.v2ex.com/t/868158#reply0) | 2022-07-23 02:49:59 
-- 💂 [[程序员] 人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157#reply2) | 2022-07-23 02:48:53 
-- 🔥 [[宽带症候群] 微信症候群-1.释放 macOS 微信占用的固态硬盘空间](https://www.v2ex.com/t/868156#reply0) | 2022-07-23 02:47:29 
-- 🦅 [[Ubuntu] 使用 docker 下载代码提示 key 报错问题请教](https://www.v2ex.com/t/868155#reply1) | 2022-07-23 02:39:03 
-- 🙉 [[程序员] typescript 里, 从后端接口获取的数据类型, 是声明全局类型呢, 还是模块类型呢](https://www.v2ex.com/t/868154#reply2) | 2022-07-23 02:34:05 
-- 💫 [[Apple] 吐槽下 Mac 这个 HiDPI 高分屏缩放](https://www.v2ex.com/t/868153#reply1) | 2022-07-23 02:30:24 
-- 🎓 [[MacBook Pro] 不小心买了丐版 m2 pro 该怎么安慰自己](https://www.v2ex.com/t/868152#reply3) | 2022-07-23 02:29:15 
-- 🗽 [[Java] 线上 JVM 内存溢出， OOM 问题排查求指点。](https://www.v2ex.com/t/868151#reply5) | 2022-07-23 02:26:03 
-- ⚗️ [[买买买] 200 近视+175 散光，想配一副带偏光的（不要夹片或者套片），有什么品牌镜片推荐么？](https://www.v2ex.com/t/868150#reply1) | 2022-07-23 02:22:17 
-- 🦍 [[问与答] 为什么 Minecraft for Windows（基岩版）显示所有成就已锁定？](https://www.v2ex.com/t/868148#reply5) | 2022-07-23 01:28:33 
-- 🤩 [[Apple] 为什么 iMessage 回顾之前消息这么卡](https://www.v2ex.com/t/868147#reply2) | 2022-07-23 01:23:47 
-- 🙉 [[Go 编程语言] 关于 defer 的案例有点不太理解（新手）](https://www.v2ex.com/t/868146#reply5) | 2022-07-23 01:10:07 
-- 🌏 [[问与答] 在 115 已经几乎无法使用的今天 你是怎么办的](https://www.v2ex.com/t/868145#reply10) | 2022-07-23 01:09:53 
-- 🐘 [[问与答] Looker + Git 似乎很容易引起合并冲突](https://www.v2ex.com/t/868142#reply4) | 2022-07-23 00:50:38 
-- 🧰 [[问与答] jellyfin 手机端解码有问题](https://www.v2ex.com/t/868141#reply3) | 2022-07-23 00:44:40 
-- 💃 [[程序员] 刚刚进行了又一次互联网的迁徙，再见简书](https://www.v2ex.com/t/868140#reply19) | 2022-07-23 00:19:19 
-- 🕯 [[微信] 微信绑定 gv 号又被封了](https://www.v2ex.com/t/868139#reply7) | 2022-07-22 23:46:23 <!-- v2ex:END -->
+- 🫶 [[程序员] 请求量巨大的情况下，缩短 API 字段单词长度是否值得？](https://www.v2ex.com/t/868167#reply8) | 2022-07-23 03:35:49 
+- 🧰 [[问与答] 求问各位老哥们一点关于澳洲留学的问题](https://www.v2ex.com/t/868165#reply0) | 2022-07-23 03:22:04 
+- 🌏 [[Go 编程语言] 一个利用 go 的简陋语法模仿 const 修饰的 linter](https://www.v2ex.com/t/868164#reply0) | 2022-07-23 03:19:13 
+- 😎 [[问与答] 人体工学椅 steelcase think 3800 元是否值得？](https://www.v2ex.com/t/868163#reply0) | 2022-07-23 03:12:14 
+- 💂 [[分享创造] 可能火星，上周末随手写了个字幕遮挡工具](https://www.v2ex.com/t/868162#reply0) | 2022-07-23 03:01:00 
+- 🔥 [[Apple] 新 mac studio，只有罗技的无线键盘鼠标，怎么进去系统进行配置？](https://www.v2ex.com/t/868161#reply12) | 2022-07-23 02:59:13 
+- 🦅 [[机器学习] 数学比较差的三年前端工程师想转 AI 研究方向， V 友们觉得有希望吗？可以指点一下学习路线吗？](https://www.v2ex.com/t/868160#reply0) | 2022-07-23 02:56:41 
+- 🙉 [[NVIDIA] win11 中使用 nvida 3080ti，在虚拟机中能做训练和识别么](https://www.v2ex.com/t/868159#reply3) | 2022-07-23 02:51:51 
+- 💫 [[问与答] django 有哪些知名开源项目吗](https://www.v2ex.com/t/868158#reply1) | 2022-07-23 02:49:59 
+- 🎓 [[程序员] 人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157#reply18) | 2022-07-23 02:48:53 
+- 🗽 [[宽带症候群] 微信症候群-1.释放 macOS 微信占用的固态硬盘空间](https://www.v2ex.com/t/868156#reply2) | 2022-07-23 02:47:29 
+- ⚗️ [[Ubuntu] 使用 docker 下载代码提示 key 报错问题请教](https://www.v2ex.com/t/868155#reply1) | 2022-07-23 02:39:03 
+- 🦍 [[程序员] typescript 里, 从后端接口获取的数据类型, 是声明全局类型呢, 还是模块类型呢](https://www.v2ex.com/t/868154#reply5) | 2022-07-23 02:34:05 
+- 🤩 [[Apple] 吐槽下 Mac 这个 HiDPI 高分屏缩放](https://www.v2ex.com/t/868153#reply10) | 2022-07-23 02:30:24 
+- 🙉 [[MacBook Pro] 不小心买了丐版 m2 pro 该怎么安慰自己](https://www.v2ex.com/t/868152#reply6) | 2022-07-23 02:29:15 
+- 🌏 [[Java] 线上 JVM 内存溢出， OOM 问题排查求指点。](https://www.v2ex.com/t/868151#reply13) | 2022-07-23 02:26:03 
+- 🐘 [[买买买] 200 近视+175 散光，想配一副带偏光的（不要夹片或者套片），有什么品牌镜片推荐么？](https://www.v2ex.com/t/868150#reply2) | 2022-07-23 02:22:17 
+- 🧰 [[问与答] 为什么 Minecraft for Windows（基岩版）显示所有成就已锁定？](https://www.v2ex.com/t/868148#reply6) | 2022-07-23 01:28:33 
+- 💃 [[Apple] 为什么 iMessage 回顾之前消息这么卡](https://www.v2ex.com/t/868147#reply4) | 2022-07-23 01:23:47 
+- 🕯 [[Go 编程语言] 关于 defer 的案例有点不太理解（新手）](https://www.v2ex.com/t/868146#reply7) | 2022-07-23 01:10:07 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
