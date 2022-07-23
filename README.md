@@ -72,12 +72,12 @@
 ## eryajf
 
 <!-- eryajf:START -->
-- 🫶 [在家季余随感](https://wiki.eryajf.net/pages/e36842/) | 2022-07-20 17:22:11 
-- 🧰 [openLDAP入门系列笔记第二篇--简单认识objectCLass以及常见应用](https://wiki.eryajf.net/pages/ea10fa/) | 2022-07-17 22:02:31 
-- 🌏 [openLDAP入门系列笔记第一篇--捋透openLDAP的基础概念](https://wiki.eryajf.net/pages/aa0651/) | 2022-07-17 22:00:19 
-- 😎 [golang数据类型转换汇总](https://wiki.eryajf.net/pages/33a476/) | 2022-07-17 11:42:01 
-- 💂 [学习周刊-总第62期-2022年第27周](https://wiki.eryajf.net/pages/4a06ab/) | 2022-07-16 14:25:58 
-- 🔥 [学习周刊-总第61期-2022年第26周](https://wiki.eryajf.net/pages/703307/) | 2022-07-09 14:45:59 <!-- eryajf:END -->
+- 🫶 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | 2022-07-23 11:10:55 
+- 🧰 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | 2022-07-23 11:06:46 
+- 🌏 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) | 2022-07-23 11:01:57 
+- 😎 [学习周刊-总第63期-2022年第28周](https://wiki.eryajf.net/pages/d2ea2c/) | 2022-07-23 10:32:59 
+- 💂 [在家季余随感](https://wiki.eryajf.net/pages/e36842/) | 2022-07-20 17:22:11 
+- 🔥 [openLDAP入门系列笔记第二篇--简单认识objectCLass以及常见应用](https://wiki.eryajf.net/pages/ea10fa/) | 2022-07-17 22:02:31 <!-- eryajf:END -->
 
 
 
