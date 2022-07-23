@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[问与答] Docker 挂载父子目录问题](https://www.v2ex.com/t/868176#reply0) | 2022-07-23 04:18:34 
-- 🧰 [[问与答] 有没有 读取 json 文件根据 js 表达式 显示结果的工具](https://www.v2ex.com/t/868174#reply0) | 2022-07-23 04:15:10 
-- 🌏 [[酷工作] [北京/高瓴投资/明星创业公司] 🛰 dora 测试岗位 / 后端岗位开放申请](https://www.v2ex.com/t/868173#reply1) | 2022-07-23 04:10:50 
-- 😎 [[问与答] 诈骗网站怎么给他注点垃圾？](https://www.v2ex.com/t/868171#reply0) | 2022-07-23 04:02:54 
-- 💂 [[MacBook Air] Youtube 博主为 M2 MacBook Air 主板贴上 15 美元散热片后发现性能和 M2 Pro 相同](https://www.v2ex.com/t/868169#reply3) | 2022-07-23 03:55:33 
-- 🔥 [[程序员] 请求量巨大的情况下，缩短 API 字段单词长度是否值得？](https://www.v2ex.com/t/868167#reply12) | 2022-07-23 03:35:49 
-- 🦅 [[问与答] 求问各位老哥们一点关于澳洲留学的问题](https://www.v2ex.com/t/868165#reply0) | 2022-07-23 03:22:04 
-- 🙉 [[Go 编程语言] 一个利用 go 的简陋语法模仿 const 修饰的 linter](https://www.v2ex.com/t/868164#reply0) | 2022-07-23 03:19:13 
-- 💫 [[问与答] 人体工学椅 steelcase think 3800 元是否值得？](https://www.v2ex.com/t/868163#reply0) | 2022-07-23 03:12:14 
-- 🎓 [[分享创造] 可能火星，上周末随手写了个字幕遮挡工具](https://www.v2ex.com/t/868162#reply0) | 2022-07-23 03:01:00 
-- 🗽 [[Apple] 新 mac studio，只有罗技的无线键盘鼠标，怎么进去系统进行配置？](https://www.v2ex.com/t/868161#reply14) | 2022-07-23 02:59:13 
-- ⚗️ [[机器学习] 数学比较差的三年前端工程师想转 AI 研究方向， V 友们觉得有希望吗？可以指点一下学习路线吗？](https://www.v2ex.com/t/868160#reply0) | 2022-07-23 02:56:41 
-- 🦍 [[NVIDIA] win11 中使用 nvida 3080ti，在虚拟机中能做训练和识别么](https://www.v2ex.com/t/868159#reply3) | 2022-07-23 02:51:51 
-- 🤩 [[问与答] django 有哪些知名开源项目吗](https://www.v2ex.com/t/868158#reply1) | 2022-07-23 02:49:59 
-- 🙉 [[程序员] 人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157#reply23) | 2022-07-23 02:48:53 
-- 🌏 [[宽带症候群] 微信症候群-1.释放 macOS 微信占用的固态硬盘空间](https://www.v2ex.com/t/868156#reply2) | 2022-07-23 02:47:29 
-- 🐘 [[Ubuntu] 使用 docker 下载代码提示 key 报错问题请教](https://www.v2ex.com/t/868155#reply2) | 2022-07-23 02:39:03 
-- 🧰 [[程序员] typescript 里, 从后端接口获取的数据类型, 是声明全局类型呢, 还是模块类型呢](https://www.v2ex.com/t/868154#reply6) | 2022-07-23 02:34:05 
-- 💃 [[Apple] 吐槽下 Mac 这个 HiDPI 高分屏缩放](https://www.v2ex.com/t/868153#reply17) | 2022-07-23 02:30:24 
-- 🕯 [[MacBook Pro] 不小心买了丐版 m2 pro 该怎么安慰自己](https://www.v2ex.com/t/868152#reply6) | 2022-07-23 02:29:15 <!-- v2ex:END -->
+- 🫶 [[分享发现] 我这样写是不是很难发现我的密码然后启动了个什么软件](https://www.v2ex.com/t/868183#reply0) | 2022-07-23 04:57:51 
+- 🧰 [[程序员] Java 后台开发，大家用 @Autowired 多么](https://www.v2ex.com/t/868182#reply3) | 2022-07-23 04:46:26 
+- 🌏 [[程序员] 如何下载 pcie 规范的 pdf？](https://www.v2ex.com/t/868181#reply2) | 2022-07-23 04:43:42 
+- 😎 [[程序员] Chrome 有办法调用微软 edge 类似的朗读系统吗？](https://www.v2ex.com/t/868180#reply0) | 2022-07-23 04:35:19 
+- 💂 [[问与答] 「选哪一个？」#1 M1.MBP14 标配 13,899 VS #2 M2.MBA16G 512G 12,499](https://www.v2ex.com/t/868178#reply0) | 2022-07-23 04:25:29 
+- 🔥 [[问与答] Docker 挂载父子目录问题](https://www.v2ex.com/t/868176#reply3) | 2022-07-23 04:18:34 
+- 🦅 [[问与答] 有没有 读取 json 文件根据 js 表达式 显示结果的工具](https://www.v2ex.com/t/868174#reply0) | 2022-07-23 04:15:10 
+- 🙉 [[酷工作] [北京/高瓴投资/明星创业公司] 🛰 dora 测试岗位 / 后端岗位开放申请](https://www.v2ex.com/t/868173#reply11) | 2022-07-23 04:10:50 
+- 💫 [[问与答] 诈骗网站怎么给他注点垃圾？](https://www.v2ex.com/t/868171#reply2) | 2022-07-23 04:02:54 
+- 🎓 [[MacBook Air] Youtube 博主为 M2 MacBook Air 主板贴上 15 美元散热片后发现性能和 M2 Pro 相同](https://www.v2ex.com/t/868169#reply7) | 2022-07-23 03:55:33 
+- 🗽 [[程序员] 请求量巨大的情况下，缩短 API 字段单词长度是否值得？](https://www.v2ex.com/t/868167#reply13) | 2022-07-23 03:35:49 
+- ⚗️ [[海外留学] 求问各位老哥们一点关于澳洲留学的问题](https://www.v2ex.com/t/868165#reply0) | 2022-07-23 03:22:04 
+- 🦍 [[Go 编程语言] 一个利用 go 的简陋语法模仿 const 修饰的 linter](https://www.v2ex.com/t/868164#reply0) | 2022-07-23 03:19:13 
+- 🤩 [[问与答] 人体工学椅 steelcase think 3800 元是否值得？](https://www.v2ex.com/t/868163#reply0) | 2022-07-23 03:12:14 
+- 🙉 [[分享创造] 可能火星，上周末随手写了个字幕遮挡工具](https://www.v2ex.com/t/868162#reply0) | 2022-07-23 03:01:00 
+- 🌏 [[Apple] 新 mac studio，只有罗技的无线键盘鼠标，怎么进去系统进行配置？](https://www.v2ex.com/t/868161#reply17) | 2022-07-23 02:59:13 
+- 🐘 [[机器学习] 数学比较差的三年前端工程师想转 AI 研究方向， V 友们觉得有希望吗？可以指点一下学习路线吗？](https://www.v2ex.com/t/868160#reply1) | 2022-07-23 02:56:41 
+- 🧰 [[NVIDIA] win11 中使用 nvida 3080ti，在虚拟机中能做训练和识别么](https://www.v2ex.com/t/868159#reply3) | 2022-07-23 02:51:51 
+- 💃 [[问与答] django 有哪些知名开源项目吗](https://www.v2ex.com/t/868158#reply2) | 2022-07-23 02:49:59 
+- 🕯 [[程序员] 人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157#reply31) | 2022-07-23 02:48:53 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
