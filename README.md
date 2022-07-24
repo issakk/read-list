@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[iOS] 各位 Apple 地图的共享到达时间可以正常使用吗？](https://www.v2ex.com/t/868296#reply0) | 2022-07-23 21:54:17 
-- 🧰 [[iPad] 在家上网和刷剧选 iPad pro 11 还是 mini 6？](https://www.v2ex.com/t/868295#reply7) | 2022-07-23 20:56:05 
-- 🌏 [[装修] 10 年魅友准备入手 Lipro 吸顶灯，但媳妇感觉太贵，纠结中。](https://www.v2ex.com/t/868294#reply2) | 2022-07-23 19:38:36 
-- 😎 [[Apple] Mac 的金子内存和 SSD 回收价](https://www.v2ex.com/t/868293#reply4) | 2022-07-23 19:17:16 
-- 💂 [[问与答] 求助下西数 element 移动硬盘识别不出来](https://www.v2ex.com/t/868291#reply4) | 2022-07-23 18:51:29 
-- 🔥 [[问与答] 手机的亮度手动设置最亮，但是却自动调整到最低，想知道如何检查自己的手机是否被安装了特定的软件](https://www.v2ex.com/t/868290#reply0) | 2022-07-23 18:44:41 
-- 🦅 [[问与答] 有什么犹豫了很久最后还是买了的东西？](https://www.v2ex.com/t/868287#reply12) | 2022-07-23 17:17:28 
-- 🙉 [[Apple] 新买了一个 Airpods2，吐槽一下这个双击](https://www.v2ex.com/t/868286#reply0) | 2022-07-23 17:16:10 
-- 💫 [[MacBook Air] 好家伙， Apple Gift card 没法用来买 Apple care](https://www.v2ex.com/t/868284#reply0) | 2022-07-23 16:41:10 
-- 🎓 [[生活] 惨痛的教训，空调内机底下不要放电脑和显示器](https://www.v2ex.com/t/868283#reply6) | 2022-07-23 16:15:43 
-- 🗽 [[程序员] 用过亚马逊 codewhisperer 的来说说体验](https://www.v2ex.com/t/868282#reply0) | 2022-07-23 15:59:33 
-- ⚗️ [[互联网] 发现一个神奇的网站，到底什么原理？](https://www.v2ex.com/t/868280#reply3) | 2022-07-23 15:33:11 
-- 🦍 [[宽带症候群] 家里预埋光纤，应该预埋那种类型的光纤？多芯皮线光纤还是多芯光缆](https://www.v2ex.com/t/868279#reply5) | 2022-07-23 15:29:36 
-- 🤩 [[程序员] 请问一个数据库表设计问题](https://www.v2ex.com/t/868277#reply2) | 2022-07-23 15:27:33 
-- 🙉 [[硬件] 有一个性能极好的 11/12 代 Intel CPU，装进散热极差的无风扇轻薄本，是一种什么样的体验？](https://www.v2ex.com/t/868276#reply12) | 2022-07-23 15:27:17 
-- 🌏 [[问与答] Tokenview。com 这个网站什么时候开始打不开的？](https://www.v2ex.com/t/868274#reply0) | 2022-07-23 15:14:49 
-- 🐘 [[MacBook Pro] 2020 款 MBP 的 touch bar 花屏，软件问题还是硬件问题？](https://www.v2ex.com/t/868273#reply0) | 2022-07-23 15:10:07 
-- 🧰 [[问与答] PC 端用 SSR 时不时出现 NS_BINDING_ABORTED 或 ERR_EMPTY_RESPONSE 错误，这个是什么问题呀](https://www.v2ex.com/t/868272#reply0) | 2022-07-23 15:09:05 
-- 💃 [[Apple] 新的 m2 macbook 硬盘过度写入的问题还存在吗？](https://www.v2ex.com/t/868271#reply1) | 2022-07-23 15:05:33 
-- 🕯 [[NAS] 威联通 TS-264C /dev/dri 目录不见了](https://www.v2ex.com/t/868270#reply3) | 2022-07-23 15:03:46 <!-- v2ex:END -->
+- 🫶 [[Xbox Series X/S] 海外版 XSX 你们在哪里买](https://www.v2ex.com/t/868300#reply0) | 2022-07-24 00:41:58 
+- 🧰 [[问与答] 如何看懂编译器的函数使用说明？](https://www.v2ex.com/t/868299#reply0) | 2022-07-24 00:32:29 
+- 🌏 [[问与答] 求教大佬们都是如何润的？](https://www.v2ex.com/t/868298#reply2) | 2022-07-24 00:22:25 
+- 😎 [[随想] 裸考软考网络工程师，差 1 分没过……](https://www.v2ex.com/t/868297#reply3) | 2022-07-23 23:39:42 
+- 💂 [[iOS] 各位 Apple 地图的共享到达时间可以正常使用吗？](https://www.v2ex.com/t/868296#reply2) | 2022-07-23 21:54:17 
+- 🔥 [[iPad] 在家上网和刷剧选 iPad pro 11 还是 mini 6？](https://www.v2ex.com/t/868295#reply13) | 2022-07-23 20:56:05 
+- 🦅 [[装修] 10 年魅友准备入手 Lipro 吸顶灯，但媳妇感觉太贵，纠结中。](https://www.v2ex.com/t/868294#reply4) | 2022-07-23 19:38:36 
+- 🙉 [[Apple] Mac 的金子内存和 SSD 回收价](https://www.v2ex.com/t/868293#reply4) | 2022-07-23 19:17:16 
+- 💫 [[问与答] 求助下西数 element 移动硬盘识别不出来](https://www.v2ex.com/t/868291#reply4) | 2022-07-23 18:51:29 
+- 🎓 [[问与答] 手机的亮度手动设置最亮，但是却自动调整到最低，想知道如何检查自己的手机是否被安装了特定的软件](https://www.v2ex.com/t/868290#reply0) | 2022-07-23 18:44:41 
+- 🗽 [[问与答] 有什么犹豫了很久最后还是买了的东西？](https://www.v2ex.com/t/868287#reply19) | 2022-07-23 17:17:28 
+- ⚗️ [[Apple] 新买了一个 Airpods2，吐槽一下这个双击](https://www.v2ex.com/t/868286#reply1) | 2022-07-23 17:16:10 
+- 🦍 [[MacBook Air] 好家伙， Apple Gift card 没法用来买 Apple care](https://www.v2ex.com/t/868284#reply0) | 2022-07-23 16:41:10 
+- 🤩 [[生活] 惨痛的教训，空调内机底下不要放电脑和显示器](https://www.v2ex.com/t/868283#reply9) | 2022-07-23 16:15:43 
+- 🙉 [[程序员] 用过亚马逊 codewhisperer 的来说说体验](https://www.v2ex.com/t/868282#reply0) | 2022-07-23 15:59:33 
+- 🌏 [[互联网] 发现一个神奇的网站，到底什么原理？](https://www.v2ex.com/t/868280#reply3) | 2022-07-23 15:33:11 
+- 🐘 [[宽带症候群] 家里预埋光纤，应该预埋那种类型的光纤？多芯皮线光纤还是多芯光缆](https://www.v2ex.com/t/868279#reply6) | 2022-07-23 15:29:36 
+- 🧰 [[程序员] 请问一个数据库表设计问题](https://www.v2ex.com/t/868277#reply2) | 2022-07-23 15:27:33 
+- 💃 [[硬件] 有一个性能极好的 11/12 代 Intel CPU，装进散热极差的无风扇轻薄本，是一种什么样的体验？](https://www.v2ex.com/t/868276#reply12) | 2022-07-23 15:27:17 
+- 🕯 [[问与答] Tokenview。com 这个网站什么时候开始打不开的？](https://www.v2ex.com/t/868274#reply0) | 2022-07-23 15:14:49 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
