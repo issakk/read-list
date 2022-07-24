@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[音乐] 熬夜看 Tomorrowland 2022 l LIVE](https://www.v2ex.com/t/868437#reply0) | 2022-07-24 20:59:15 
-- 🧰 [[Go 编程语言] 关于 Golang 多平台打包发布这件事..](https://www.v2ex.com/t/868435#reply2) | 2022-07-24 17:39:13 
-- 🌏 [[程序员] 2022 押宝 c#还是 Java](https://www.v2ex.com/t/868434#reply2) | 2022-07-24 16:50:56 
-- 😎 [[奇思妙想] 有没有人可能搞个 newsletter 的推荐站](https://www.v2ex.com/t/868433#reply1) | 2022-07-24 15:59:38 
-- 💂 [[AdSense] adsense 账号注册的时候选错了国家，导致后来开始盈利并超过了最低限额，这个时候无法修改国家，更无法删除关闭账号，这种情况咋整？](https://www.v2ex.com/t/868432#reply1) | 2022-07-24 15:58:29 
-- 🔥 [[macOS] 关于 m1 macbook air 修改密码](https://www.v2ex.com/t/868431#reply4) | 2022-07-24 15:57:26 
-- 🦅 [[macOS] 优雅地调整网络优先级？](https://www.v2ex.com/t/868427#reply6) | 2022-07-24 15:23:21 
-- 🙉 [[NAS] 黑群晖 DSM7.1 安装、半洗白到 HTTPS 证书](https://www.v2ex.com/t/868425#reply1) | 2022-07-24 15:09:54 
-- 💫 [[macOS] 对 macOS / Windows HiDPI 高分屏处理有感](https://www.v2ex.com/t/868424#reply13) | 2022-07-24 15:07:11 
-- 🎓 [[生活] 今天买了电动自行车，感叹手机都 200w 快充了，电动车还没有实用的快充技术落地吗？](https://www.v2ex.com/t/868423#reply20) | 2022-07-24 15:05:02 
-- 🗽 [[iPhone] 关于 iPhone 双卡使用的问题](https://www.v2ex.com/t/868422#reply8) | 2022-07-24 14:52:40 
-- ⚗️ [[问与答] google 翻译经过逍遥模拟器还原后无法离线使用](https://www.v2ex.com/t/868420#reply0) | 2022-07-24 14:40:42 
-- 🦍 [[JavaScript] 2022 年了, 还在用 yarn 吗?](https://www.v2ex.com/t/868418#reply7) | 2022-07-24 14:39:36 
-- 🤩 [[程序员] 问下大佬们关于域名的配置问题](https://www.v2ex.com/t/868417#reply7) | 2022-07-24 14:35:03 
-- 🙉 [[Windows] 在哪能买到拖拉机 拱猪这样的单机版游戏](https://www.v2ex.com/t/868416#reply4) | 2022-07-24 14:33:29 
-- 🌏 [[软件] 求推荐 ios 上朗读软件 tts](https://www.v2ex.com/t/868415#reply1) | 2022-07-24 14:32:49 
-- 🐘 [[问与答] wireguard 如何配置成 openvpn 那样的 C/S 模式?](https://www.v2ex.com/t/868414#reply5) | 2022-07-24 14:32:44 
-- 🧰 [[微信] WeChat 微信是不是出问题了？接收的图片底部是『花』的或者是『绿』的](https://www.v2ex.com/t/868413#reply0) | 2022-07-24 14:28:04 
-- 💃 [[梦] 看了一个关于梦的视频，谁来帮我解析下几年前的梦。](https://www.v2ex.com/t/868412#reply6) | 2022-07-24 14:24:58 
-- 🕯 [[问与答] 想搞台日本（东京）的 ECS，哪一家性价比高点？](https://www.v2ex.com/t/868411#reply1) | 2022-07-24 14:21:02 <!-- v2ex:END -->
+- 🫶 [[程序员] 如果只是自动签到，最佳性价比的方案是什么？](https://www.v2ex.com/t/868440#reply2) | 2022-07-24 21:46:10 
+- 🧰 [[Nintendo Switch] 老任 switch+会员车](https://www.v2ex.com/t/868439#reply0) | 2022-07-24 21:36:36 
+- 🌏 [[音乐] 熬夜看 Tomorrowland 2022 l LIVE](https://www.v2ex.com/t/868437#reply0) | 2022-07-24 20:59:15 
+- 😎 [[Go 编程语言] 关于 Golang 多平台打包发布这件事..](https://www.v2ex.com/t/868435#reply2) | 2022-07-24 17:39:13 
+- 💂 [[程序员] 2022 押宝 c#还是 Java](https://www.v2ex.com/t/868434#reply2) | 2022-07-24 16:50:56 
+- 🔥 [[奇思妙想] 有没有人可能搞个 newsletter 的推荐站](https://www.v2ex.com/t/868433#reply1) | 2022-07-24 15:59:38 
+- 🦅 [[AdSense] adsense 账号注册的时候选错了国家，导致后来开始盈利并超过了最低限额，这个时候无法修改国家，更无法删除关闭账号，这种情况咋整？](https://www.v2ex.com/t/868432#reply1) | 2022-07-24 15:58:29 
+- 🙉 [[macOS] 关于 m1 macbook air 修改密码](https://www.v2ex.com/t/868431#reply4) | 2022-07-24 15:57:26 
+- 💫 [[macOS] 优雅地调整网络优先级？](https://www.v2ex.com/t/868427#reply6) | 2022-07-24 15:23:21 
+- 🎓 [[NAS] 黑群晖 DSM7.1 安装、半洗白到 HTTPS 证书](https://www.v2ex.com/t/868425#reply1) | 2022-07-24 15:09:54 
+- 🗽 [[macOS] 对 macOS / Windows HiDPI 高分屏处理有感](https://www.v2ex.com/t/868424#reply16) | 2022-07-24 15:07:11 
+- ⚗️ [[生活] 今天买了电动自行车，感叹手机都 200w 快充了，电动车还没有实用的快充技术落地吗？](https://www.v2ex.com/t/868423#reply20) | 2022-07-24 15:05:02 
+- 🦍 [[iPhone] 关于 iPhone 双卡使用的问题](https://www.v2ex.com/t/868422#reply8) | 2022-07-24 14:52:40 
+- 🤩 [[问与答] google 翻译经过逍遥模拟器还原后无法离线使用](https://www.v2ex.com/t/868420#reply0) | 2022-07-24 14:40:42 
+- 🙉 [[JavaScript] 2022 年了, 还在用 yarn 吗?](https://www.v2ex.com/t/868418#reply7) | 2022-07-24 14:39:36 
+- 🌏 [[程序员] 问下大佬们关于域名的配置问题](https://www.v2ex.com/t/868417#reply7) | 2022-07-24 14:35:03 
+- 🐘 [[Windows] 在哪能买到拖拉机 拱猪这样的单机版游戏](https://www.v2ex.com/t/868416#reply4) | 2022-07-24 14:33:29 
+- 🧰 [[软件] 求推荐 ios 上朗读软件 tts](https://www.v2ex.com/t/868415#reply1) | 2022-07-24 14:32:49 
+- 💃 [[问与答] wireguard 如何配置成 openvpn 那样的 C/S 模式?](https://www.v2ex.com/t/868414#reply5) | 2022-07-24 14:32:44 
+- 🕯 [[微信] WeChat 微信是不是出问题了？接收的图片底部是『花』的或者是『绿』的](https://www.v2ex.com/t/868413#reply0) | 2022-07-24 14:28:04 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
