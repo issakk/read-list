@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[求职] [求职] go 初级远程岗位](https://www.v2ex.com/t/868640#reply0) | 2022-07-25 12:12:48 
-- 🧰 [[程序员] 深度学习中位置编码的本质是不是就是一层 nn.Parameter&lpar;&rpar;而已？](https://www.v2ex.com/t/868638#reply0) | 2022-07-25 11:44:01 
-- 🌏 [[问与答] 间接性健身，总是坚持不下去怎么办？](https://www.v2ex.com/t/868637#reply9) | 2022-07-25 11:38:27 
-- 😎 [[分享发现] 这里有百度网盘的码农吗，能不能告诉我在哪里取消自动续费](https://www.v2ex.com/t/868636#reply2) | 2022-07-25 11:28:32 
-- 💂 [[杭州] 租房选择离公司步行五分钟路程的公寓，还是 8 公里以内户型、空间更大的房子呢](https://www.v2ex.com/t/868635#reply7) | 2022-07-25 11:25:36 
-- 🔥 [[Java] 请教一下 netty 的 native transports 的使用场景](https://www.v2ex.com/t/868633#reply0) | 2022-07-25 11:05:42 
-- 🦅 [[iCloud] iCloud 上的视频在 macos 和 tvos 不能播放，但 iPhone 上可以](https://www.v2ex.com/t/868632#reply0) | 2022-07-25 11:05:08 
-- 🙉 [[程序员] Windows 上有什么方便的 DNS switcher](https://www.v2ex.com/t/868631#reply0) | 2022-07-25 10:54:16 
-- 💫 [[macOS] 重启后，启动台内所有的 APP 图标被打乱了](https://www.v2ex.com/t/868630#reply6) | 2022-07-25 10:53:46 
-- 🎓 [[Google] 大概十个月前删除了一个谷歌账号, 现在又想找回来, 申请找回失败, 还能摘回来吗](https://www.v2ex.com/t/868629#reply3) | 2022-07-25 10:51:27 
-- 🗽 [[全球工单系统] 百度网盘续费拒绝赠送 QQ 音乐会员，是因为脑残的产品设计还是恶心的运营？](https://www.v2ex.com/t/868628#reply3) | 2022-07-25 10:49:35 
-- ⚗️ [[问与答] 带大家见识下，我司的一个 10+年项目数据表字段设计](https://www.v2ex.com/t/868627#reply7) | 2022-07-25 10:43:58 
-- 🦍 [[酷工作] [杭州/远程] Mest 招聘前端工程师（高级 / 初中级）](https://www.v2ex.com/t/868625#reply3) | 2022-07-25 10:37:50 
-- 🤩 [[问与答] 有什么比较好的 Windows 重装辅助工具吗?](https://www.v2ex.com/t/868623#reply4) | 2022-07-25 10:27:33 
-- 🙉 [[C] make 下遇到的问题，求大佬告知](https://www.v2ex.com/t/868622#reply11) | 2022-07-25 10:16:04 
-- 🌏 [[OpenGL] 如何正确编写 opengl glsl 代码](https://www.v2ex.com/t/868621#reply0) | 2022-07-25 10:10:00 
-- 🐘 [[分享发现] Nova Launcher 被收购了](https://www.v2ex.com/t/868619#reply1) | 2022-07-25 10:04:25 
-- 🧰 [[职场话题] 感觉 hc 越来越少了，是不是可以考虑下外包，感觉如果流程标准，薪资还行的外包也可以考虑一下吗。。](https://www.v2ex.com/t/868617#reply9) | 2022-07-25 09:53:17 
-- 💃 [[硬件] 双屏显示 Windows 系统开机主屏幕黑屏](https://www.v2ex.com/t/868616#reply4) | 2022-07-25 09:48:44 
-- 🕯 [[问与答] 家里装了铝合金的工控机软路由，发热量很高，有什么方法可以利用下余热，比如做成低温慢煮机？](https://www.v2ex.com/t/868615#reply8) | 2022-07-25 09:45:08 <!-- v2ex:END -->
+- 🫶 [[问与答] [非常有趣的现象]群晖 DS1815+ 接软路由外网不能访问，接普通路由器可以访问外网](https://www.v2ex.com/t/868657#reply0) | 2022-07-25 13:27:04 
+- 🧰 [[Surface] 用 Surface Pro 8 的大佬可以分享下机器的品控和售后吗?](https://www.v2ex.com/t/868656#reply0) | 2022-07-25 13:24:30 
+- 🌏 [[iPad] 求购二手 iPad ，给孩子学习网课](https://www.v2ex.com/t/868655#reply0) | 2022-07-25 13:22:44 
+- 😎 [[macOS] Numbers 排序不完全，是我操作错误还是什么原因？](https://www.v2ex.com/t/868654#reply0) | 2022-07-25 13:21:29 
+- 💂 [[酷工作] 网易内推～](https://www.v2ex.com/t/868653#reply0) | 2022-07-25 13:20:14 
+- 🔥 [[Android] 寻一部手机📱](https://www.v2ex.com/t/868652#reply4) | 2022-07-25 13:16:35 
+- 🦅 [[MySQL] 求大神解答，这种 sql 应该怎么写？](https://www.v2ex.com/t/868651#reply1) | 2022-07-25 13:06:53 
+- 🙉 [[问与答] AbstractMessageLite.toByteArray&lpar;&rpar; 这个方法造成三星 s22 卡顿](https://www.v2ex.com/t/868650#reply0) | 2022-07-25 13:02:59 
+- 💫 [[问与答] google 账号注销了，旧的 V2EX 里面的金币还有办法拿回来吗](https://www.v2ex.com/t/868645#reply0) | 2022-07-25 12:32:24 
+- 🎓 [[问与答] pixel4a 5G 手机还挑数据线么。试了几个华为原装的都不能充电和数据。](https://www.v2ex.com/t/868644#reply0) | 2022-07-25 12:26:33 
+- 🗽 [[分享发现] 百度账号小规模推送用户名修改功能](https://www.v2ex.com/t/868643#reply4) | 2022-07-25 12:24:14 
+- ⚗️ [[问与答] 普通人如何查看自己电脑的网络质量?](https://www.v2ex.com/t/868642#reply3) | 2022-07-25 12:22:49 
+- 🦍 [[问与答] 排队遇到帮忙占位置插队的怎么办？](https://www.v2ex.com/t/868641#reply0) | 2022-07-25 12:21:16 
+- 🤩 [[求职] [求职] go 初级远程岗位](https://www.v2ex.com/t/868640#reply1) | 2022-07-25 12:12:48 
+- 🙉 [[程序员] 深度学习中位置编码的本质是不是就是一层 nn.Parameter&lpar;&rpar;而已？](https://www.v2ex.com/t/868638#reply0) | 2022-07-25 11:44:01 
+- 🌏 [[问与答] 间接性健身，总是坚持不下去怎么办？](https://www.v2ex.com/t/868637#reply14) | 2022-07-25 11:38:27 
+- 🐘 [[分享发现] 这里有百度网盘的码农吗，能不能告诉我在哪里取消自动续费](https://www.v2ex.com/t/868636#reply3) | 2022-07-25 11:28:32 
+- 🧰 [[杭州] 租房选择离公司步行五分钟路程的公寓，还是 8 公里以内户型、空间更大的房子呢](https://www.v2ex.com/t/868635#reply7) | 2022-07-25 11:25:36 
+- 💃 [[Java] 请教一下 netty 的 native transports 的使用场景](https://www.v2ex.com/t/868633#reply0) | 2022-07-25 11:05:42 
+- 🕯 [[iCloud] iCloud 上的视频在 macos 和 tvos 不能播放，但 iPhone 上可以](https://www.v2ex.com/t/868632#reply0) | 2022-07-25 11:05:08 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
