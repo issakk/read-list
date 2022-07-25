@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[Apple] Apple One Premier 美区拼车，欢迎加入](https://www.v2ex.com/t/868556#reply0) | 2022-07-25 07:01:30 
-- 🧰 [[跑步] 如何减少内脏脂肪？](https://www.v2ex.com/t/868555#reply0) | 2022-07-25 06:59:53 
-- 🌏 [[问与答] 请教一个 MYSQL 归类的问题](https://www.v2ex.com/t/868554#reply0) | 2022-07-25 06:59:40 
-- 😎 [[iPhone] apple 手机-文件 APP-已共享中的文件怎么删除](https://www.v2ex.com/t/868552#reply0) | 2022-07-25 06:55:46 
-- 💂 [[长沙] 离开北京，转战长沙，半躺平](https://www.v2ex.com/t/868551#reply5) | 2022-07-25 06:54:14 
-- 🔥 [[分享发现] 有人想试用 Zed 吗？](https://www.v2ex.com/t/868550#reply1) | 2022-07-25 06:52:06 
-- 🦅 [[问与答] 1/4 螺纹和 3/8 螺纹之间是 5/16 螺纹吗？](https://www.v2ex.com/t/868549#reply0) | 2022-07-25 06:50:47 
-- 🙉 [[程序员] 手机端 OAuth2 认证](https://www.v2ex.com/t/868548#reply2) | 2022-07-25 06:47:16 
-- 💫 [[问与答] 软件开发者如何处理退款？](https://www.v2ex.com/t/868547#reply1) | 2022-07-25 06:43:12 
-- 🎓 [[问与答] 求推荐一款 windows 下的好用的文件管理工具](https://www.v2ex.com/t/868546#reply1) | 2022-07-25 06:34:25 
-- 🗽 [[问与答] 准备换手机，求推荐](https://www.v2ex.com/t/868545#reply2) | 2022-07-25 06:34:00 
-- ⚗️ [[iOS] iOS15.6 升级后通话记录消失及其解决方案](https://www.v2ex.com/t/868544#reply0) | 2022-07-25 06:25:06 
-- 🦍 [[macOS] Mac 使用 Preview 编辑 pdf 保存后自动加了个密码](https://www.v2ex.com/t/868543#reply0) | 2022-07-25 06:18:40 
-- 🤩 [[厦门] [代发] 软 3 招聘一名前端](https://www.v2ex.com/t/868542#reply5) | 2022-07-25 06:17:48 
-- 🙉 [[程序员] 有奖活动 x 灵感排行榜：我，有一个大胆的想法！](https://www.v2ex.com/t/868541#reply0) | 2022-07-25 06:13:36 
-- 🌏 [[分享发现] 独立产品灵感周刊 DecoHack #023 - 工作和生活的平衡](https://www.v2ex.com/t/868540#reply0) | 2022-07-25 06:11:27 
-- 🐘 [[Apple] topnotch 在 macbook air m2 上的使用效果如何？](https://www.v2ex.com/t/868539#reply0) | 2022-07-25 06:11:27 
-- 🧰 [[问与答] 有玩对讲机的吗，模拟信号和数字信号哪个好，传输距离远，加密通话的，不太懂这个。](https://www.v2ex.com/t/868536#reply2) | 2022-07-25 06:01:06 
-- 💃 [[iPad] 入手了 iPad Air5，想换 iPad mini6](https://www.v2ex.com/t/868535#reply8) | 2022-07-25 05:59:50 
-- 🕯 [[程序员] 垂直鼠标真的比普通的鼠标好用吗？](https://www.v2ex.com/t/868534#reply5) | 2022-07-25 05:56:31 <!-- v2ex:END -->
+- 🫶 [[问与答] 麻烦过来人指教下结婚的金饰怎么买好一点？](https://www.v2ex.com/t/868579#reply2) | 2022-07-25 08:07:27 
+- 🧰 [[求职] 「上海」10+年工作经验，求收留，关键词：网站架构，技术管理 + 全栈，有创业经验，带过百人团队](https://www.v2ex.com/t/868578#reply0) | 2022-07-25 08:05:49 
+- 🌏 [[VirtualBox] VirtualBox 桥接模式到底该如何配置？](https://www.v2ex.com/t/868576#reply1) | 2022-07-25 08:00:44 
+- 😎 [[macOS] 有没有一种办法可以把访达的图标彻底移除掉。前天看了下 Qspace 的测评，还是忍痛买了全套 Qspace；原版的访达已经不想用了。](https://www.v2ex.com/t/868575#reply0) | 2022-07-25 07:54:43 
+- 💂 [[问与答] 研究生调剂到其他专业还要读吗？](https://www.v2ex.com/t/868573#reply0) | 2022-07-25 07:53:11 
+- 🔥 [[酷工作] [送大疆产品、面试直通卡] 大疆面试官 LIVE 车载专场](https://www.v2ex.com/t/868572#reply0) | 2022-07-25 07:49:03 
+- 🦅 [[问与答] 经常在 V2EX 看到很多人讨论家庭 NAS，我有一些想法](https://www.v2ex.com/t/868570#reply3) | 2022-07-25 07:44:59 
+- 🙉 [[程序员] 有稳定的国内 PlantUML 服务器推荐么？](https://www.v2ex.com/t/868569#reply0) | 2022-07-25 07:41:33 
+- 💫 [[酷工作] 深圳现在前端环境如何？想跳了 现在的公司实在是没意思了](https://www.v2ex.com/t/868566#reply0) | 2022-07-25 07:28:38 
+- 🎓 [[前端开发] 问下有基于 ant pro component 组件开发的前后端开源软件吗。想学习下业务封装](https://www.v2ex.com/t/868565#reply0) | 2022-07-25 07:28:03 
+- 🗽 [[职场话题] 社会生产生活中一个最原始的矛盾](https://www.v2ex.com/t/868564#reply1) | 2022-07-25 07:26:54 
+- ⚗️ [[PHP] 有大佬遇到过么 curl 进行 post 提交数据，突然出现 Operation timed out after 12001 milliseconds with 0 bytes received](https://www.v2ex.com/t/868563#reply0) | 2022-07-25 07:22:11 
+- 🦍 [[信息安全] 因为路由器刷了 padavan，智障公司通报我挖矿](https://www.v2ex.com/t/868561#reply10) | 2022-07-25 07:19:31 
+- 🤩 [[Java] 本地的 cglib 拦截器居然每次都跑长达 2 秒？](https://www.v2ex.com/t/868560#reply3) | 2022-07-25 07:14:05 
+- 🙉 [[Java] 为什么同一个服务器的不同账户编译会报错?](https://www.v2ex.com/t/868559#reply0) | 2022-07-25 07:11:58 
+- 🌏 [[MacBook Pro] macbook 在使用中会突然休眠，按啥键都没反应，只能按电源键唤醒](https://www.v2ex.com/t/868558#reply0) | 2022-07-25 07:10:42 
+- 🐘 [[Python] 请问大家, 有没有办法把 Python 的 dict, 存储到一段连续内存上](https://www.v2ex.com/t/868557#reply17) | 2022-07-25 07:08:32 
+- 🧰 [[跑步] 如何减少内脏脂肪？](https://www.v2ex.com/t/868555#reply1) | 2022-07-25 06:59:53 
+- 💃 [[问与答] 请教一个 MYSQL 归类的问题](https://www.v2ex.com/t/868554#reply2) | 2022-07-25 06:59:40 
+- 🕯 [[iPhone] apple 手机-文件 APP-已共享中的文件怎么删除](https://www.v2ex.com/t/868552#reply0) | 2022-07-25 06:55:46 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
