@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[iPad] iPad air5 36 小时 100%-92%，这个正常吗？](https://www.v2ex.com/t/868688#reply0) | 2022-07-26 00:38:31 
-- 🧰 [[云修电脑] 请教下最快移系统盘的方法是啥,](https://www.v2ex.com/t/868687#reply1) | 2022-07-26 00:35:33 
-- 🌏 [[微信] 日常吐槽，微信现在必须绑定手机号或实名了](https://www.v2ex.com/t/868686#reply3) | 2022-07-26 00:19:53 
-- 😎 [[MacBook Air] MacBook Air m1 连接外接 1080p 显示器，缩放第三方软件卡顿](https://www.v2ex.com/t/868685#reply0) | 2022-07-26 00:17:11 
-- 💂 [[程序员] 个人开源项目推广平台汇总整理](https://www.v2ex.com/t/868684#reply2) | 2022-07-26 00:16:26 
-- 🔥 [[Java] Java 项目如何做代码风格的统一管理](https://www.v2ex.com/t/868683#reply6) | 2022-07-26 00:06:35 
-- 🦅 [[NGINX] 有啥反向代理的方案可以反代 study.163.com 吗？](https://www.v2ex.com/t/868682#reply5) | 2022-07-25 23:53:30 
-- 🙉 [[机械键盘] 刚入手了人生第一块静电容键盘，请教下先辈们使用 HHKB 的经验](https://www.v2ex.com/t/868681#reply9) | 2022-07-25 23:01:04 
-- 💫 [[酷工作] [远程]招聘实习初级前端和实习初级 PHP 软件工程师](https://www.v2ex.com/t/868680#reply0) | 2022-07-25 22:59:08 
-- 🎓 [[信息安全] 为什么使用 https 调用 API 仍然推荐需要使用 key 来签名](https://www.v2ex.com/t/868678#reply6) | 2022-07-25 21:55:51 
-- 🗽 [[问与答] Macbook Pro 14 寸 用 type-c 连接外接显示器时的充电问题](https://www.v2ex.com/t/868677#reply1) | 2022-07-25 21:50:33 
-- ⚗️ [[程序员] 如何确保移动硬盘的大量数据不会损坏？](https://www.v2ex.com/t/868676#reply20) | 2022-07-25 21:42:32 
-- 🦍 [[问与答] usb 3 转 hdmi 需要什么前提吗](https://www.v2ex.com/t/868675#reply5) | 2022-07-25 19:11:30 
-- 🤩 [[程序员] 写了一年多的前端，现在准备后端的校招还来得及么？](https://www.v2ex.com/t/868674#reply7) | 2022-07-25 19:06:30 
-- 🙉 [[Apple] 有人用过 AppleCare for Enterprise 企业版吗](https://www.v2ex.com/t/868672#reply1) | 2022-07-25 17:50:36 
-- 🌏 [[Ubuntu] Ubuntu 22.04 干掉了 aufs](https://www.v2ex.com/t/868671#reply1) | 2022-07-25 17:12:56 
-- 🐘 [[Apple] AirPods Pro 左耳一只耳朵老因为接触不良经常性充不进电，过保了，是不是就没办法不付费维修？](https://www.v2ex.com/t/868669#reply9) | 2022-07-25 16:23:38 
-- 🧰 [[Apple] Apple music 的软件质量是真的拉垮](https://www.v2ex.com/t/868668#reply14) | 2022-07-25 16:16:40 
-- 💃 [[程序员] ELK 有轻量级的替代方案吗？](https://www.v2ex.com/t/868667#reply2) | 2022-07-25 15:53:56 
-- 🕯 [[Qi 无线充电] 求推荐一款独立供电的多口充电器](https://www.v2ex.com/t/868666#reply6) | 2022-07-25 15:49:26 <!-- v2ex:END -->
+- 🫶 [[前端开发] npm 包开发,想在 npm 包里面获取 vite 项目下的 xx.config.js 配置文件](https://www.v2ex.com/t/868740#reply0) | 2022-07-26 03:16:16 
+- 🧰 [[问与答] 如何让没有公网 IP 的主机对外提供服务时不受限于跳板机器的带宽？](https://www.v2ex.com/t/868739#reply1) | 2022-07-26 03:13:25 
+- 🌏 [[问与答] 电费折扣充值都被咔嚓了吗？](https://www.v2ex.com/t/868738#reply0) | 2022-07-26 03:13:15 
+- 😎 [[MacBook Pro] M1/2 Pro Max 发货等候群已秽土转生（老群炸了），内有新群请加一下](https://www.v2ex.com/t/868737#reply1) | 2022-07-26 03:12:37 
+- 💂 [[程序员] 如果搜索引擎爬到的内容和实际用户打开的内容展示有出入，会有什么问题么](https://www.v2ex.com/t/868736#reply0) | 2022-07-26 03:08:36 
+- 🔥 [[程序员] 自动化测试方案求推荐？](https://www.v2ex.com/t/868734#reply3) | 2022-07-26 02:52:06 
+- 🦅 [[Apple] 国区手机号码 Apple ID 能否通过转区转换为邮箱 ID？](https://www.v2ex.com/t/868733#reply0) | 2022-07-26 02:49:10 
+- 🙉 [[杭州] 杭州有没有靠谱的二手车验车机构](https://www.v2ex.com/t/868732#reply3) | 2022-07-26 02:49:05 
+- 💫 [[硬件] 求推荐合适的机箱](https://www.v2ex.com/t/868730#reply0) | 2022-07-26 02:45:01 
+- 🎓 [[iOS] 请问现在还有什么方法能查到 iOS 旧版 app 的 ID 吗？](https://www.v2ex.com/t/868729#reply0) | 2022-07-26 02:44:46 
+- 🗽 [[问与答] 有家人在军队文职工作的吗，现在有入围二线城市某军校助教（军队文职）。大家帮帮分析分析](https://www.v2ex.com/t/868726#reply0) | 2022-07-26 02:35:31 
+- ⚗️ [[酷工作] API7.ai 招聘前端/go/网关开发/SRE 工程师](https://www.v2ex.com/t/868725#reply2) | 2022-07-26 02:32:56 
+- 🦍 [[Java] [收集] Java 程序，生产环境还有用 winServer 的吗](https://www.v2ex.com/t/868724#reply5) | 2022-07-26 02:32:10 
+- 🤩 [[问与答] 出国和留在国内与女朋友一起发展，怎么选择？](https://www.v2ex.com/t/868723#reply23) | 2022-07-26 02:31:19 
+- 🙉 [[问与答] 公司未上市离职期权处理的问题](https://www.v2ex.com/t/868721#reply5) | 2022-07-26 02:26:12 
+- 🌏 [[生活] 该不该买房 求助](https://www.v2ex.com/t/868720#reply16) | 2022-07-26 02:25:01 
+- 🐘 [[数据库] 求助： mariabackup 备份报错 Error: cannot process redo log before MariaDB 10.8](https://www.v2ex.com/t/868719#reply0) | 2022-07-26 02:23:11 
+- 🧰 [[问与答] 每天你的阅读列表（消息获取渠道）都有哪些](https://www.v2ex.com/t/868718#reply3) | 2022-07-26 02:21:45 
+- 💃 [[问与答] 移动硬盘连接过平板后， Mac 无法读取文件](https://www.v2ex.com/t/868716#reply2) | 2022-07-26 02:21:24 
+- 🕯 [[Serverless] 几百万条更新频率很低的数据用什么低（零）成本的存储方便查询？](https://www.v2ex.com/t/868715#reply3) | 2022-07-26 02:19:42 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
