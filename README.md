@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[问与答] 求 Chrome 插件：网页上批注并导出 pdf](https://www.v2ex.com/t/869127#reply0) | 2022-07-27 20:53:59 
-- 🧰 [[问与答] 如何看待「长辈爱比较」这个问题？](https://www.v2ex.com/t/869126#reply2) | 2022-07-27 19:54:23 
-- 🌏 [[Apple] iOS 上越来越多国内 app 开代理就不让用。这种情况的本质原因是什么？有无好的手段制裁这种行为](https://www.v2ex.com/t/869124#reply6) | 2022-07-27 17:37:38 
-- 😎 [[问与答] 最新闲鱼 app 没有了按信用筛选？](https://www.v2ex.com/t/869123#reply0) | 2022-07-27 17:23:44 
-- 💂 [[NAS] 体验了 PVE 和 Unraid 有感，请大佬赐教](https://www.v2ex.com/t/869122#reply2) | 2022-07-27 17:01:06 
-- 🔥 [[微软] Windows 11 的第 n 种垃圾设计: 有大佬能帮我讲解下它的自动亮度调整逻辑吗](https://www.v2ex.com/t/869121#reply1) | 2022-07-27 16:54:53 
-- 🦅 [[NAS] 各位大佬们 黑裙安装时提示 SATA boot support on this platform is exper imental!](https://www.v2ex.com/t/869120#reply0) | 2022-07-27 16:38:55 
-- 🙉 [[问与答] 关于下岗待业闭关是纯粹进修还是卷去读个 master？](https://www.v2ex.com/t/869119#reply2) | 2022-07-27 16:38:03 
-- 💫 [[求职] 23 届应届前端求职（webgl 以及 react 经验相对较多](https://www.v2ex.com/t/869117#reply1) | 2022-07-27 15:51:33 
-- 🎓 [[问与答] 为什么 Linux crond 不能原生支持秒级任务？](https://www.v2ex.com/t/869116#reply3) | 2022-07-27 15:42:53 
-- 🗽 [[.NET] 有什么推荐的 C# + WPF 跨平台开发框架](https://www.v2ex.com/t/869115#reply5) | 2022-07-27 15:33:45 
-- ⚗️ [[问与答] 戴眼镜的，求推荐个合适的降噪耳机](https://www.v2ex.com/t/869113#reply0) | 2022-07-27 15:26:51 
-- 🦍 [[酷工作] [深圳-南山] ONES 团队热招大量岗位，后端（Go/Node.js）、前端、测试、产品和敏捷项目经理](https://www.v2ex.com/t/869112#reply1) | 2022-07-27 15:25:22 
-- 🤩 [[酷工作] [上海招聘] C++工程师、前端全栈开发](https://www.v2ex.com/t/869111#reply1) | 2022-07-27 15:18:15 
-- 🙉 [[宽带症候群] 目前搭建无需额外客户端的 HTTPS 代理有啥推荐方案的吗?](https://www.v2ex.com/t/869110#reply2) | 2022-07-27 14:58:13 
-- 🌏 [[分享创造] [送码] 折腾了一年多的 markdown 笔记软件](https://www.v2ex.com/t/869109#reply6) | 2022-07-27 14:56:06 
-- 🐘 [[macOS] 看到一个状态栏工具，感觉挺好看的](https://www.v2ex.com/t/869108#reply3) | 2022-07-27 14:55:06 
-- 🧰 [[信息安全] HVV](https://www.v2ex.com/t/869107#reply5) | 2022-07-27 14:52:24 
-- 💃 [[JetBrains] IDEA 2022.2 卡在 UI 界面](https://www.v2ex.com/t/869106#reply0) | 2022-07-27 14:48:53 
-- 🕯 [[ WATCH] 一个手滑干烂了 watch 的外屏，求推荐一个靠谱的第三方维修](https://www.v2ex.com/t/869105#reply1) | 2022-07-27 14:48:06 <!-- v2ex:END -->
+- 🫶 [[ WATCH] 买蜂窝版时需要注意手机套餐结算类型](https://www.v2ex.com/t/869128#reply0) | 2022-07-27 22:08:29 
+- 🧰 [[问与答] 求 Chrome 插件：网页上批注并导出 pdf](https://www.v2ex.com/t/869127#reply0) | 2022-07-27 20:53:59 
+- 🌏 [[问与答] 如何看待「长辈爱比较」这个问题？](https://www.v2ex.com/t/869126#reply5) | 2022-07-27 19:54:23 
+- 😎 [[Apple] iOS 上越来越多国内 app 开代理就不让用。这种情况的本质原因是什么？有无好的手段制裁这种行为](https://www.v2ex.com/t/869124#reply7) | 2022-07-27 17:37:38 
+- 💂 [[问与答] 最新闲鱼 app 没有了按信用筛选？](https://www.v2ex.com/t/869123#reply0) | 2022-07-27 17:23:44 
+- 🔥 [[NAS] 体验了 PVE 和 Unraid 有感，请大佬赐教](https://www.v2ex.com/t/869122#reply2) | 2022-07-27 17:01:06 
+- 🦅 [[微软] Windows 11 的第 n 种垃圾设计: 有大佬能帮我讲解下它的自动亮度调整逻辑吗](https://www.v2ex.com/t/869121#reply1) | 2022-07-27 16:54:53 
+- 🙉 [[NAS] 各位大佬们 黑裙安装时提示 SATA boot support on this platform is exper imental!](https://www.v2ex.com/t/869120#reply0) | 2022-07-27 16:38:55 
+- 💫 [[问与答] 关于下岗待业闭关是纯粹进修还是卷去读个 master？](https://www.v2ex.com/t/869119#reply2) | 2022-07-27 16:38:03 
+- 🎓 [[求职] 23 届应届前端求职（webgl 以及 react 经验相对较多](https://www.v2ex.com/t/869117#reply1) | 2022-07-27 15:51:33 
+- 🗽 [[问与答] 为什么 Linux crond 不能原生支持秒级任务？](https://www.v2ex.com/t/869116#reply3) | 2022-07-27 15:42:53 
+- ⚗️ [[.NET] 有什么推荐的 C# + WPF 跨平台开发框架](https://www.v2ex.com/t/869115#reply5) | 2022-07-27 15:33:45 
+- 🦍 [[问与答] 戴眼镜的，求推荐个合适的降噪耳机](https://www.v2ex.com/t/869113#reply0) | 2022-07-27 15:26:51 
+- 🤩 [[酷工作] [深圳-南山] ONES 团队热招大量岗位，后端（Go/Node.js）、前端、测试、产品和敏捷项目经理](https://www.v2ex.com/t/869112#reply1) | 2022-07-27 15:25:22 
+- 🙉 [[酷工作] [上海招聘] C++工程师、前端全栈开发](https://www.v2ex.com/t/869111#reply1) | 2022-07-27 15:18:15 
+- 🌏 [[宽带症候群] 目前搭建无需额外客户端的 HTTPS 代理有啥推荐方案的吗?](https://www.v2ex.com/t/869110#reply2) | 2022-07-27 14:58:13 
+- 🐘 [[分享创造] [送码] 折腾了一年多的 markdown 笔记软件](https://www.v2ex.com/t/869109#reply6) | 2022-07-27 14:56:06 
+- 🧰 [[macOS] 看到一个状态栏工具，感觉挺好看的](https://www.v2ex.com/t/869108#reply3) | 2022-07-27 14:55:06 
+- 💃 [[信息安全] HVV](https://www.v2ex.com/t/869107#reply5) | 2022-07-27 14:52:24 
+- 🕯 [[JetBrains] IDEA 2022.2 卡在 UI 界面](https://www.v2ex.com/t/869106#reply0) | 2022-07-27 14:48:53 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
