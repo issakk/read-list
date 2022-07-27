@@ -8,7 +8,7 @@
 <!-- v2ex:START  -->
 - 🫶 [[Apple] iOS 上越来越多国内 app 开代理就不让用。这种情况的本质原因是什么？有无好的手段制裁这种行为](https://www.v2ex.com/t/869124#reply6) | 2022-07-27 17:37:38 
 - 🧰 [[问与答] 最新闲鱼 app 没有了按信用筛选？](https://www.v2ex.com/t/869123#reply0) | 2022-07-27 17:23:44 
-- 🌏 [[NAS] 体验了 PVE 和 Unraid 有感，请大佬赐教](https://www.v2ex.com/t/869122#reply1) | 2022-07-27 17:01:06 
+- 🌏 [[NAS] 体验了 PVE 和 Unraid 有感，请大佬赐教](https://www.v2ex.com/t/869122#reply2) | 2022-07-27 17:01:06 
 - 😎 [[微软] Windows 11 的第 n 种垃圾设计: 有大佬能帮我讲解下它的自动亮度调整逻辑吗](https://www.v2ex.com/t/869121#reply1) | 2022-07-27 16:54:53 
 - 💂 [[NAS] 各位大佬们 黑裙安装时提示 SATA boot support on this platform is exper imental!](https://www.v2ex.com/t/869120#reply0) | 2022-07-27 16:38:55 
 - 🔥 [[问与答] 关于下岗待业闭关是纯粹进修还是卷去读个 master？](https://www.v2ex.com/t/869119#reply2) | 2022-07-27 16:38:03 
@@ -25,7 +25,7 @@
 - 🐘 [[JetBrains] IDEA 2022.2 卡在 UI 界面](https://www.v2ex.com/t/869106#reply0) | 2022-07-27 14:48:53 
 - 🧰 [[ WATCH] 一个手滑干烂了 watch 的外屏，求推荐一个靠谱的第三方维修](https://www.v2ex.com/t/869105#reply1) | 2022-07-27 14:48:06 
 - 💃 [[问与答] 每天要写日报，我很烦。能不能 AI 自动生成一些日报话术？](https://www.v2ex.com/t/869104#reply6) | 2022-07-27 14:46:39 
-- 🕯 [[Apple] 我与 macbook 的缘分，在于我与它有完全一致的睡眠习惯](https://www.v2ex.com/t/869102#reply1) | 2022-07-27 14:33:46 <!-- v2ex:END -->
+- 🕯 [[Apple] 我与 macbook 的缘分，在于我与它有完全一致的睡眠习惯](https://www.v2ex.com/t/869102#reply2) | 2022-07-27 14:33:46 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
