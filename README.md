@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[优惠信息] 公司新接了亚马逊云国际业务 5.5 折长期优惠，](https://www.v2ex.com/t/869025#reply0) | 2022-07-27 07:03:33 
-- 🧰 [[问与答] 怎么关闭手机 QQ 音乐播放页右上角的直播](https://www.v2ex.com/t/869024#reply0) | 2022-07-27 06:56:10 
-- 🌏 [[问与答] 《独行月球》会成为今年的票房黑马吗](https://www.v2ex.com/t/869023#reply4) | 2022-07-27 06:51:03 
-- 😎 [[HTML] 大家对外提供开放平台接口的时候，文档该如何选型](https://www.v2ex.com/t/869022#reply1) | 2022-07-27 06:35:43 
-- 💂 [[NFT] 想找名小伙伴一起开发 NFT 工具类平台](https://www.v2ex.com/t/869021#reply0) | 2022-07-27 06:33:42 
-- 🔥 [[问与答] 手上有十几台云主机，在合法的前提下，可以干点儿啥回本呢](https://www.v2ex.com/t/869020#reply5) | 2022-07-27 06:33:08 
-- 🦅 [[分享创造] Chrome 插件 OneTab 的代替品： One Tab Group 你的终极标签页管理器（尝鲜版发布）](https://www.v2ex.com/t/869019#reply1) | 2022-07-27 06:32:38 
-- 🙉 [[问与答] openmaptiles 这个开源地图开源版编译出来的结果好像特别陈旧，问下大佬们哪里能找新一些的地图](https://www.v2ex.com/t/869017#reply0) | 2022-07-27 06:22:34 
-- 💫 [[问与答] 求 V 友推荐快速创建官网的工具](https://www.v2ex.com/t/869016#reply1) | 2022-07-27 06:15:13 
-- 🎓 [[问与答] conda 环境下怎么使用 cuda、cudnn、tf 等环境](https://www.v2ex.com/t/869014#reply1) | 2022-07-27 06:08:04 
-- 🗽 [[分享发现] Tether 和 Bitfinex 支持的一款 P2P 视频聊天工具 Keet 上线](https://www.v2ex.com/t/869013#reply0) | 2022-07-27 06:07:41 
-- ⚗️ [[程序员] D3.js 能做什么有想象力的事情？](https://www.v2ex.com/t/869012#reply0) | 2022-07-27 06:07:29 
-- 🦍 [[Nintendo Switch] 如何优雅地用一副 AirPods 一边微信语音聊天一边玩 switch 游戏？](https://www.v2ex.com/t/869011#reply3) | 2022-07-27 06:05:15 
-- 🤩 [[云修电脑] 问下如何优化笔记本卡顿](https://www.v2ex.com/t/869010#reply0) | 2022-07-27 06:04:15 
-- 🙉 [[Linux] 装 archlinux 只能跑百兆， centos 一切正常](https://www.v2ex.com/t/869009#reply7) | 2022-07-27 05:58:15 
-- 🌏 [[互联网] 求助，各位有没有谈论户外装备的论坛？](https://www.v2ex.com/t/869008#reply0) | 2022-07-27 05:47:33 
-- 🐘 [[游戏] 求游戏 pc 推荐](https://www.v2ex.com/t/869007#reply4) | 2022-07-27 05:37:30 
-- 🧰 [[Apple] 新模具的 mbp 贴键盘膜还是会有屏幕压痕吗](https://www.v2ex.com/t/869005#reply12) | 2022-07-27 05:28:12 
-- 💃 [[全球工单系统] 中国版权保护中心（著作权登记系统）从前天开始一直无法登陆或登录后报 SQL 错误](https://www.v2ex.com/t/869002#reply2) | 2022-07-27 05:16:44 
-- 🕯 [[微信] 可以拿到微信的 token 用来进行与好友通信吗](https://www.v2ex.com/t/869000#reply6) | 2022-07-27 05:05:58 <!-- v2ex:END -->
+- 🫶 [[问与答] 有没有查看本地照片的 html 项目](https://www.v2ex.com/t/869038#reply0) | 2022-07-27 08:07:12 
+- 🧰 [[Apple] 大家有没有觉得 M2 版本的 Macbook air，在使用 Messages 打字的时候，不太流畅？](https://www.v2ex.com/t/869037#reply1) | 2022-07-27 08:00:50 
+- 🌏 [[前端开发] package.json 的 main 和 module 字段](https://www.v2ex.com/t/869036#reply1) | 2022-07-27 07:57:01 
+- 😎 [[Android] 要换手机了，有什么推荐的安卓手机](https://www.v2ex.com/t/869035#reply10) | 2022-07-27 07:48:26 
+- 💂 [[JetBrains] 各位大佬关于 idea 2022.2 Git 合并的问题](https://www.v2ex.com/t/869033#reply0) | 2022-07-27 07:31:05 
+- 🔥 [[Synology] DS920+经常登录不上](https://www.v2ex.com/t/869032#reply0) | 2022-07-27 07:30:42 
+- 🦅 [[生活] 自制冰块为啥会产生浮沫？](https://www.v2ex.com/t/869031#reply6) | 2022-07-27 07:29:59 
+- 🙉 [[信息安全] 如何查看办公机上的 EDR 是否具有截图功能？](https://www.v2ex.com/t/869029#reply3) | 2022-07-27 07:21:05 
+- 💫 [[Linux] 备份 Ext4 分区的正确姿势](https://www.v2ex.com/t/869026#reply8) | 2022-07-27 07:13:01 
+- 🎓 [[优惠信息] 公司新接了亚马逊云国际业务 5.5 折长期优惠，](https://www.v2ex.com/t/869025#reply0) | 2022-07-27 07:03:33 
+- 🗽 [[互联网] 怎么关闭手机 QQ 音乐播放页右上角的直播](https://www.v2ex.com/t/869024#reply0) | 2022-07-27 06:56:10 
+- ⚗️ [[电影] 《独行月球》会成为今年的票房黑马吗](https://www.v2ex.com/t/869023#reply10) | 2022-07-27 06:51:03 
+- 🦍 [[HTML] 大家对外提供开放平台接口的时候，文档该如何选型](https://www.v2ex.com/t/869022#reply2) | 2022-07-27 06:35:43 
+- 🤩 [[NFT] 想找名小伙伴一起开发 NFT 工具类平台](https://www.v2ex.com/t/869021#reply0) | 2022-07-27 06:33:42 
+- 🙉 [[问与答] 手上有十几台云主机，在合法的前提下，可以干点儿啥回本呢](https://www.v2ex.com/t/869020#reply10) | 2022-07-27 06:33:08 
+- 🌏 [[分享创造] Chrome 插件 OneTab 的代替品： One Tab Group 你的终极标签页管理器（尝鲜版发布）](https://www.v2ex.com/t/869019#reply4) | 2022-07-27 06:32:38 
+- 🐘 [[问与答] openmaptiles 这个开源地图开源版编译出来的结果好像特别陈旧，问下大佬们哪里能找新一些的地图](https://www.v2ex.com/t/869017#reply0) | 2022-07-27 06:22:34 
+- 🧰 [[问与答] 求 V 友推荐快速创建官网的工具](https://www.v2ex.com/t/869016#reply1) | 2022-07-27 06:15:13 
+- 💃 [[问与答] conda 环境下怎么使用 cuda、cudnn、tf 等环境](https://www.v2ex.com/t/869014#reply4) | 2022-07-27 06:08:04 
+- 🕯 [[分享发现] Tether 和 Bitfinex 支持的一款 P2P 视频聊天工具 Keet 上线](https://www.v2ex.com/t/869013#reply0) | 2022-07-27 06:07:41 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
