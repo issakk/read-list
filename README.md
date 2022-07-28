@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[Apple] iPhone 上的 fitness+用不了](https://www.v2ex.com/t/869133#reply0) | 2022-07-28 00:23:48 
-- 🧰 [[渣打银行] 渣打港卡免存款办理名额一个](https://www.v2ex.com/t/869132#reply2) | 2022-07-28 00:14:22 
-- 🌏 [[生活] 来谈谈对于 YI 苗的一些看法，不知我的认知是否正确](https://www.v2ex.com/t/869131#reply13) | 2022-07-28 00:12:36 
-- 😎 [[问与答] v 友求助，上海徐汇区 12 号线租房推荐](https://www.v2ex.com/t/869129#reply0) | 2022-07-27 23:13:54 
-- 💂 [[ WATCH] 买蜂窝版时需要注意手机套餐结算类型](https://www.v2ex.com/t/869128#reply0) | 2022-07-27 22:08:29 
-- 🔥 [[问与答] 求 Chrome 插件：网页上批注并导出 pdf](https://www.v2ex.com/t/869127#reply2) | 2022-07-27 20:53:59 
-- 🦅 [[问与答] 如何看待「长辈爱比较」这个问题？](https://www.v2ex.com/t/869126#reply9) | 2022-07-27 19:54:23 
-- 🙉 [[Apple] iOS 上越来越多国内 app 开代理就不让用。这种情况的本质原因是什么？有无好的手段制裁这种行为](https://www.v2ex.com/t/869124#reply23) | 2022-07-27 17:37:38 
-- 💫 [[问与答] 最新闲鱼 app 没有了按信用筛选？](https://www.v2ex.com/t/869123#reply1) | 2022-07-27 17:23:44 
-- 🎓 [[NAS] 体验了 PVE 和 Unraid 有感，请大佬赐教](https://www.v2ex.com/t/869122#reply3) | 2022-07-27 17:01:06 
-- 🗽 [[微软] Windows 11 的第 n 种垃圾设计: 有大佬能帮我讲解下它的自动亮度调整逻辑吗](https://www.v2ex.com/t/869121#reply1) | 2022-07-27 16:54:53 
-- ⚗️ [[NAS] 各位大佬们 黑裙安装时提示 SATA boot support on this platform is exper imental!](https://www.v2ex.com/t/869120#reply0) | 2022-07-27 16:38:55 
-- 🦍 [[问与答] 关于下岗待业闭关是纯粹进修还是卷去读个 master？](https://www.v2ex.com/t/869119#reply3) | 2022-07-27 16:38:03 
-- 🤩 [[求职] 23 届应届前端求职（webgl 以及 react 经验相对较多](https://www.v2ex.com/t/869117#reply1) | 2022-07-27 15:51:33 
-- 🙉 [[问与答] 为什么 Linux crond 不能原生支持秒级任务？](https://www.v2ex.com/t/869116#reply3) | 2022-07-27 15:42:53 
-- 🌏 [[.NET] 有什么推荐的 C# + WPF 跨平台开发框架](https://www.v2ex.com/t/869115#reply7) | 2022-07-27 15:33:45 
-- 🐘 [[问与答] 戴眼镜的，求推荐个合适的降噪耳机](https://www.v2ex.com/t/869113#reply0) | 2022-07-27 15:26:51 
-- 🧰 [[酷工作] [深圳-南山] ONES 团队热招大量岗位，后端（Go/Node.js）、前端、测试、产品和敏捷项目经理](https://www.v2ex.com/t/869112#reply1) | 2022-07-27 15:25:22 
-- 💃 [[酷工作] [上海招聘] C++工程师、前端全栈开发](https://www.v2ex.com/t/869111#reply1) | 2022-07-27 15:18:15 
-- 🕯 [[宽带症候群] 目前搭建无需额外客户端的 HTTPS 代理有啥推荐方案的吗?](https://www.v2ex.com/t/869110#reply3) | 2022-07-27 14:58:13 <!-- v2ex:END -->
+- 🫶 [[游戏] 能在商务本上玩的有哪些不沉迷的单机游戏](https://www.v2ex.com/t/869187#reply0) | 2022-07-28 02:59:40 
+- 🧰 [[职场话题] 大家对未经你同意随意取用你办公桌上物品的同事是什么看法？](https://www.v2ex.com/t/869186#reply1) | 2022-07-28 02:58:44 
+- 🌏 [[硬件] 刚刚编译 envoy 把笔记本搞死了](https://www.v2ex.com/t/869185#reply0) | 2022-07-28 02:54:57 
+- 😎 [[分享创造] 准备了好久的开源项目功能更完善了，在这里宣传一波，然后自己准备上线运营试试，希望大家不吝指教](https://www.v2ex.com/t/869184#reply0) | 2022-07-28 02:54:07 
+- 💂 [[Apple] 有人知道 ios16 和 mac os Ventura 啥时候上线吗？](https://www.v2ex.com/t/869183#reply0) | 2022-07-28 02:53:39 
+- 🔥 [[NGINX] 想问问 nginx 大佬们 nginx 自带的 autoindex 列表有没有不使用第三方插件的优雅的排序方式？](https://www.v2ex.com/t/869182#reply1) | 2022-07-28 02:53:00 
+- 🦅 [[程序员] 阿里的轻量云发现有一个这样的 LKM 模块.](https://www.v2ex.com/t/869181#reply0) | 2022-07-28 02:52:39 
+- 🙉 [[问与答] 12700k + premiere 2021/2022 拖动时间轴游标卡顿](https://www.v2ex.com/t/869178#reply1) | 2022-07-28 02:47:50 
+- 💫 [[Spotify] 求个 spotify 菲区车~~~~~](https://www.v2ex.com/t/869177#reply2) | 2022-07-28 02:47:13 
+- 🎓 [[Minecraft] 当年神图·盘灵古域居然升级 1.19 了](https://www.v2ex.com/t/869176#reply1) | 2022-07-28 02:46:50 
+- 🗽 [[分享发现] Dropbox/Google 里面的钓鱼图片是什么意思？](https://www.v2ex.com/t/869173#reply1) | 2022-07-28 02:44:55 
+- ⚗️ [[Apple] 快捷指令如何让文本在 HomePod mini 上朗读？](https://www.v2ex.com/t/869172#reply0) | 2022-07-28 02:42:06 
+- 🦍 [[问与答] git merge 会自动修改函数参数和返回值吗？](https://www.v2ex.com/t/869171#reply1) | 2022-07-28 02:36:54 
+- 🤩 [[程序员] com.tencent.weixin 是 h5 吗？](https://www.v2ex.com/t/869170#reply0) | 2022-07-28 02:31:51 
+- 🙉 [[程序员] 今天突然发现 Logitech G HUB 自动更新了，狗东西貌似比以前好用了一点点，还支持板载宏按键了。](https://www.v2ex.com/t/869169#reply3) | 2022-07-28 02:29:36 
+- 🌏 [[Linux] centos 服务器上通常用什么观看流媒体](https://www.v2ex.com/t/869168#reply1) | 2022-07-28 02:28:01 
+- 🐘 [[问与答] 想问问 AI+WEB 安全、AI 模型安全、恶意流量检测这三个研究方向更推荐选择哪个？](https://www.v2ex.com/t/869167#reply1) | 2022-07-28 02:27:11 
+- 🧰 [[iPhone] 求推荐 iPhone 靠谱的第三方电池](https://www.v2ex.com/t/869166#reply2) | 2022-07-28 02:25:27 
+- 💃 [[问与答] 数据库或数仓有没有设计表字段的类型的最佳推荐规范，要偏实际的，而不只是纯理论](https://www.v2ex.com/t/869165#reply0) | 2022-07-28 02:18:53 
+- 🕯 [[问与答] 大佬们怎么合理避税呀](https://www.v2ex.com/t/869163#reply5) | 2022-07-28 02:12:12 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
