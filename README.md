@@ -6,26 +6,28 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[酷工作] [上海招聘] Web3 外资初创-前谷歌团队 急需 [Go+Solidity]](https://www.v2ex.com/t/869295#reply0) | 2022-07-28 10:06:57 
-- 🧰 [[问与答] 哪些情况下你会选择海淘而不选择国内电商呀？](https://www.v2ex.com/t/869292#reply0) | 2022-07-28 09:57:01 
-- 🌏 [[Android] Layout Inspector 有没有好用的替代品？](https://www.v2ex.com/t/869291#reply0) | 2022-07-28 09:56:01 
-- 😎 [[分享创造] 生活热爱者 -Vol.04：三天打鱼两天晒网与生活小确幸](https://www.v2ex.com/t/869290#reply0) | 2022-07-28 09:51:29 
-- 💂 [[问与答] 关于手机桌面应用分类方法](https://www.v2ex.com/t/869289#reply0) | 2022-07-28 09:47:30 
-- 🔥 [[iPhone] iOS 16 的共享图库在今天最新版本中仍然不可用，设备是 xr，大家有遇到的吗？](https://www.v2ex.com/t/869288#reply0) | 2022-07-28 09:46:43 
-- 🦅 [[宽带症候群] 有没有山西电信的小伙伴来试试 TR069 组网的？](https://www.v2ex.com/t/869287#reply0) | 2022-07-28 09:34:18 
-- 🙉 [[软件] 手机搜狗输入法怎么快捷输入时间戳](https://www.v2ex.com/t/869286#reply0) | 2022-07-28 09:14:36 
-- 💫 [[GitHub] Github 如何加速下载仓库最新 zip 文件？（非 release、非 git clone 地址）](https://www.v2ex.com/t/869285#reply1) | 2022-07-28 09:10:28 
-- 🎓 [[问与答] 如果用代码检测一个 EMAIL 地址真实存在？](https://www.v2ex.com/t/869283#reply7) | 2022-07-28 08:59:54 
-- 🗽 [[程序员] 求对 html 进行渲染与布局，输出元素相对位置的分析库](https://www.v2ex.com/t/869282#reply0) | 2022-07-28 08:59:04 
-- ⚗️ [[Python] 请教下关于 Python 运行 Linux 命令行下怎么方便交互](https://www.v2ex.com/t/869281#reply4) | 2022-07-28 08:56:12 
-- 🦍 [[酷工作] （深圳/杭州/北京招聘）让你有更多机会参与到 Apache 顶级开源项目 APISIX](https://www.v2ex.com/t/869280#reply2) | 2022-07-28 08:54:30 
-- 🤩 [[问与答] IO 操作密集型程序怎么优化](https://www.v2ex.com/t/869279#reply3) | 2022-07-28 08:52:02 
-- 🙉 [[程序员] Proxyman 拼车](https://www.v2ex.com/t/869278#reply0) | 2022-07-28 08:46:41 
-- 🌏 [[Surge] Surge Mac 4 五人车](https://www.v2ex.com/t/869277#reply0) | 2022-07-28 08:44:39 
-- 🐘 [[分享创造] golang 实现的多协议扫描工具 go-protocol-detector，支持 RDP、SSH、FTP、Telnet、VNC、SFTP](https://www.v2ex.com/t/869276#reply0) | 2022-07-28 08:42:42 
-- 🧰 [[生活] 一件小事，白扔了一个鼠标](https://www.v2ex.com/t/869275#reply9) | 2022-07-28 08:34:12 
-- 💃 [[Windows] 怎么查看域控 DNS 服务器上面的 dns 解析日志啊，主要查下面哪台 pc 请求的 dns 查询记录。](https://www.v2ex.com/t/869274#reply0) | 2022-07-28 08:32:26 
-- 🕯 [[Windows] ZFS on Windows &lpar;using WSL2&rpar;](https://www.v2ex.com/t/869273#reply4) | 2022-07-28 08:31:56 <!-- v2ex:END -->
+- 🫶 [[问与答] 工位系统 
+是与图形化构建引擎相关的.涉及到楼层,屋内结构,工位摆放等功能
+请教关于 cesium,unity,ue4 引擎或者有其他推荐能达到描述效果的么](https://www.v2ex.com/t/869307#reply0) | 2022-07-28 10:57:42 
+- 🧰 [[问与答] 开源协议 MIT 与商用疑问](https://www.v2ex.com/t/869306#reply0) | 2022-07-28 10:53:14 
+- 🌏 [[问与答] 人在泰国，可以做个搞个什么样的网站来躺着赚钱？](https://www.v2ex.com/t/869305#reply1) | 2022-07-28 10:51:43 
+- 😎 [[职场话题] 每日优鲜?](https://www.v2ex.com/t/869304#reply2) | 2022-07-28 10:43:10 
+- 💂 [[微信] 建立了一个微信养生的羊毛群](https://www.v2ex.com/t/869303#reply0) | 2022-07-28 10:34:06 
+- 🔥 [[Google] Google pixel 5 商家发错地址问题](https://www.v2ex.com/t/869302#reply0) | 2022-07-28 10:33:29 
+- 🦅 [[Python] Float identity](https://www.v2ex.com/t/869301#reply1) | 2022-07-28 10:29:04 
+- 🙉 [[iOS] iPhone 手机通过 OTA 或 iTunes 升级或更新到最新的 iOS 15 的的数据库重构问题？](https://www.v2ex.com/t/869300#reply1) | 2022-07-28 10:27:28 
+- 💫 [[生活] 讨论关于存钱的陷阱](https://www.v2ex.com/t/869299#reply17) | 2022-07-28 10:26:24 
+- 🎓 [[程序员] 211 本 5 成都 前端求捞～](https://www.v2ex.com/t/869298#reply5) | 2022-07-28 10:09:11 
+- 🗽 [[Apple] iPhone 有类似手机卡 puk 码的概念吗？](https://www.v2ex.com/t/869297#reply3) | 2022-07-28 10:08:38 
+- ⚗️ [[问与答] mysql 的 text 类型字段，“空”和“默认值”分别为“是”和“null”，用一条值为空的记录更新字段后，值却变成了一个空格，导致!=&quot;&quot;判断失败，请教是什么原因呢…](https://www.v2ex.com/t/869296#reply0) | 2022-07-28 10:07:47 
+- 🦍 [[酷工作] [上海招聘] Web3 外资初创-前谷歌团队 急需 [Go+Solidity]](https://www.v2ex.com/t/869295#reply0) | 2022-07-28 10:06:57 
+- 🤩 [[问与答] 哪些情况下你会选择海淘而不选择国内电商呀？](https://www.v2ex.com/t/869292#reply0) | 2022-07-28 09:57:01 
+- 🙉 [[Android] Layout Inspector 有没有好用的替代品？](https://www.v2ex.com/t/869291#reply0) | 2022-07-28 09:56:01 
+- 🌏 [[分享创造] 生活热爱者 -Vol.04：三天打鱼两天晒网与生活小确幸](https://www.v2ex.com/t/869290#reply4) | 2022-07-28 09:51:29 
+- 🐘 [[问与答] 关于手机桌面应用分类方法](https://www.v2ex.com/t/869289#reply0) | 2022-07-28 09:47:30 
+- 🧰 [[iPhone] iOS 16 的共享图库在今天最新版本中仍然不可用，设备是 xr，大家有遇到的吗？](https://www.v2ex.com/t/869288#reply0) | 2022-07-28 09:46:43 
+- 💃 [[宽带症候群] 有没有山西电信的小伙伴来试试 TR069 组网的？](https://www.v2ex.com/t/869287#reply0) | 2022-07-28 09:34:18 
+- 🕯 [[软件] 手机搜狗输入法怎么快捷输入时间戳](https://www.v2ex.com/t/869286#reply0) | 2022-07-28 09:14:36 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
