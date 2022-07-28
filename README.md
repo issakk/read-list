@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[程序员] 关于 Java 正则表达式的一个疑问](https://www.v2ex.com/t/869269#reply3) | 2022-07-28 07:53:41 
-- 🧰 [[macOS] 分享自己开发的两个 alfred 工作流&lpar;短信验证码提取/阿里机器翻译&rpar;](https://www.v2ex.com/t/869267#reply0) | 2022-07-28 07:52:00 
-- 🌏 [[问与答] 看到有人对“做出一个实物作品”感兴趣，因为我有相关经验，特开一个问答交流贴，希望能互相学习。](https://www.v2ex.com/t/869266#reply3) | 2022-07-28 07:50:46 
-- 😎 [[问与答] 求告知， macbook pro 17 款 B 面边框橡胶圈老化怎么维修最便宜](https://www.v2ex.com/t/869265#reply1) | 2022-07-28 07:49:43 
-- 💂 [[问与答] 各位大佬，求推荐半入耳式无线耳机，日常高频使用，要求有主动降噪，音质过得去。](https://www.v2ex.com/t/869264#reply1) | 2022-07-28 07:48:56 
-- 🔥 [[酷工作] Web3 招聘： Design Lead - base 杭州优先|远程 - 年薪 50-70 万](https://www.v2ex.com/t/869263#reply0) | 2022-07-28 07:48:24 
-- 🦅 [[问与答] 请问我的 IDEA 2022.2 为什么没有这个新特性](https://www.v2ex.com/t/869262#reply0) | 2022-07-28 07:48:22 
-- 🙉 [[分享发现] 一个很绕的通过程序来控制各种 shell 的办法](https://www.v2ex.com/t/869261#reply0) | 2022-07-28 07:38:09 
-- 💫 [[iPhone] IOS16Beta4 虚拟定位](https://www.v2ex.com/t/869260#reply2) | 2022-07-28 07:36:49 
-- 🎓 [[问与答] 有一个想法，关于“小城小镇”，欢迎交流讨论](https://www.v2ex.com/t/869259#reply15) | 2022-07-28 07:27:14 
-- 🗽 [[React] 如何快速知道哪个 useSelector 导致了 React 组件重渲染？](https://www.v2ex.com/t/869258#reply0) | 2022-07-28 07:26:38 
-- ⚗️ [[程序员] 有可能调用 PS 的插件做图片去水印吗？自己训练的方案现实吗？](https://www.v2ex.com/t/869257#reply1) | 2022-07-28 07:23:29 
-- 🦍 [[问与答] 迟到罚款？还要打到私人账户](https://www.v2ex.com/t/869256#reply11) | 2022-07-28 07:23:18 
-- 🤩 [[分享发现] webstorm 2022.2 已默认新版 UI](https://www.v2ex.com/t/869254#reply1) | 2022-07-28 07:20:58 
-- 🙉 [[C++] C++ Primer 9.3.6 迭代器 deque 这段是不是有点没讲清楚?](https://www.v2ex.com/t/869252#reply5) | 2022-07-28 07:19:49 
-- 🌏 [[程序员] 低代码是开发的未来吗？](https://www.v2ex.com/t/869251#reply9) | 2022-07-28 07:14:51 
-- 🐘 [[Java] 为什么 memory mapped file I/O 可能会导致 Long Time to Safepoint？](https://www.v2ex.com/t/869249#reply0) | 2022-07-28 07:12:49 
-- 🧰 [[职场话题] 有公司用 IM 用的 webex 吗？](https://www.v2ex.com/t/869247#reply3) | 2022-07-28 07:05:00 
-- 💃 [[Apple] 真心求教，大家从 iOS/iPadOS/macOS 向 macOS 进行 AirDrop 传输的时候，会卡在“等待中”很久吗](https://www.v2ex.com/t/869246#reply3) | 2022-07-28 07:04:05 
-- 🕯 [[酷工作] [网易内推] 互娱 23 届校招内推 内推码 XX3CuG](https://www.v2ex.com/t/869245#reply0) | 2022-07-28 06:59:59 <!-- v2ex:END -->
+- 🫶 [[问与答] 如果用代码检测一个 EMAIL 地址真实存在？](https://www.v2ex.com/t/869283#reply0) | 2022-07-28 08:59:54 
+- 🧰 [[程序员] 求对 html 进行渲染与布局，输出元素相对位置的分析库](https://www.v2ex.com/t/869282#reply0) | 2022-07-28 08:59:04 
+- 🌏 [[Python] 请教下关于 Python 运行 Linux 命令行下怎么方便交互](https://www.v2ex.com/t/869281#reply0) | 2022-07-28 08:56:12 
+- 😎 [[酷工作] （深圳/杭州/北京招聘）让你有更多机会参与到 Apache 顶级开源项目 APISIX](https://www.v2ex.com/t/869280#reply0) | 2022-07-28 08:54:30 
+- 💂 [[问与答] IO 操作密集型程序怎么优化](https://www.v2ex.com/t/869279#reply1) | 2022-07-28 08:52:02 
+- 🔥 [[程序员] Proxyman 拼车](https://www.v2ex.com/t/869278#reply0) | 2022-07-28 08:46:41 
+- 🦅 [[Surge] Surge Mac 4 五人车](https://www.v2ex.com/t/869277#reply0) | 2022-07-28 08:44:39 
+- 🙉 [[分享创造] golang 实现的多协议扫描工具 go-protocol-detector，支持 RDP、SSH、FTP、Telnet、VNC、SFTP](https://www.v2ex.com/t/869276#reply0) | 2022-07-28 08:42:42 
+- 💫 [[生活] 一件小事，白扔了一个鼠标](https://www.v2ex.com/t/869275#reply4) | 2022-07-28 08:34:12 
+- 🎓 [[Windows] 怎么查看域控 DNS 服务器上面的 dns 解析日志啊，主要查下面哪台 pc 请求的 dns 查询记录。](https://www.v2ex.com/t/869274#reply0) | 2022-07-28 08:32:26 
+- 🗽 [[Windows] ZFS on Windows &lpar;using WSL2&rpar;](https://www.v2ex.com/t/869273#reply1) | 2022-07-28 08:31:56 
+- ⚗️ [[程序员] 配置文件规整化](https://www.v2ex.com/t/869272#reply8) | 2022-07-28 08:21:11 
+- 🦍 [[程序员] 普通的后台开发需要掌握 docker 到什么程度？](https://www.v2ex.com/t/869271#reply4) | 2022-07-28 08:19:16 
+- 🤩 [[Nintendo Switch] switch 接口查看时长？](https://www.v2ex.com/t/869270#reply1) | 2022-07-28 08:14:04 
+- 🙉 [[程序员] 关于 Java 正则表达式的一个疑问](https://www.v2ex.com/t/869269#reply3) | 2022-07-28 07:53:41 
+- 🌏 [[macOS] 分享自己开发的两个 alfred 工作流&lpar;短信验证码提取/阿里机器翻译&rpar;](https://www.v2ex.com/t/869267#reply7) | 2022-07-28 07:52:00 
+- 🐘 [[问与答] 看到有人对“做出一个实物作品”感兴趣，因为我有相关经验，特开一个问答交流贴，希望能互相学习。](https://www.v2ex.com/t/869266#reply3) | 2022-07-28 07:50:46 
+- 🧰 [[问与答] 求告知， macbook pro 17 款 B 面边框橡胶圈老化怎么维修最便宜](https://www.v2ex.com/t/869265#reply2) | 2022-07-28 07:49:43 
+- 💃 [[问与答] 各位大佬，求推荐半入耳式无线耳机，日常高频使用，要求有主动降噪，音质过得去。](https://www.v2ex.com/t/869264#reply1) | 2022-07-28 07:48:56 
+- 🕯 [[酷工作] Web3 招聘： Design Lead - base 杭州优先|远程 - 年薪 50-70 万](https://www.v2ex.com/t/869263#reply0) | 2022-07-28 07:48:24 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
