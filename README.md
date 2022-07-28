@@ -40,12 +40,12 @@
 ## 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, ...](https://discuss-cn.bestxtools.com/d/60/1) | 2022-07-21 04:37:35 
-- 🦩 [好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, TypeLit, ...](https://discuss-cn.bestxtools.com/d/58/1) | 2022-07-13 15:49:08 
-- 🦄 [好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, ...](https://discuss-cn.bestxtools.com/d/57/1) | 2022-07-06 17:50:59 
-- 🌏 [好工具周刊（第 19 期）: Remover.app, Enpuz, regex101, Regexper, Stormah, fffuel, ...](https://discuss-cn.bestxtools.com/d/56/1) | 2022-06-29 17:05:51 
-- 🕯 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | 2022-06-22 16:28:58 
-- 📝 [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...](https://discuss-cn.bestxtools.com/d/43/1) | 2022-06-15 18:58:45 <!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, ...](https://discuss-cn.bestxtools.com/d/61/1) | 2022-07-28 03:40:04 
+- 🦩 [好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, ...](https://discuss-cn.bestxtools.com/d/60/1) | 2022-07-21 04:37:35 
+- 🦄 [好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, TypeLit, ...](https://discuss-cn.bestxtools.com/d/58/1) | 2022-07-13 15:49:08 
+- 🌏 [好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, ...](https://discuss-cn.bestxtools.com/d/57/1) | 2022-07-06 17:50:59 
+- 🕯 [好工具周刊（第 19 期）: Remover.app, Enpuz, regex101, Regexper, Stormah, fffuel, ...](https://discuss-cn.bestxtools.com/d/56/1) | 2022-06-29 17:05:51 
+- 📝 [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...](https://discuss-cn.bestxtools.com/d/47/1) | 2022-06-22 16:28:58 <!-- bestxtools:END -->
 
 
 ## learnku订阅
