@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[职场话题] 有公司用 IM 用的 webex 吗？](https://www.v2ex.com/t/869247#reply0) | 2022-07-28 07:05:00 
-- 🧰 [[Apple] 真心求教，大家从 iOS/iPadOS/macOS 向 macOS 进行 AirDrop 传输的时候，会卡在“等待中”很久吗](https://www.v2ex.com/t/869246#reply0) | 2022-07-28 07:04:05 
-- 🌏 [[酷工作] [网易内推] 互娱 23 届校招内推 内推码 XX3CuG](https://www.v2ex.com/t/869245#reply0) | 2022-07-28 06:59:59 
-- 😎 [[macOS] GoldenDict++OCR-macOS-20220728 已支持 OSX 内置词典](https://www.v2ex.com/t/869244#reply0) | 2022-07-28 06:57:43 
-- 💂 [[深圳] 有做 app 测试的同学能帮我一个忙吗？](https://www.v2ex.com/t/869243#reply0) | 2022-07-28 06:55:24 
-- 🔥 [[程序员] 做一个对程序员友好的程序员](https://www.v2ex.com/t/869242#reply3) | 2022-07-28 06:54:01 
-- 🦅 [[程序员] win 下应该安装什么杀毒/清理垃圾的软件？](https://www.v2ex.com/t/869240#reply10) | 2022-07-28 06:46:21 
-- 🙉 [[程序员] 做了一个中文区 awesome-github-profile 的项目，欢迎大家展示自己的主页](https://www.v2ex.com/t/869239#reply0) | 2022-07-28 06:46:17 
-- 💫 [[问与答] 如果想要像稚辉君一样把一个想法变成一个实物,需要有怎么样的知识储备,应该从学什么开始?](https://www.v2ex.com/t/869238#reply6) | 2022-07-28 06:39:14 
-- 🎓 [[MacBook Air] 怎么感觉 M2 macbook air 没有 M1 mac mini 流畅?](https://www.v2ex.com/t/869237#reply0) | 2022-07-28 06:38:30 
-- 🗽 [[求职] [杭州/上海] Android/Flutter 求内推](https://www.v2ex.com/t/869236#reply0) | 2022-07-28 06:36:16 
-- ⚗️ [[macOS] mac 有没有办法隐藏 docker 的微信和 qq 图标呀](https://www.v2ex.com/t/869235#reply3) | 2022-07-28 06:31:33 
-- 🦍 [[问与答] 1 分钱充流量靠谱么](https://www.v2ex.com/t/869234#reply2) | 2022-07-28 06:30:54 
-- 🤩 [[Apple] apple one 美区 超大杯找人啦](https://www.v2ex.com/t/869232#reply0) | 2022-07-28 06:19:26 
-- 🙉 [[分享创造] 也许是你喜欢的表情包「方一歪你好」分享给大家](https://www.v2ex.com/t/869231#reply3) | 2022-07-28 06:18:36 
-- 🌏 [[职场话题] 一家四口想去新加坡， offer 大概 base 多少能够呢？](https://www.v2ex.com/t/869230#reply2) | 2022-07-28 06:12:45 
-- 🐘 [[Apple] macpro 过了苹果的问题召回年限还有办法么？](https://www.v2ex.com/t/869229#reply0) | 2022-07-28 06:10:34 
-- 🧰 [[问与答] 有人知道这个 Youtuber 吗? Steven He](https://www.v2ex.com/t/869225#reply5) | 2022-07-28 05:33:26 
-- 💃 [[宽带症候群] 各位大佬现在有没有光口的吸顶 AP 啊? 有的话推荐一下吧!](https://www.v2ex.com/t/869224#reply6) | 2022-07-28 05:31:10 
-- 🕯 [[Kubernetes] Go 运维平台开发-Kubernetes 容器集群平台、容器监控二次开发、自动化运维发布平台](https://www.v2ex.com/t/869223#reply10) | 2022-07-28 05:30:32 <!-- v2ex:END -->
+- 🫶 [[程序员] 关于 Java 正则表达式的一个疑问](https://www.v2ex.com/t/869269#reply3) | 2022-07-28 07:53:41 
+- 🧰 [[macOS] 分享自己开发的两个 alfred 工作流&lpar;短信验证码提取/阿里机器翻译&rpar;](https://www.v2ex.com/t/869267#reply0) | 2022-07-28 07:52:00 
+- 🌏 [[问与答] 看到有人对“做出一个实物作品”感兴趣，因为我有相关经验，特开一个问答交流贴，希望能互相学习。](https://www.v2ex.com/t/869266#reply3) | 2022-07-28 07:50:46 
+- 😎 [[问与答] 求告知， macbook pro 17 款 B 面边框橡胶圈老化怎么维修最便宜](https://www.v2ex.com/t/869265#reply1) | 2022-07-28 07:49:43 
+- 💂 [[问与答] 各位大佬，求推荐半入耳式无线耳机，日常高频使用，要求有主动降噪，音质过得去。](https://www.v2ex.com/t/869264#reply1) | 2022-07-28 07:48:56 
+- 🔥 [[酷工作] Web3 招聘： Design Lead - base 杭州优先|远程 - 年薪 50-70 万](https://www.v2ex.com/t/869263#reply0) | 2022-07-28 07:48:24 
+- 🦅 [[问与答] 请问我的 IDEA 2022.2 为什么没有这个新特性](https://www.v2ex.com/t/869262#reply0) | 2022-07-28 07:48:22 
+- 🙉 [[分享发现] 一个很绕的通过程序来控制各种 shell 的办法](https://www.v2ex.com/t/869261#reply0) | 2022-07-28 07:38:09 
+- 💫 [[iPhone] IOS16Beta4 虚拟定位](https://www.v2ex.com/t/869260#reply2) | 2022-07-28 07:36:49 
+- 🎓 [[问与答] 有一个想法，关于“小城小镇”，欢迎交流讨论](https://www.v2ex.com/t/869259#reply15) | 2022-07-28 07:27:14 
+- 🗽 [[React] 如何快速知道哪个 useSelector 导致了 React 组件重渲染？](https://www.v2ex.com/t/869258#reply0) | 2022-07-28 07:26:38 
+- ⚗️ [[程序员] 有可能调用 PS 的插件做图片去水印吗？自己训练的方案现实吗？](https://www.v2ex.com/t/869257#reply1) | 2022-07-28 07:23:29 
+- 🦍 [[问与答] 迟到罚款？还要打到私人账户](https://www.v2ex.com/t/869256#reply11) | 2022-07-28 07:23:18 
+- 🤩 [[分享发现] webstorm 2022.2 已默认新版 UI](https://www.v2ex.com/t/869254#reply1) | 2022-07-28 07:20:58 
+- 🙉 [[C++] C++ Primer 9.3.6 迭代器 deque 这段是不是有点没讲清楚?](https://www.v2ex.com/t/869252#reply5) | 2022-07-28 07:19:49 
+- 🌏 [[程序员] 低代码是开发的未来吗？](https://www.v2ex.com/t/869251#reply9) | 2022-07-28 07:14:51 
+- 🐘 [[Java] 为什么 memory mapped file I/O 可能会导致 Long Time to Safepoint？](https://www.v2ex.com/t/869249#reply0) | 2022-07-28 07:12:49 
+- 🧰 [[职场话题] 有公司用 IM 用的 webex 吗？](https://www.v2ex.com/t/869247#reply3) | 2022-07-28 07:05:00 
+- 💃 [[Apple] 真心求教，大家从 iOS/iPadOS/macOS 向 macOS 进行 AirDrop 传输的时候，会卡在“等待中”很久吗](https://www.v2ex.com/t/869246#reply3) | 2022-07-28 07:04:05 
+- 🕯 [[酷工作] [网易内推] 互娱 23 届校招内推 内推码 XX3CuG](https://www.v2ex.com/t/869245#reply0) | 2022-07-28 06:59:59 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
