@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[宽带症候群] 广州电信家用光猫有 IPv6（240e 开头）有 ER-X ，可以暴露内网服务吗](https://www.v2ex.com/t/869492#reply0) | 2022-07-29 08:03:39 
-- 🧰 [[服务器] 如何销售在线服务器?](https://www.v2ex.com/t/869491#reply2) | 2022-07-29 08:00:42 
-- 🌏 [[互联网] 除了 V2EX ，还有哪些优质的社区值得加入？不限于编程行业](https://www.v2ex.com/t/869490#reply2) | 2022-07-29 07:54:00 
-- 😎 [[宽带症候群] 想携号转网成北京移动 有什么推荐的嘛](https://www.v2ex.com/t/869489#reply0) | 2022-07-29 07:53:24 
-- 💂 [[问与答] 周应波私募来了](https://www.v2ex.com/t/869488#reply0) | 2022-07-29 07:50:52 
-- 🔥 [[职场话题] 没有什么面试经验 恳请各位审阅一下简历](https://www.v2ex.com/t/869486#reply6) | 2022-07-29 07:49:44 
-- 🦅 [[问与答] 弱弱的问一句， mac 可以打电话吗](https://www.v2ex.com/t/869482#reply1) | 2022-07-29 07:32:35 
-- 🙉 [[程序员] 疫情被封在家](https://www.v2ex.com/t/869481#reply19) | 2022-07-29 07:31:08 
-- 💫 [[分享创造] 助力 springboot 升级 3.0，我开发了一个 JDK 的可视化版本切换根工具](https://www.v2ex.com/t/869479#reply1) | 2022-07-29 07:26:17 
-- 🎓 [[问与答] 网页通过 Microsoft print to PDF 生成的 pdf 无法复制其中的文字，有其他的打印到 pdf 插件吗？](https://www.v2ex.com/t/869476#reply3) | 2022-07-29 07:25:20 
-- 🗽 [[macOS] Mac 有必要安装杀毒安全软件吗](https://www.v2ex.com/t/869474#reply12) | 2022-07-29 07:10:09 
-- ⚗️ [[Apple] 一个 Apple ID 可以通过不同的 unidays 验证来突破购买限制嘛？](https://www.v2ex.com/t/869472#reply4) | 2022-07-29 07:05:30 
-- 🦍 [[分享创造] 为了老婆的乐队梦, 我做了一个弹钢琴的机器人](https://www.v2ex.com/t/869471#reply14) | 2022-07-29 07:04:42 
-- 🤩 [[Apple] m1/m2 air 散热问题](https://www.v2ex.com/t/869470#reply3) | 2022-07-29 07:03:03 
-- 🙉 [[问与答] 有没有用 Windows To Go 上班的](https://www.v2ex.com/t/869468#reply3) | 2022-07-29 07:00:59 
-- 🌏 [[酷工作] 「深圳」浅试一下 v 站能不能找到设计师（全职内种](https://www.v2ex.com/t/869467#reply0) | 2022-07-29 06:46:53 
-- 🐘 [[问与答] 华为新的 MatePad Pro 上带的 pc 应用引擎是啥情况，原生的 exe 还是魔改的？](https://www.v2ex.com/t/869466#reply1) | 2022-07-29 06:38:24 
-- 🧰 [[Apple] 分享一下 Apple Watch S7 保修过程](https://www.v2ex.com/t/869462#reply6) | 2022-07-29 06:03:57 
-- 💃 [[问与答] rename 命令批量重命名 如何快速的把 A 目录下的这些目录中的文件名批量加个目录名做为前缀](https://www.v2ex.com/t/869461#reply18) | 2022-07-29 05:56:30 
-- 🕯 [[宽带症候群] 宽带 ip 得有两个月没变了， 90 分钟前看似乎重连了一下，但还是原来的 IP，这种的跟公网 ip 是不是没啥区别了](https://www.v2ex.com/t/869460#reply16) | 2022-07-29 05:48:37 <!-- v2ex:END -->
+- 🫶 [[问与答] 小程序埋点上报的数据，往 mysql 存是可以的吗](https://www.v2ex.com/t/869507#reply0) | 2022-07-29 09:06:33 
+- 🧰 [[问与答] 求助有经验的 toc 产品出海的运营模式](https://www.v2ex.com/t/869505#reply0) | 2022-07-29 09:00:48 
+- 🌏 [[Microsoft Office] 还有 365 的车吗，想上个车](https://www.v2ex.com/t/869504#reply0) | 2022-07-29 08:59:52 
+- 😎 [[摄影] 理光 gr3x 到底行不行？平常出门扫街或者拍拍风景](https://www.v2ex.com/t/869502#reply2) | 2022-07-29 08:40:50 
+- 💂 [[Apple] M1 mba 屏幕镜像到 iPad 2020 总自动断开是我的问题吗](https://www.v2ex.com/t/869501#reply0) | 2022-07-29 08:37:49 
+- 🔥 [[程序员] 在外面怎么访问家里的服务器？](https://www.v2ex.com/t/869500#reply11) | 2022-07-29 08:34:23 
+- 🦅 [[Android] 现在 Android 手机有什么人气比较旺的论坛？](https://www.v2ex.com/t/869499#reply3) | 2022-07-29 08:33:14 
+- 🙉 [[NAS] 单纯玩 PT， arm 的 nas 是否最合适](https://www.v2ex.com/t/869498#reply3) | 2022-07-29 08:28:58 
+- 💫 [[程序员] vscode-go 插件真正的语法高亮](https://www.v2ex.com/t/869497#reply4) | 2022-07-29 08:26:19 
+- 🎓 [[git] git 练习， rebase 疑惑](https://www.v2ex.com/t/869494#reply1) | 2022-07-29 08:11:26 
+- 🗽 [[Java] 服务器 context-path 为 /context-path 情况下，有办法删除 path 为/ 的 cookie 吗](https://www.v2ex.com/t/869493#reply2) | 2022-07-29 08:10:18 
+- ⚗️ [[宽带症候群] 广州电信家用光猫有 IPv6（240e 开头）有 ER-X ，可以暴露内网服务吗](https://www.v2ex.com/t/869492#reply1) | 2022-07-29 08:03:39 
+- 🦍 [[服务器] 如何销售在线服务器?](https://www.v2ex.com/t/869491#reply5) | 2022-07-29 08:00:42 
+- 🤩 [[互联网] 除了 V2EX ，还有哪些优质的社区值得加入？不限于编程行业](https://www.v2ex.com/t/869490#reply7) | 2022-07-29 07:54:00 
+- 🙉 [[宽带症候群] 想携号转网成北京移动 有什么推荐的嘛](https://www.v2ex.com/t/869489#reply0) | 2022-07-29 07:53:24 
+- 🌏 [[职场话题] 没有什么面试经验 恳请各位审阅一下简历](https://www.v2ex.com/t/869486#reply10) | 2022-07-29 07:49:44 
+- 🐘 [[问与答] 弱弱的问一句， mac 可以打电话吗](https://www.v2ex.com/t/869482#reply4) | 2022-07-29 07:32:35 
+- 🧰 [[分享创造] 助力 springboot 升级 3.0，我开发了一个 JDK 的可视化版本切换根工具](https://www.v2ex.com/t/869479#reply2) | 2022-07-29 07:26:17 
+- 💃 [[问与答] 网页通过 Microsoft print to PDF 生成的 pdf 无法复制其中的文字，有其他的打印到 pdf 插件吗？](https://www.v2ex.com/t/869476#reply4) | 2022-07-29 07:25:20 
+- 🕯 [[macOS] Mac 有必要安装杀毒安全软件吗](https://www.v2ex.com/t/869474#reply12) | 2022-07-29 07:10:09 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
