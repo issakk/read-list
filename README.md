@@ -6,26 +6,26 @@
 ## v2ex
 
 <!-- v2ex:START  -->
-- 🫶 [[问与答] 有没有免费的或价格低廉的电子邮件证书可以通过 Gmail 的认证，不让它显示证书不可信， Google 帮助文档列的一长串列表也不知道哪个是免费的。](https://www.v2ex.com/t/869630#reply0) | 2022-07-30 05:11:41 
-- 🧰 [[宽带症候群] 北京联通国际出口是不是炸了](https://www.v2ex.com/t/869629#reply1) | 2022-07-30 05:03:31 
-- 🌏 [[问与答] 短信接口方面, 有没有比阿里云/腾讯云更好? 例如 梦网?](https://www.v2ex.com/t/869628#reply0) | 2022-07-30 05:01:58 
-- 😎 [[问与答] 求个支持 5G 的移动 wifi](https://www.v2ex.com/t/869627#reply2) | 2022-07-30 05:00:34 
-- 💂 [[分享发现] 司马🐲没有做语音进度条，但上线“继续播放”？](https://www.v2ex.com/t/869626#reply0) | 2022-07-30 04:51:22 
-- 🔥 [[Docker] 如何 Docker 在容器启动时执行某些脚本](https://www.v2ex.com/t/869624#reply2) | 2022-07-30 04:20:32 
-- 🦅 [[分享发现] 强制 anydesk 连接国内 relay 结点](https://www.v2ex.com/t/869623#reply4) | 2022-07-30 04:13:25 
-- 🙉 [[Google] 如何让 Chrome 只在新标签页显示书签栏 ?](https://www.v2ex.com/t/869622#reply3) | 2022-07-30 04:05:46 
-- 💫 [[问与答] 最近做 ocr 数据采集的工作 有什么好软件推荐](https://www.v2ex.com/t/869621#reply1) | 2022-07-30 03:58:52 
-- 🎓 [[全球工单系统] Rog xg349c 最让人无语的功能](https://www.v2ex.com/t/869620#reply2) | 2022-07-30 03:46:49 
-- 🗽 [[iOS] iOS 如何彻底删除 App 的数据？（已越狱）](https://www.v2ex.com/t/869619#reply4) | 2022-07-30 03:32:17 
-- ⚗️ [[问与答] 既然大伙儿都在估值域名，我也来一个 tbjd.store &lpar;淘宝京东.商城&rpar;](https://www.v2ex.com/t/869618#reply12) | 2022-07-30 03:31:38 
-- 🦍 [[问与答] 不同年份 iPad 对软件的兼容性](https://www.v2ex.com/t/869617#reply0) | 2022-07-30 03:22:28 
-- 🤩 [[MacBook Pro] MacBook Pro 14 更换电池还会顺带更换 topcase 吗？](https://www.v2ex.com/t/869614#reply1) | 2022-07-30 03:15:50 
-- 🙉 [[问与答] 网线卡扣坏了，卡在笔记本里了](https://www.v2ex.com/t/869612#reply6) | 2022-07-30 03:11:11 
-- 🌏 [[分享创造] 用 Alt+hjkl 告别方向键](https://www.v2ex.com/t/869611#reply4) | 2022-07-30 03:10:20 
-- 🐘 [[V2EX] 借助 Imgur 网络相册，在 V2EX 回复中发送图片](https://www.v2ex.com/t/869610#reply2) | 2022-07-30 03:08:20 
-- 🧰 [[问与答] 请教一下，怎么买 boxcryptor 更优惠？](https://www.v2ex.com/t/869608#reply0) | 2022-07-30 02:44:03 
-- 💃 [[问与答] buildroot 编译出来的 zImage， log 会再输出一遍，不知道在哪关闭](https://www.v2ex.com/t/869607#reply0) | 2022-07-30 02:15:49 
-- 🕯 [[Apple] 寻一个照片小组件的 App](https://www.v2ex.com/t/869606#reply5) | 2022-07-30 02:12:30 <!-- v2ex:END -->
+- 🫶 [[问与答] 万能的 v2，求南京修 mac 靠谱的店铺？](https://www.v2ex.com/t/869639#reply0) | 2022-07-30 06:05:45 
+- 🧰 [[JavaScript] 大家觉得 umijs 难用的点在哪](https://www.v2ex.com/t/869638#reply0) | 2022-07-30 06:05:20 
+- 🌏 [[程序员] 前端 javascript 如何获取视频的宽高?](https://www.v2ex.com/t/869637#reply1) | 2022-07-30 05:42:24 
+- 😎 [[问与答] 软路由进不去后台报错？不是 IP 问题](https://www.v2ex.com/t/869636#reply1) | 2022-07-30 05:39:07 
+- 💂 [[问与答] 供应链金融产品](https://www.v2ex.com/t/869635#reply0) | 2022-07-30 05:38:41 
+- 🔥 [[分享发现] 分享下印象笔记中国版迁移到 notion 的最佳方式](https://www.v2ex.com/t/869634#reply0) | 2022-07-30 05:28:58 
+- 🦅 [[生活] 为什么 youtube 视频听着听着就暂停了](https://www.v2ex.com/t/869633#reply1) | 2022-07-30 05:28:11 
+- 🙉 [[问与答] 有没有免费的或价格低廉的电子邮件证书可以通过 Gmail 的认证，不让它显示证书不可信， Google 帮助文档列的一长串列表也不知道哪个是免费的。](https://www.v2ex.com/t/869630#reply0) | 2022-07-30 05:11:41 
+- 💫 [[宽带症候群] 北京联通国际出口是不是炸了](https://www.v2ex.com/t/869629#reply2) | 2022-07-30 05:03:31 
+- 🎓 [[问与答] 短信接口方面, 有没有比阿里云/腾讯云更好? 例如 梦网?](https://www.v2ex.com/t/869628#reply0) | 2022-07-30 05:01:58 
+- 🗽 [[问与答] 求个支持 5G 的移动 wifi](https://www.v2ex.com/t/869627#reply5) | 2022-07-30 05:00:34 
+- ⚗️ [[分享发现] 司马🐲没有做语音进度条，但上线“继续播放”？](https://www.v2ex.com/t/869626#reply2) | 2022-07-30 04:51:22 
+- 🦍 [[Docker] 如何 Docker 在容器启动时执行某些脚本](https://www.v2ex.com/t/869624#reply2) | 2022-07-30 04:20:32 
+- 🤩 [[分享发现] 强制 anydesk 连接国内 relay 结点](https://www.v2ex.com/t/869623#reply4) | 2022-07-30 04:13:25 
+- 🙉 [[Google] 如何让 Chrome 只在新标签页显示书签栏 ?](https://www.v2ex.com/t/869622#reply4) | 2022-07-30 04:05:46 
+- 🌏 [[问与答] 最近做 ocr 数据采集的工作 有什么好软件推荐](https://www.v2ex.com/t/869621#reply3) | 2022-07-30 03:58:52 
+- 🐘 [[全球工单系统] Rog xg349c 最让人无语的功能](https://www.v2ex.com/t/869620#reply2) | 2022-07-30 03:46:49 
+- 🧰 [[iOS] iOS 如何彻底删除 App 的数据？（已越狱）](https://www.v2ex.com/t/869619#reply5) | 2022-07-30 03:32:17 
+- 💃 [[问与答] 既然大伙儿都在估值域名，我也来一个 tbjd.store &lpar;淘宝京东.商城&rpar;](https://www.v2ex.com/t/869618#reply16) | 2022-07-30 03:31:38 
+- 🕯 [[问与答] 不同年份 iPad 对软件的兼容性](https://www.v2ex.com/t/869617#reply0) | 2022-07-30 03:22:28 <!-- v2ex:END -->
 
 ## 阮一峰的网络日志
 
